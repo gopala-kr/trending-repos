@@ -2372,4 +2372,82 @@ From 2017
 - [Deep Voice 2: Multi-Speaker Neural Text-to-Speech](http://research.baidu.com/Blog/index-view?id=97)
 - [Learning to Speak via Interaction](http://research.baidu.com/Blog/index-view?id=96)
 - [Baidu Research Announces Next Generation Open Source Deep Learning Benchmark Tool](http://research.baidu.com/Blog/index-view?id=95)
-- [A S
+- [A Spatial-Temporal Modeling Framework for Large-scale Video Understanding](http://research.baidu.com/Blog/index-view?id=94)	
+- [Globally Normalized Reader](http://research.baidu.com/Blog/index-view?id=93)	
+- [Mixed Precision Training](http://research.baidu.com/Blog/index-view?id=92)	
+- [Deep Voice 3: 2000-Speaker Neural Text-to-Speech](http://research.baidu.com/Blog/index-view?id=91)	
+- [Deep Speech 3: Even more end-to-end speech recognition](http://research.baidu.com/Blog/index-view?id=90)	
+- [Deep Learning Scaling is Predictable, Empirically](http://research.baidu.com/Blog/index-view?id=89)	
+- [PaddlePaddle Fluid: Elastic Deep Learning on Kubernetes](http://research.baidu.com/Blog/index-view?id=87)	
+
+2018	
+
+- [Baidu Research Announces the Hiring of Three World-Renowned AI scientists](http://research.baidu.com/Blog/index-view?id=86)	
+- [Baidu Research Showcased at Top Artificial Intelligence Conferences](http://research.baidu.com/Blog/index-view?id=85)	
+- [Neural Voice Cloning with a Few Samples](http://research.baidu.com/Blog/index-view?id=81)	
+- [MLPerf: A New Benchmark for Deep Learning Models](http://research.baidu.com/Blog/index-view?id=100)	
+- [Language Acquisition and One-Shot Concept Learning Through Conversational Interactions](http://research.baidu.com/Blog/index-view?id=102)	
+- [Experimental Evaluation of Mixed Precision Training for End to End Applications](http://research.baidu.com/Blog/index-view?id=103)	
+- [Using Deep Learning to Help Pathologists Find Tumors](http://research.baidu.com/Blog/index-view?id=104)	
+- [The Association for Computational Linguistics Appoints Baidu’s Haifeng Wang as the Founding Chair of the Newly Launched Asia-Pacific Chapter](http://research.baidu.com/Blog/index-view?id=105)	
+- [ClariNet: Parallel Wave Generation in End-to-End Text-to-Speech](http://research.baidu.com/Blog/index-view?id=106)	
+- [Baidu Research Announces Breakthrough in Simultaneous Translation](http://research.baidu.com/Blog/index-view?id=107)	
+
+------------	------------
+BAIR	BAIR
+
+[Back to top](#contents)	[Back to top](#contents)
+
+From Jun 2017	
+
+- [Introducing the BAIR Blog](https://bair.berkeley.edu/blog/2017/06/20/welcome/)	
+- [Constrained Policy Optimization](https://bair.berkeley.edu/blog/2017/07/06/cpo/)	
+- [The Confluence of Geometry and Learning](https://bair.berkeley.edu/blog/2017/07/11/confluence-of-geometry-and-learning/)	
+- [Learning to Learn](https://bair.berkeley.edu/blog/2017/07/18/learning-to-learn/)	
+- [Minibatch Metropolis-Hastings](https://bair.berkeley.edu/blog/2017/08/02/minibatch-metropolis-hastings/)	
+- [Captioning Novel Objects in Images](https://bair.berkeley.edu/blog/2017/08/08/novel-object-captioning/)	
+- [Releasing the Dexterity Network (Dex-Net) 2.0 Dataset for Deep Grasping](https://bair.berkeley.edu/blog/2017/06/27/dexnet-2.0/)	
+- [Model-based Reinforcement Learning with Neural Network Dynamics](https://bair.berkeley.edu/blog/2017/11/30/model-based-rl/)	
+- [Drilling Down on Depth Sensing and Deep Learning](https://bair.berkeley.edu/blog/2017/11/09/learn-to-attend-fovea/)	
+- [DART: Noise Injection for Robust Imitation Learning](https://bair.berkeley.edu/blog/2017/10/26/dart/)	
+- [Learning to Reason with Neural Module Networks](https://bair.berkeley.edu/blog/2017/06/20/learning-to-reason-with-neural-module-networks/)	
+- [Learning Long Duration Sequential Task Structure From Demonstrations with Application in Surgical Robotics](https://bair.berkeley.edu/blog/2017/10/17/lfd-surgical-robots/)	
+- [Learning Diverse Skills via Maximum Entropy Deep Reinforcement Learning](https://bair.berkeley.edu/blog/2017/10/06/soft-q-learning/)
+- [Learning to Optimize with Reinforcement Learning](https://bair.berkeley.edu/blog/2017/09/12/learning-to-optimize-with-rl/)	
+- [Learning a Multi-View Stereo Machine](https://bair.berkeley.edu/blog/2017/09/05/unified-3d/)	
+- [How to Escape Saddle Points Efficiently](https://bair.berkeley.edu/blog/2017/08/31/saddle-efficiency/)	
+- [High Quality 3D Object Reconstruction from a Single Color Image](https://bair.berkeley.edu/blog/2017/08/23/high-quality-3d-obj-reconstruction/)	
+- [Cooperatively Learning Human Values](https://bair.berkeley.edu/blog/2017/08/17/cooperatively-learning-human-values/)	
+- [FaSTrack: Ensuring Safe Real-Time Navigation of Dynamic Systems](https://bair.berkeley.edu/blog/2017/12/05/fastrack/)	
+- [Towards Intelligent Industrial Co-robots](https://bair.berkeley.edu/blog/2017/12/12/corobots/)	
+- [Reverse Curriculum Generation for Reinforcement Learning Agents](https://bair.berkeley.edu/blog/2017/12/20/reverse-curriculum/)	
+- [Physical Adversarial Examples Against Deep Neural Networks](https://bair.berkeley.edu/blog/2017/12/30/yolo-attack/)	
+
+2018	
+
+- [Ray: A Distributed System for AI](https://bair.berkeley.edu/blog/2018/01/09/ray/)	
+- [Kernel Feature Selection via Conditional Covariance Minimization](https://bair.berkeley.edu/blog/2018/01/23/kernels/)	
+- [Learning Robot Objectives from Physical Human Interaction](https://bair.berkeley.edu/blog/2018/02/06/phri/)	
+- [Transfer Your Font Style with GANs](https://bair.berkeley.edu/blog/2018/03/13/mcgan/)	
+- [Towards a Virtual Stuntman](https://bair.berkeley.edu/blog/2018/04/10/virtual-stuntman/)	
+- [Shared Autonomy via Deep Reinforcement Learning](https://bair.berkeley.edu/blog/2018/04/18/shared-autonomy/)	
+- [TDM: From Model-Free to Model-Based Deep Reinforcement Learning](https://bair.berkeley.edu/blog/2018/04/26/tdm/)	
+- [Delayed Impact of Fair Machine Learning](https://bair.berkeley.edu/blog/2018/05/17/delayed-impact/)	
+- [BDD100K: A Large-scale Diverse Driving Video Database](https://bair.berkeley.edu/blog/2018/05/30/bdd/)	
+- [BDD100K Blog Update](https://bair.berkeley.edu/blog/2018/06/18/bdd-update/)	
+- [One-Shot Imitation from Watching Videos](https://bair.berkeley.edu/blog/2018/06/28/daml/)	
+- [When Recurrent Models Don't Need to be Recurrent](https://bair.berkeley.edu/blog/2018/08/06/recurrent/)	
+- [Dexterous Manipulation with Reinforcement Learning: Efficient, General, and Low-Cost](https://bair.berkeley.edu/blog/2018/08/31/dexterous-manip/)	
+- [Visual Reinforcement Learning with Imagined Goals](https://bair.berkeley.edu/blog/2018/09/06/rig/)	
+- [Learning Acrobatics by Watching YouTube](https://bair.berkeley.edu/blog/2018/10/09/sfv/)	
+- [Drilling Down on Depth Sensing and Deep Learning](https://bair.berkeley.edu/blog/2018/10/23/depth-sensing/)	
+
+-----------------------------
+
+[Back to top](#contents)	
+
+![Matt_Turck_FirstMark_Big_Data_Landscape_2018_Final](http://mattturck.com/wp-content/uploads/2018/07/Matt_Turck_FirstMark_Big_Data_Landscape_2018_Final.png)	
+
+------------	------------
+**Maintainer**	**Maintainer**
+Gopala KR  / @gopala-kr
