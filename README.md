@@ -2393,10 +2393,12 @@ From 2017
 - [ClariNet: Parallel Wave Generation in End-to-End Text-to-Speech](http://research.baidu.com/Blog/index-view?id=106)	
 - [Baidu Research Announces Breakthrough in Simultaneous Translation](http://research.baidu.com/Blog/index-view?id=107)	
 
-------------	------------
-BAIR	BAIR
+------------	
 
-[Back to top](#contents)	[Back to top](#contents)
+BAIR	
+
+
+[Back to top](#contents)	
 
 From Jun 2017	
 
@@ -2448,6 +2450,8 @@ From Jun 2017
 
 ![Matt_Turck_FirstMark_Big_Data_Landscape_2018_Final](http://mattturck.com/wp-content/uploads/2018/07/Matt_Turck_FirstMark_Big_Data_Landscape_2018_Final.png)	
 
-------------	------------
-**Maintainer**	**Maintainer**
+------------	
+
+**Maintainer**	
+
 Gopala KR  / @gopala-kr
