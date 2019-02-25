@@ -498,7 +498,35 @@ Feb - 2019
 - [The technology behind OpenAI’s fiction-writing, fake-news-spewing AI, explained](https://www.technologyreview.com/s/612975/ai-natural-language-processing-explained/)
 - [The first privately funded trip to the moon is about to launch](https://www.technologyreview.com/s/612987/the-first-privately-funded-trip-to-the-moon-is-about-to-launch/)
 - [AI is reinventing the way we invent](https://www.technologyreview.com/s/612898/ai-is-reinventing-the-way-we-invent/)
-
+- [chatbots-of-today-and-tomorrow](https://www.inbenta.com/en/blog/chatbots-of-today-and-tomorrow/)
+- [ai-nlp-research-pretrained-language-models](https://www.topbots.com/ai-nlp-research-pretrained-language-models/)
+- [ai-nlp-research-neural-machine-translation](https://www.topbots.com/ai-nlp-research-neural-machine-translation/)
+- [most-important-ai-reinforcement-learning-research](https://www.topbots.com/most-important-ai-reinforcement-learning-research/)
+- [Top 100 AI Leaders in Drug Discovery & Advanced Healthcare](https://www.linkedin.com/pulse/top-100-ai-leaders-drug-discovery-advanced-healthcare-colangelo/)
+- [Here's why Indian companies are betting big on AI](https://www.aimlmarketplace.com/read-ai-ml-blogs/here-s-why-indian-companies-are-betting-big-on-ai)
+- [Where AI is headed next--By Analyzed 16,625 papers to figure out](https://www.aimlmarketplace.com/read-ai-ml-blogs/where-ai-is-headed-next-by-analyzed-16-625-papers-to-figure-out)
+- [The Rise of the Robot Reporter](https://www.nytimes.com/2019/02/05/business/media/artificial-intelligence-journalism-robots.html?utm_campaign=Artificial%2BIntelligence%2BWeekly&utm_medium=web&utm_source=Artificial_Intelligence_Weekly_98)
+- [Getting smart about the future of AI](https://www.technologyreview.com/s/612972/getting-smart-about-the-future-of-ai/?utm_campaign=Artificial%2BIntelligence%2BWeekly&utm_medium=web&utm_source=Artificial_Intelligence_Weekly_98)
+- [List of Machine Learning / Deep Learning conferences in 2019](https://tryolabs.com/blog/machine-learning-deep-learning-conferences/?utm_campaign=Artificial%2BIntelligence%2BWeekly&utm_medium=web&utm_source=Artificial_Intelligence_Weekly_98)
+- [Perspectives on Issues
+in AI Governance](https://ai.google/static/documents/perspectives-on-issues-in-ai-governance.pdf?utm_campaign=Artificial%2BIntelligence%2BWeekly&utm_medium=web&utm_source=Artificial_Intelligence_Weekly_98)
+- [Troubleshooting Deep Neural Networks](http://josh-tobin.com/troubleshooting-deep-neural-networks?utm_campaign=Artificial%2BIntelligence%2BWeekly&utm_medium=web&utm_source=Artificial_Intelligence_Weekly_98)
+- [Edge TPU Devices](https://aiyprojects.withgoogle.com/edge-tpu?utm_campaign=Artificial%2BIntelligence%2BWeekly&utm_medium=web&utm_source=Artificial_Intelligence_Weekly_98)
+- [Facebook is Working on Its Own Custom AI Silicon](https://www.extremetech.com/computing/285980-facebook-is-working-on-its-own-custom-ai-silicon?utm_campaign=Artificial%2BIntelligence%2BWeekly&utm_medium=web&utm_source=Artificial_Intelligence_Weekly_98)
+- [Succeeding as a data scientist in small companies/startups](https://towardsdatascience.com/succeeding-as-a-data-scientist-in-small-companies-startups-92f59e22bd8c)
+- [will-ai-achieve-consciousness-wrong-question?](https://www.wired.com/story/will-ai-achieve-consciousness-wrong-question/?utm_campaign=Artificial%2BIntelligence%2BWeekly&utm_medium=web&utm_source=Artificial_Intelligence_Weekly_98)
+- [Government Plans to Issue Technical Standards For Artificial Intelligence Technologies](http://aitechnologylaw.com/2019/02/government-plans-to-issue-technical-standards-governing-artificial-intelligence-technologies/)
+- [AI Safety Needs Social Scientists](https://distill.pub/2019/safety-needs-social-scientists/) :star:
+- [AAAI 2019 Highlights: Dialogue, reproducibility, and more](http://ruder.io/aaai-2019-highlights/)
+- [The 4 Biggest Open Problems in NLP](http://ruder.io/4-biggest-open-problems-in-nlp/)
+- [Causal Inference 2: Illustrating Interventions via a Toy Example](https://www.inference.vc/causal-inference-2-illustrating-interventions-in-a-toy-example/)
+- [Causal Inference 3: Counterfactuals](https://www.inference.vc/causal-inference-3-counterfactuals/)
+- [DeepSets: Modeling Permutation Invariance](https://www.inference.vc/deepsets-modeling-permutation-invariance/)
+- [The technical, societal, and cultural challenges that come with the rise of fake media](https://www.oreilly.com/ideas/the-technical-societal-and-cultural-challenges-that-come-with-the-rise-of-fake-media)
+- [Overcoming barriers to AI adoption](https://www.oreilly.com/ideas/overcoming-barriers-to-ai-adoption)
+- []()
+- []()
+- []()
 
 ---------------
 
