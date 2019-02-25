@@ -533,6 +533,24 @@ in AI Governance](https://ai.google/static/documents/perspectives-on-issues-in-a
 - [China’s Foundry Biz Takes Big Leap Forward](https://semiengineering.com/chinas-foundry-biz-takes-big-leap/)
 - [Using Sensor Data To Improve Yield And Uptime](https://semiengineering.com/using-sensor-data-to-improve-chip-manufacturing-and-yield/)
 - [Making an interactive UMAP visualization of the MNIST data set](https://blog.fastforwardlabs.com/2019/01/29/making-an-interactive-umap-visualization-of-the-mnist-data-set.html)
+- [Giving Neural Nets an Innate Brain-Like Structure Could Bolster Deep Learning](https://singularityhub.com/2019/02/19/giving-neural-nets-an-innate-brain-like-structure-could-bolster-deep-learning/#sm.001taednb1ck7f4x104v67vv2n859)
+- [What Games Are Humans Still Better at Than AI?](https://singularityhub.com/2019/02/10/what-games-are-humans-still-better-at-than-ai/#sm.001taednb1ck7f4x104v67vv2n859)
+- [Securing machine learning models against adversarial attacks](https://medium.com/element-ai-research-lab/securing-machine-learning-models-against-adversarial-attacks-b6cd5d2be8e2)
+- [6 Ways Machine Learning Is Revolutionizing Manufacturing In 2019](https://rapidminer.com/blog/6-ways-machine-learning-revolutionizing-manufacturing/)
+- [The Evolution of AI From Practical and Scalable to Responsible](https://blog.cognitivescale.com/the-evolution-of-ai-from-practical-and-scalable-to-responsible)
+- [Huawei and Heavy Reading Release White Paper for 5G Core Network Migration](https://www.huawei.com/en/press-events/news/2019/2/huawei-5g-core-network-migration-white-paper)
+- [Interactive Big Data Exploration and Visualization or...where have all the cabs gone?](https://www.knime.com/blog/interactive-big-data-exploration-and-visualization)
+- [KNIME and Jupyter](https://www.knime.com/blog/knime-and-jupyter)
+- [Understanding Why MATLAB Is Best Suited For Deep Learning](https://www.analyticsindiamag.com/understanding-why-matlab-is-best-suited-for-deep-learning/)
+- [Inside the AI developer’s toolbox](https://www.computerweekly.com/feature/Inside-the-AI-developers-toolbox)
+- [The ‘Big Bang’ of Data Science and ML Tools](https://www.datanami.com/2019/02/08/the-big-bang-of-data-science-and-ml-tools/)
+- [Artificial intelligence trends and predictions for 2019](http://digital.vision-systems.com/visionsystems/201902/MobilePagedReplica.action?pm=1&folio=Cover#pg1)
+- [Connecting the Thread: 5G](https://www.digitalengineering247.com/article/connecting-the-thread-5g)
+- [What’s Changed: 2019 Gartner Magic Quadrant for Data Science and Machine Learning Platforms](https://solutionsreview.com/business-intelligence/whats-changed-2019-gartner-magic-quadrant-for-data-science-and-machine-learning-platforms/)
+- [These 50 Start-Ups May Be the Next ‘Unicorns’](https://www.nytimes.com/2019/02/10/technology/these-50-start-ups-may-be-the-next-unicorns.html)
+- [a-data-scientists-relationship-with-building-predictive-models](https://dataconomy.com/2019/02/a-data-scientists-relationship-with-building-predictive-models/)
+- [Shaping the future of mobile with Android](https://blog.google/products/android/shaping-future-mobile-android/)
+- [What Lessons Can Apollo 13 Teach Us About Analytics?](https://www.teradata.in/Blogs/What-Lessons-Can-Apollo-13-Teach-us-About-Analytic)
 
 ---------------
 
@@ -570,6 +588,9 @@ Jan - 2019
 - [How Uber Beacon Helps Improve Safety for Riders and Drivers](https://eng.uber.com/uber-beacon/)
 - [The Cost of Self-Driving Cars Will Be the Biggest Barrier to Their Adoption](https://hbr.org/2019/01/the-cost-of-self-driving-cars-will-be-the-biggest-barrier-to-their-adoption)
 - [The Future of AI Will Be About Less Data, Not More](https://hbr.org/2019/01/the-future-of-ai-will-be-about-less-data-not-more)
+- [Cloudera and Hortonworks Complete Planned Merger](https://www.cloudera.com/about/news-and-blogs/press-releases/2019-01-03-cloudera-and-hortonworks-complete-planned-merger.html)
+- [A Cambrian Explosion In Deep Learning, Part 2: The Startups](https://www.forbes.com/sites/moorinsights/2019/01/24/a-cambrian-explosion-in-deep-learning-part-2-the-startups/#44a235667840)
+- [MIPS Joins RISC-V as Second Open Source Alternative to Arm](https://www.datacenterknowledge.com/hardware/mips-joins-risc-v-second-open-source-alternative-arm)
 
 --------------
 12/28
