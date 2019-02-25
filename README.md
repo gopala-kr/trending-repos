@@ -524,9 +524,15 @@ in AI Governance](https://ai.google/static/documents/perspectives-on-issues-in-a
 - [DeepSets: Modeling Permutation Invariance](https://www.inference.vc/deepsets-modeling-permutation-invariance/)
 - [The technical, societal, and cultural challenges that come with the rise of fake media](https://www.oreilly.com/ideas/the-technical-societal-and-cultural-challenges-that-come-with-the-rise-of-fake-media)
 - [Overcoming barriers to AI adoption](https://www.oreilly.com/ideas/overcoming-barriers-to-ai-adoption)
-- []()
-- []()
-- []()
+- [VQA Challenge 2019 launched!](https://visualqa.org/)
+- [What’s The Right Path For Scaling?](https://semiengineering.com/whats-the-right-path-for-scaling/)
+- [Power Issues Rising For New Applications](https://semiengineering.com/power-issues-rising-for-new-applications/)
+- [Chasing Reliability In Automotive Electronics](https://semiengineering.com/chasing-reliability-in-automotive-electronics/)
+- [Variation Issues Grow Wider And Deeper](https://semiengineering.com/variation-issues-grow-wider-and-deeper/)
+- [In-Memory Computing Challenges Come Into Focus](https://semiengineering.com/challenges-emerge-for-in-memory-computing/)
+- [China’s Foundry Biz Takes Big Leap Forward](https://semiengineering.com/chinas-foundry-biz-takes-big-leap/)
+- [Using Sensor Data To Improve Yield And Uptime](https://semiengineering.com/using-sensor-data-to-improve-chip-manufacturing-and-yield/)
+- [Making an interactive UMAP visualization of the MNIST data set](https://blog.fastforwardlabs.com/2019/01/29/making-an-interactive-umap-visualization-of-the-mnist-data-set.html)
 
 ---------------
 
