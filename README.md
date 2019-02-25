@@ -551,6 +551,9 @@ in AI Governance](https://ai.google/static/documents/perspectives-on-issues-in-a
 - [a-data-scientists-relationship-with-building-predictive-models](https://dataconomy.com/2019/02/a-data-scientists-relationship-with-building-predictive-models/)
 - [Shaping the future of mobile with Android](https://blog.google/products/android/shaping-future-mobile-android/)
 - [What Lessons Can Apollo 13 Teach Us About Analytics?](https://www.teradata.in/Blogs/What-Lessons-Can-Apollo-13-Teach-us-About-Analytic)
+- [Pictionary-Playing AI Sketches the Future of Human-Machine Collaborations](https://spectrum.ieee.org/tech-talk/robotics/artificial-intelligence/pictionary-playing-ai-sketches-the-future-of-human-machine-collaborations)
+- [how-machine-learning-is-crafting-precision-medicine](https://www.forbes.com/sites/insights-intelai/2019/02/11/how-machine-learning-is-crafting-precision-medicine/#3007fc995941)
+- [We Run the World’s Machine Learning. Literally.](https://blog.algorithmia.com/we-run-the-worlds-machine-learning-literally/)
 
 ---------------
 
@@ -591,6 +594,8 @@ Jan - 2019
 - [Cloudera and Hortonworks Complete Planned Merger](https://www.cloudera.com/about/news-and-blogs/press-releases/2019-01-03-cloudera-and-hortonworks-complete-planned-merger.html)
 - [A Cambrian Explosion In Deep Learning, Part 2: The Startups](https://www.forbes.com/sites/moorinsights/2019/01/24/a-cambrian-explosion-in-deep-learning-part-2-the-startups/#44a235667840)
 - [MIPS Joins RISC-V as Second Open Source Alternative to Arm](https://www.datacenterknowledge.com/hardware/mips-joins-risc-v-second-open-source-alternative-arm)
+- [AI-Powered Solutions for Industries](https://www.faceplusplus.com/blog/article/ai-powered-solutions-for-industries/)
+- [AutoML: Automating the design of machine learning models for autonomous driving](https://medium.com/waymo/automl-automating-the-design-of-machine-learning-models-for-autonomous-driving-141a5583ec2a)
 
 --------------
 12/28
