@@ -557,6 +557,9 @@ in AI Governance](https://ai.google/static/documents/perspectives-on-issues-in-a
 - [India's Reliance Jio Could Lose $2.1 Billion This Fiscal Year: Bernstein](https://www.bloomberg.com/news/articles/2019-02-26/india-s-most-profitable-telco-may-be-losing-money-bernstein?srnd=technology-vp)
 - [waymo-cto-on-the-companys-past-present-and-what-comes-next](https://techcrunch.com/2019/02/08/waymo-cto-on-the-companys-past-present-and-what-comes-next/)
 - [Don’t Fight the Robots. Tax Them.](https://www.nytimes.com/2019/02/23/sunday-review/tax-artificial-intelligence.html)
+- [Seven Myths in Machine Learning Research](https://crazyoscarchang.github.io/2019/02/16/seven-myths-in-machine-learning-research/)
+- [7 Practical Facts about the Human Brain I wish Everyone Knew](https://leowid.com/brain-facts/)
+- [India plans 5G auction in June as market starts to stabilize](https://rethinkresearch.biz/articles/india-plans-5g-auction-in-june-as-market-starts-to-stabilize/)
 
 ---------------
 
