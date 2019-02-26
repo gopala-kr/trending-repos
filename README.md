@@ -1978,6 +1978,8 @@ A sequence of Jupyter notebooks featuring the "12 Steps to Navier-Stokes" http:/
 - [personal-website](https://github.com/github/personal-website)
 - [hacker-news-undocumented](https://github.com/minimaxir/hacker-news-undocumented) - Some of the hidden norms about Hacker News not otherwise covered in the Guidelines and the FAQ.
 - [libphonenumber](https://github.com/googlei18n/libphonenumber) - Google's common Java, C++ and JavaScript library for parsing, formatting, and validating international phone numbers.
+- [subsync](https://github.com/smacke/subsync) - Automagically synchronize subtitles with video.
+
 -----------
 
 #### AI Residency
