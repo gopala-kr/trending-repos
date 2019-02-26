@@ -554,6 +554,9 @@ in AI Governance](https://ai.google/static/documents/perspectives-on-issues-in-a
 - [Pictionary-Playing AI Sketches the Future of Human-Machine Collaborations](https://spectrum.ieee.org/tech-talk/robotics/artificial-intelligence/pictionary-playing-ai-sketches-the-future-of-human-machine-collaborations)
 - [how-machine-learning-is-crafting-precision-medicine](https://www.forbes.com/sites/insights-intelai/2019/02/11/how-machine-learning-is-crafting-precision-medicine/#3007fc995941)
 - [We Run the World’s Machine Learning. Literally.](https://blog.algorithmia.com/we-run-the-worlds-machine-learning-literally/)
+- [India's Reliance Jio Could Lose $2.1 Billion This Fiscal Year: Bernstein](https://www.bloomberg.com/news/articles/2019-02-26/india-s-most-profitable-telco-may-be-losing-money-bernstein?srnd=technology-vp)
+- [waymo-cto-on-the-companys-past-present-and-what-comes-next](https://techcrunch.com/2019/02/08/waymo-cto-on-the-companys-past-present-and-what-comes-next/)
+- [Don’t Fight the Robots. Tax Them.](https://www.nytimes.com/2019/02/23/sunday-review/tax-artificial-intelligence.html)
 
 ---------------
 
