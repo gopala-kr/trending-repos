@@ -1538,6 +1538,7 @@ and Able? ](https://www.parliament.uk/documents/lords-committees/Artificial-Inte
  
  [Back to top](#contents)
  
+- [spark-syntax](https://github.com/ericxiao251/spark-syntax)  - This is an open repo of all the best practices of writing PySpark that I have learnt from working with the Framework.
 - [stylegan-encoder](https://github.com/Puzer/stylegan-encoder) - StyleGAN Encoder - converts real images to latent space
 - [deepmind/neural-processes](https://github.com/deepmind/neural-processes) - The Neural Process Family
 - [tensorflow/lingvo](https://github.com/tensorflow/lingvo) - Lingvo is a framework for building neural networks in Tensorflow, particularly sequence models. 
