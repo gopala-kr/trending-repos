@@ -1537,7 +1537,8 @@ and Able? ](https://www.parliament.uk/documents/lords-committees/Artificial-Inte
  ###### Latest
  
  [Back to top](#contents)
- 
+
+- [AdaBound](https://github.com/Luolc/AdaBound) - An optimizer that trains as fast as Adam and as good as SGD.
 - [DLSchool/dlschool](https://github.com/DLSchool/dlschool) - The official repository of the Deep Learning Course (2018-2019) from the Deep Learning School at FPMI MIPT
 - [spark-syntax](https://github.com/ericxiao251/spark-syntax)  - This is an open repo of all the best practices of writing PySpark that I have learnt from working with the Framework.
 - [stylegan-encoder](https://github.com/Puzer/stylegan-encoder) - StyleGAN Encoder - converts real images to latent space
@@ -1984,6 +1985,7 @@ A sequence of Jupyter notebooks featuring the "12 Steps to Navier-Stokes" http:/
 - [hacker-news-undocumented](https://github.com/minimaxir/hacker-news-undocumented) - Some of the hidden norms about Hacker News not otherwise covered in the Guidelines and the FAQ.
 - [libphonenumber](https://github.com/googlei18n/libphonenumber) - Google's common Java, C++ and JavaScript library for parsing, formatting, and validating international phone numbers.
 - [subsync](https://github.com/smacke/subsync) - Automagically synchronize subtitles with video.
+- [Microsoft/frontend-bootcamp](https://github.com/Microsoft/frontend-bootcamp) - Frontend Workshop from HTML/CSS/JS to TypeScript/React/Redux
 
 -----------
 
