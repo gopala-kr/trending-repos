@@ -1538,6 +1538,7 @@ and Able? ](https://www.parliament.uk/documents/lords-committees/Artificial-Inte
  
  [Back to top](#contents)
 
+- [wassdistance](https://github.com/dfdazac/wassdistance) - Approximating Wasserstein distances with PyTorch
 - [AdaBound](https://github.com/Luolc/AdaBound) - An optimizer that trains as fast as Adam and as good as SGD.
 - [DLSchool/dlschool](https://github.com/DLSchool/dlschool) - The official repository of the Deep Learning Course (2018-2019) from the Deep Learning School at FPMI MIPT
 - [spark-syntax](https://github.com/ericxiao251/spark-syntax)  - This is an open repo of all the best practices of writing PySpark that I have learnt from working with the Framework.
