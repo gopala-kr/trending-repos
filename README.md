@@ -1550,6 +1550,7 @@ and Able? ](https://www.parliament.uk/documents/lords-committees/Artificial-Inte
  
  [Back to top](#contents)
 
+- [lazynlp](https://github.com/chiphuyen/lazynlp) - Library to scrape and clean web pages to create massive datasets.
 - [wassdistance](https://github.com/dfdazac/wassdistance) - Approximating Wasserstein distances with PyTorch
 - [AdaBound](https://github.com/Luolc/AdaBound) - An optimizer that trains as fast as Adam and as good as SGD.
 - [DLSchool/dlschool](https://github.com/DLSchool/dlschool) - The official repository of the Deep Learning Course (2018-2019) from the Deep Learning School at FPMI MIPT
