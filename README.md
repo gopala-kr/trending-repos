@@ -437,6 +437,16 @@
 
 ----------------
 
+March - 2019
+
+- [Neural MMO — A Massively Multiagent Game Environment](https://blog.openai.com/neural-mmo/)
+- [Introducing GPipe, an Open Source Library for Efficiently Training Large-scale Neural Network Models](https://ai.googleblog.com/2019/03/introducing-gpipe-open-source-library.html)
+- [A Conversation about Tech Ethics with the New York Times Chief Data Scientist](https://www.fast.ai/2019/03/04/ethics-framework/)
+- [Introducing Ludwig, a Code-Free Deep Learning Toolbox](https://eng.uber.com/introducing-ludwig/)
+- [Baidu Teams up with Academia, awarding Grand Prizes for Breakthroughs in the ICDAR 2019 Competitions](http://research.baidu.com/Blog/index-view?id=110)
+- [Measuring Lesion Geometry with AI](http://research.baidu.com/Blog/index-view?id=111)
+
+--------------------
 Feb - 2019
 
 - [Real-time Continuous Transcription with Live Transcribe](https://ai.googleblog.com/2019/02/real-time-continuous-transcription-with.html)
@@ -560,6 +570,8 @@ in AI Governance](https://ai.google/static/documents/perspectives-on-issues-in-a
 - [Seven Myths in Machine Learning Research](https://crazyoscarchang.github.io/2019/02/16/seven-myths-in-machine-learning-research/)
 - [7 Practical Facts about the Human Brain I wish Everyone Knew](https://leowid.com/brain-facts/)
 - [India plans 5G auction in June as market starts to stabilize](https://rethinkresearch.biz/articles/india-plans-5g-auction-in-june-as-market-starts-to-stabilize/)
+- [Machine learning can boost the value of wind energy](https://deepmind.com/blog/machine-learning-can-boost-value-wind-energy/)
+- [Long-Range Robotic Navigation via Automated Reinforcement Learning](https://ai.googleblog.com/2019/02/long-range-robotic-navigation-via.html)
 
 ---------------
 
