@@ -348,6 +348,8 @@
 | [nanowerk](https://www.nanowerk.com/)
 | [sustainable-nano](http://sustainable-nano.com/)
 | [foresight](https://foresight.org/nanodot-blog/)
+| [electronicsforu](https://electronicsforu.com/)
+| [opensourceforu](https://opensourceforu.com/)
 ||
 
 ||
@@ -445,6 +447,11 @@ March - 2019
 - [Introducing Ludwig, a Code-Free Deep Learning Toolbox](https://eng.uber.com/introducing-ludwig/)
 - [Baidu Teams up with Academia, awarding Grand Prizes for Breakthroughs in the ICDAR 2019 Competitions](http://research.baidu.com/Blog/index-view?id=110)
 - [Measuring Lesion Geometry with AI](http://research.baidu.com/Blog/index-view?id=111)
+- [5G’s Potential, and Why Businesses Should Start Preparing for It](https://hbr.org/2019/03/5gs-potential-and-why-businesses-should-start-preparing-for-it)
+- [How Will We Prevent AI-Based Forgery?](https://hbr.org/2019/03/how-will-we-prevent-ai-based-forgery)
+- [Computing the future](http://news.mit.edu/2019/computing-the-future-mit-turing-award-panel-0305)
+- [Solve launches 2019 global challenges](http://news.mit.edu/2019/mit-solve-launches-new-global-challenges-0304)
+- [Addressing the promises and challenges of AI](http://news.mit.edu/2019/addressing-promises-challenges-artificial-intelligence-0301)
 
 --------------------
 Feb - 2019
