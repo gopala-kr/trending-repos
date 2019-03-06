@@ -1557,6 +1557,13 @@ and Able? ](https://www.parliament.uk/documents/lords-committees/Artificial-Inte
  
  [Back to top](#contents)
 
+- [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra)
+- [modeleval](https://github.com/tqi2/modeleval) - A simple tool for generating useful evaluation metrics and plots for machine learning models
+- [one-network-many-uses](https://github.com/paraschopra/one-network-many-uses) - Four-in-one deep network: image search, image captioning, similar words and similar images using a single model
+- [Lihang](https://github.com/SmirkCao/Lihang) - Statistical learning methods, 统计学习方法 [李航] 值得反复读. [笔记, 代码, notebook, 参考文献, Errata]
+- [maskscoring_rcnn](https://github.com/zjhuang22/maskscoring_rcnn) - Codes for paper "Mask Scoring R-CNN".
+- [openai/neural-mmo](https://github.com/openai/neural-mmo) - Neural MMO - A Massively Multiagent Game Environment
+- [m2cgen](https://github.com/BayesWitnesses/m2cgen) - Transform ML models into a native code (Java, C, Python, etc.) with zero dependencies
 - [lazynlp](https://github.com/chiphuyen/lazynlp) - Library to scrape and clean web pages to create massive datasets.
 - [wassdistance](https://github.com/dfdazac/wassdistance) - Approximating Wasserstein distances with PyTorch
 - [AdaBound](https://github.com/Luolc/AdaBound) - An optimizer that trains as fast as Adam and as good as SGD.
