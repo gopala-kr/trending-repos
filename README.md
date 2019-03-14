@@ -1517,7 +1517,7 @@ and Able? ](https://www.parliament.uk/documents/lords-committees/Artificial-Inte
 
 [Back to top](#contents)
 
-- [openai/gpt-2](https://github.com/openai/gpt-2) - Code for the paper "Language Models are Unsupervised Multitask Learners"
+
 - [ufldl.stanford](http://ufldl.stanford.edu/tutorial/)
 - [deeplearning.stanford](http://deeplearning.stanford.edu/wiki/index.php/UFLDL_Tutorial)
 - [neuralnetworksanddeeplearning](http://neuralnetworksanddeeplearning.com/)
@@ -1571,6 +1571,21 @@ and Able? ](https://www.parliament.uk/documents/lords-committees/Artificial-Inte
  
  [Back to top](#contents)
 
+- [MatchZoo](https://github.com/NTMC-Community/MatchZoo) - Facilitating the design, comparison and sharing of deep text matching models.
+- [tf2_course](https://github.com/ageron/tf2_course) - Notebooks for my "Deep Learning with TensorFlow 2 and Keras" course
+- [MobilePose-pytorch](https://github.com/YuliangXiu/MobilePose-pytorch) - Light-weight Single Person Pose Estimator
+- [TensorFlow2.0Tutorials](https://github.com/dragen1860/TensorFlow2.0Tutorials) - TensorFlow 2.0 Tutorials and Examples, CNN, RNN, GAN tutorials, etc. TF 2.0版入门实例代码，实战教程。
+- [pggraphblas](https://github.com/michelp/pggraphblas) - High Performance Graph Processing with Postgres and GraphBLAS
+- [libfacedetection](https://github.com/ShiqiYu/libfacedetection) - An open source library for face detection in images. The face detection speed can reach 1500FPS.
+- [awesome-personal-blogs](https://github.com/jkup/awesome-personal-blogs) - A delightful list of personal tech blogs
+- [awesome-self-supervised-learning](https://github.com/jason718/awesome-self-supervised-learning) - A curated list of awesome Self-Supervised methods
+- [visdat](https://github.com/ropensci/visdat) - Preliminary Exploratory Visualisation of Data http://visdat.njtierney.com/
+- [2019_datathon](https://github.com/rladiesPHL/2019_datathon) - R-Ladies Philly 2019 Community Data Project: PAWS
+- [ppnp](https://github.com/klicperajo/ppnp) - PPNP & APPNP models from "Predict then Propagate: Graph Neural Networks meet Personalized PageRank". https://www.kdd.in.tum.de/ppnp
+- [dynamic-KG](https://github.com/woojeongjin/dynamic-KG) - Dynamic (Temporal) Knowledge Graph Completion (Reasoning)
+- [awesome-r](https://github.com/uhub/awesome-r) - A curated list of awesome R frameworks, libraries and software.
+- [vrhk.github.io](https://github.com/vrhk/vrhk.github.io) 
+- [openai/gpt-2](https://github.com/openai/gpt-2) - Code for the paper "Language Models are Unsupervised Multitask Learners"
 - [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra)
 - [modeleval](https://github.com/tqi2/modeleval) - A simple tool for generating useful evaluation metrics and plots for machine learning models
 - [one-network-many-uses](https://github.com/paraschopra/one-network-many-uses) - Four-in-one deep network: image search, image captioning, similar words and similar images using a single model
