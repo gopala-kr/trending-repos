@@ -463,7 +463,7 @@ March - 2019
 - [Baidu Team Wins the Suggestion Mining Challenge at SemEval 2019](http://research.baidu.com/Blog/index-view?id=112)
 - [9 Applications of Deep Learning for Computer Vision](https://machinelearningmastery.com/applications-of-deep-learning-for-computer-vision/)
 - [Quantum computing should supercharge this machine-learning technique](https://www.technologyreview.com/s/613119/quantum-computing-should-supercharge-this-machine-learning-technique/)
-
+- [Exploring Neural Networks with Activation Atlases](https://distill.pub/2019/activation-atlas/)
 
 
 --------------------
