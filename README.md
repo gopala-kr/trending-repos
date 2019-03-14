@@ -452,6 +452,19 @@ March - 2019
 - [Computing the future](http://news.mit.edu/2019/computing-the-future-mit-turing-award-panel-0305)
 - [Solve launches 2019 global challenges](http://news.mit.edu/2019/mit-solve-launches-new-global-challenges-0304)
 - [Addressing the promises and challenges of AI](http://news.mit.edu/2019/addressing-promises-challenges-artificial-intelligence-0301)
+- [TF-Replicator: Distributed Machine Learning for Researchers](https://deepmind.com/blog/tf-replicator-distributed-machine-learning/)
+- [Introducing Activation Atlases](https://openai.com/blog/introducing-activation-atlases/)
+- [OpenAI LP](https://openai.com/blog/openai-lp/)
+- [Exploring Neural Networks with Activation Atlases](https://ai.googleblog.com/2019/03/exploring-neural-networks.html)
+- [An All-Neural On-Device Speech Recognizer](https://ai.googleblog.com/2019/03/an-all-neural-on-device-speech.html)
+- [RNN-Based Handwriting Recognition in Gboard](https://ai.googleblog.com/2019/03/rnn-based-handwriting-recognition-in.html)
+- [Real-Time AR Self-Expression with Machine Learning](https://ai.googleblog.com/2019/03/real-time-ar-self-expression-with.html)
+- [Introducing Ludwig, a Code-Free Deep Learning Toolbox](https://eng.uber.com/introducing-ludwig/)
+- [Baidu Team Wins the Suggestion Mining Challenge at SemEval 2019](http://research.baidu.com/Blog/index-view?id=112)
+- [9 Applications of Deep Learning for Computer Vision](https://machinelearningmastery.com/applications-of-deep-learning-for-computer-vision/)
+- [Quantum computing should supercharge this machine-learning technique](https://www.technologyreview.com/s/613119/quantum-computing-should-supercharge-this-machine-learning-technique/)
+
+
 
 --------------------
 Feb - 2019
@@ -579,6 +592,7 @@ in AI Governance](https://ai.google/static/documents/perspectives-on-issues-in-a
 - [India plans 5G auction in June as market starts to stabilize](https://rethinkresearch.biz/articles/india-plans-5g-auction-in-june-as-market-starts-to-stabilize/)
 - [Machine learning can boost the value of wind energy](https://deepmind.com/blog/machine-learning-can-boost-value-wind-energy/)
 - [Long-Range Robotic Navigation via Automated Reinforcement Learning](https://ai.googleblog.com/2019/02/long-range-robotic-navigation-via.html)
+- [Machine learning can boost the value of wind energy](https://deepmind.com/blog/machine-learning-can-boost-value-wind-energy/)
 
 ---------------
 
