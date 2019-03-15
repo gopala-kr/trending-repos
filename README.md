@@ -464,7 +464,10 @@ March - 2019
 - [9 Applications of Deep Learning for Computer Vision](https://machinelearningmastery.com/applications-of-deep-learning-for-computer-vision/)
 - [Quantum computing should supercharge this machine-learning technique](https://www.technologyreview.com/s/613119/quantum-computing-should-supercharge-this-machine-learning-technique/)
 - [Exploring Neural Networks with Activation Atlases](https://distill.pub/2019/activation-atlas/)
-
+- [Artificial Intelligence APAC
+March 7 · Issue #24](http://newsletters.deeplearning.ml/issues/artificial-intelligence-apac-issue-23-155701)
+- [Machine learning in quantum spaces](https://www.nature.com/articles/d41586-019-00771-0)
+- [China may overtake the US with the best AI research in just two years](https://www.technologyreview.com/s/613117/china-may-overtake-the-us-with-the-best-ai-research-in-just-two-years/)
 
 --------------------
 Feb - 2019
@@ -593,6 +596,13 @@ in AI Governance](https://ai.google/static/documents/perspectives-on-issues-in-a
 - [Machine learning can boost the value of wind energy](https://deepmind.com/blog/machine-learning-can-boost-value-wind-energy/)
 - [Long-Range Robotic Navigation via Automated Reinforcement Learning](https://ai.googleblog.com/2019/02/long-range-robotic-navigation-via.html)
 - [Machine learning can boost the value of wind energy](https://deepmind.com/blog/machine-learning-can-boost-value-wind-energy/)
+- [Making an interactive UMAP visualization of the MNIST data set](https://blog.fastforwardlabs.com/2019/01/29/making-an-interactive-umap-visualization-of-the-mnist-data-set.html)
+- [Machine Learning In The Browser](https://blog.fastforwardlabs.com/2019/02/28/machine-learning-in-the-browser.html)
+- [Causality in machine learning](https://blog.fastforwardlabs.com/2019/02/28/causality-in-machine-learning.html)
+- [Artificial Intelligence APAC
+January 26 · Issue #23](http://newsletters.deeplearning.ml/issues/artificial-intelligence-apac-issue-24-156985)
+- [Data Scientists and Deploying Models From any Framework](https://blog.algorithmia.com/data-scientists-should-deploy-models-from-any-framework/)
+
 
 ---------------
 
