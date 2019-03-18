@@ -468,6 +468,8 @@ March - 2019
 March 7 · Issue #24](http://newsletters.deeplearning.ml/issues/artificial-intelligence-apac-issue-23-155701)
 - [Machine learning in quantum spaces](https://www.nature.com/articles/d41586-019-00771-0)
 - [China may overtake the US with the best AI research in just two years](https://www.technologyreview.com/s/613117/china-may-overtake-the-us-with-the-best-ai-research-in-just-two-years/)
+- [Harnessing Organizational Knowledge for Machine Learning](https://ai.googleblog.com/2019/03/harnessing-organizational-knowledge-for.html)
+
 
 --------------------
 Feb - 2019
@@ -1581,6 +1583,10 @@ and Able? ](https://www.parliament.uk/documents/lords-committees/Artificial-Inte
  
  [Back to top](#contents)
 
+- [astool](https://github.com/hardmaru/astool) - Augmented environments with RL
+- [Machine-Learning-Study-Path-March-2019](https://github.com/clone95/Machine-Learning-Study-Path-March-2019) - A complete ML study path, focused on TensorFlow and Scikit-Learn
+- [DeepLearning-500-questions](https://github.com/scutan90/DeepLearning-500-questions)
+- [the-craft-of-selfteaching](https://github.com/selfteaching/the-craft-of-selfteaching) - One has no future if one couldn't teach themself.
 - [MatchZoo](https://github.com/NTMC-Community/MatchZoo) - Facilitating the design, comparison and sharing of deep text matching models.
 - [tf2_course](https://github.com/ageron/tf2_course) - Notebooks for my "Deep Learning with TensorFlow 2 and Keras" course
 - [MobilePose-pytorch](https://github.com/YuliangXiu/MobilePose-pytorch) - Light-weight Single Person Pose Estimator
