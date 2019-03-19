@@ -2059,6 +2059,7 @@ A sequence of Jupyter notebooks featuring the "12 Steps to Navier-Stokes" http:/
 - [libphonenumber](https://github.com/googlei18n/libphonenumber) - Google's common Java, C++ and JavaScript library for parsing, formatting, and validating international phone numbers.
 - [subsync](https://github.com/smacke/subsync) - Automagically synchronize subtitles with video.
 - [Microsoft/frontend-bootcamp](https://github.com/Microsoft/frontend-bootcamp) - Frontend Workshop from HTML/CSS/JS to TypeScript/React/Redux
+- [learn-anything](https://github.com/learn-anything/learn-anything) - Organize world's knowledge, explore connections and curate learning paths https://learn-anything.xyz
 
 -----------
 
