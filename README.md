@@ -469,6 +469,8 @@ March 7 · Issue #24](http://newsletters.deeplearning.ml/issues/artificial-intel
 - [Machine learning in quantum spaces](https://www.nature.com/articles/d41586-019-00771-0)
 - [China may overtake the US with the best AI research in just two years](https://www.technologyreview.com/s/613117/china-may-overtake-the-us-with-the-best-ai-research-in-just-two-years/)
 - [Harnessing Organizational Knowledge for Machine Learning](https://ai.googleblog.com/2019/03/harnessing-organizational-knowledge-for.html)
+- [What Is Quantum Computing?](https://www.cbinsights.com/research/report/quantum-computing/)
+- [Quantum Computing languages landscape](https://medium.com/@quantum_wa/quantum-computing-languages-landscape-1bc6dedb2a35)
 
 
 --------------------
