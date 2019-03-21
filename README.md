@@ -471,7 +471,7 @@ March 7 · Issue #24](http://newsletters.deeplearning.ml/issues/artificial-intel
 - [Harnessing Organizational Knowledge for Machine Learning](https://ai.googleblog.com/2019/03/harnessing-organizational-knowledge-for.html)
 - [What Is Quantum Computing?](https://www.cbinsights.com/research/report/quantum-computing/)
 - [Quantum Computing languages landscape](https://medium.com/@quantum_wa/quantum-computing-languages-landscape-1bc6dedb2a35)
-
+- [Skymind raises $11.5M to bring deep learning to more enterprises](https://techcrunch.com/2019/03/20/skymind-raises-11-5m-to-bring-deep-learning-to-more-enterprises/?guccounter=1&guce_referrer_us=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_cs=Tbs7ohCFdk264-YkyLk4sA)
 
 --------------------
 Feb - 2019
