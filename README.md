@@ -441,6 +441,7 @@
 
 March - 2019
 
+- [http://www.montreal.ai/ai4all.pdf - VIP AI 101 CHEATSHEET](http://www.montreal.ai/ai4all.pdf)
 - [Neural MMO — A Massively Multiagent Game Environment](https://blog.openai.com/neural-mmo/)
 - [Introducing GPipe, an Open Source Library for Efficiently Training Large-scale Neural Network Models](https://ai.googleblog.com/2019/03/introducing-gpipe-open-source-library.html)
 - [A Conversation about Tech Ethics with the New York Times Chief Data Scientist](https://www.fast.ai/2019/03/04/ethics-framework/)
@@ -472,6 +473,22 @@ March 7 · Issue #24](http://newsletters.deeplearning.ml/issues/artificial-intel
 - [What Is Quantum Computing?](https://www.cbinsights.com/research/report/quantum-computing/)
 - [Quantum Computing languages landscape](https://medium.com/@quantum_wa/quantum-computing-languages-landscape-1bc6dedb2a35)
 - [Skymind raises $11.5M to bring deep learning to more enterprises](https://techcrunch.com/2019/03/20/skymind-raises-11-5m-to-bring-deep-learning-to-more-enterprises/?guccounter=1&guce_referrer_us=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_cs=Tbs7ohCFdk264-YkyLk4sA)
+- [Implicit Generation and
+Generalization Methods
+for Energy-Based Models](https://openai.com/blog/energy-based-models/)
+- [Reducing the Need for Labeled Data in Generative Adversarial Networks](https://ai.googleblog.com/2019/03/reducing-need-for-labeled-data-in.html)
+- [Measuring the Limits of Data Parallel Training for Neural Networks](https://ai.googleblog.com/2019/03/measuring-limits-of-data-parallel.html)
+- [A Summary of the Google Flood Forecasting Meets Machine Learning Workshop](https://ai.googleblog.com/2019/03/a-summary-of-google-flood-forecasting.html)
+- [Baidu released knowledge integration language representation model ERNIE which outperforms Google’s BERT in certain Chinese NLP tasks](http://research.baidu.com/Blog/index-view?id=113)
+- [Introducing Ludwig, a Code-Free Deep Learning Toolbox](https://eng.uber.com/introducing-ludwig/)
+- [Researchers Put Machine Learning on Path to Quantum Advantage](https://www.ibm.com/blogs/research/2019/03/machine-learning-quantum-advantage/)
+- [Boeing 737 MAX 8 and Lessons for AI: The Case of AI Self-Driving Cars](https://www.aitrends.com/ai-insider/boeing-737-max-8-and-lessons-for-ai-the-case-of-ai-self-driving-cars/)
+- [Exercises in amazement: Discovering deep learning](http://news.mit.edu/2019/discovering-deep-learning-mit-iap-course-0315)
+- [Kicking neural network design automation into high gear](http://news.mit.edu/2019/convolutional-neural-network-automation-0321)
+- [Manipulation By Feel](https://bair.berkeley.edu/blog/2019/03/21/tactile/)
+- [Assessing Generalization in Deep Reinforcement Learning](https://bair.berkeley.edu/blog/2019/03/18/rl-generalization/)
+- [AGI - KorrTecx](https://sites.google.com/view/korrtecx/home)
+
 
 --------------------
 Feb - 2019
