@@ -1602,6 +1602,8 @@ and Able? ](https://www.parliament.uk/documents/lords-committees/Artificial-Inte
  
  [Back to top](#contents)
 
+- [jetbot](https://github.com/NVIDIA-AI-IOT/jetbot) - An educational AI robot based on NVIDIA Jetson Nano.
+- [interesting-python](https://github.com/Alfred1984/interesting-python) - Some interesting Python crawlers and data analysis projects
 - [pytorch-pretrained-BigGAN](https://github.com/huggingface/pytorch-pretrained-BigGAN) - A PyTorch implementation of BigGAN with pretrained weights and conversion scripts.
 - [x86-bare-metal-examples](https://github.com/cirosantilli/x86-bare-metal-examples) - Dozens of minimal operating systems to learn x86 system programming. Tested on Ubuntu 17.10 host in QEMU 2.10 and real hardware. Userland cheat at: https://github.com/cirosantilli/x86-assembly-cheat ARM baremetal setup at: https://github.com/cirosantilli/linux-kernel-module-cheat#baremetal-setup
 - [paper-tips-and-tricks](https://github.com/Wookai/paper-tips-and-tricks) - Best practice and tips & tricks to write scientific papers in LaTeX, with figures generated in Python or Matlab.
