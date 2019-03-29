@@ -504,6 +504,8 @@ for Energy-Based Models](https://openai.com/blog/energy-based-models/)
 - [intel.ai/future-directions-nlp](https://www.intel.ai/future-directions-nlp/#gs.2x6nwn)
 - [Mobile Visions: IBM’s Plans for AI, Cloud Computing, 5G Networks](https://www.aitrends.com/ai-and-5g/mobile-visions-ibms-plans-for-ai-cloud-computing-5g-networks/)
 - [Micro-Movements in Driving Behaviors: Crucial for AI Self-Driving Cars](https://www.aitrends.com/ai-insider/micro-movements-in-driving-behaviors-crucial-for-ai-self-driving-cars/)
+- [Twenty-five ways in which MIT has transformed computing](https://www.csail.mit.edu/news/twenty-five-ways-which-mit-has-transformed-computing)
+- [Model learns how individual amino acids determine protein function](https://www.csail.mit.edu/news/model-learns-how-individual-amino-acids-determine-protein-function)
 
 --------------------
 Feb - 2019
