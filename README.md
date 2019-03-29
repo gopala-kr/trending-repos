@@ -1,4 +1,4 @@
-> Trending repos - update on every friday
+> Trending repos - update on every Friday
 
 ----------------
 > #### Contents
@@ -493,6 +493,8 @@ for Energy-Based Models](https://openai.com/blog/energy-based-models/)
 - [The executive’s AI playbook](https://www.mckinsey.com/business-functions/mckinsey-analytics/our-insights/the-executives-ai-playbook)
 - [our-insights/an-executives-guide-to-ai](https://www.mckinsey.com/business-functions/mckinsey-analytics/our-insights/an-executives-guide-to-ai)
 - [cv-tricks.com](https://cv-tricks.com/)
+- [How the Economics of Data Science is Creating New Sources of Value](https://www.datasciencecentral.com/profiles/blogs/how-the-economics-of-data-science-is-creating-new-sources-of)
+- [Receiver Operating Characteristic (ROC) Curves](https://kennis-research.shinyapps.io/ROC-Curves/)
 
 --------------------
 Feb - 2019
@@ -1606,6 +1608,7 @@ and Able? ](https://www.parliament.uk/documents/lords-committees/Artificial-Inte
  
  [Back to top](#contents)
 
+- [awesome-machine-learning-interpretability](https://github.com/jphall663/awesome-machine-learning-interpretability)
 - [NLP-Models-Tensorflow](https://github.com/huseinzol05/NLP-Models-Tensorflow) - Gathers machine learning and Tensorflow deep learning models for NLP problems.
 - [image-super-resolution](https://github.com/idealo/image-super-resolution) - Super-scale your images and run experiments with Residual Dense and Adversarial Networks. 
 - [automl-gs](https://github.com/minimaxir/automl-gs) - Provide an input CSV and a target field to predict, generate a model + code to run it.
