@@ -490,7 +490,8 @@ for Energy-Based Models](https://openai.com/blog/energy-based-models/)
 - [Manipulation By Feel](https://bair.berkeley.edu/blog/2019/03/21/tactile/)
 - [Assessing Generalization in Deep Reinforcement Learning](https://bair.berkeley.edu/blog/2019/03/18/rl-generalization/)
 - [AGI - KorrTecx](https://sites.google.com/view/korrtecx/home)
-
+- [The executive’s AI playbook](https://www.mckinsey.com/business-functions/mckinsey-analytics/our-insights/the-executives-ai-playbook)
+- [our-insights/an-executives-guide-to-ai](https://www.mckinsey.com/business-functions/mckinsey-analytics/our-insights/an-executives-guide-to-ai)
 
 --------------------
 Feb - 2019
