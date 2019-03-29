@@ -445,6 +445,9 @@ March - 2019
 
 - [http://www.montreal.ai/ai4all.pdf - VIP AI 101 CHEATSHEET](http://www.montreal.ai/ai4all.pdf)
 - [Neural MMO — A Massively Multiagent Game Environment](https://blog.openai.com/neural-mmo/)
+- [Berkeley AI: Assessing Generalization in Deep Reinforcement Learning](https://bair.berkeley.edu/blog/2019/03/18/rl-generalization/)
+- [Berkeley AI: Manipulation By Feel](https://bair.berkeley.edu/blog/2019/03/21/tactile/)
+- [Berkeley AI: Announcing the BAIR Open Research Commons](https://bair.berkeley.edu/blog/2019/03/24/bair-commons/)
 - [Introducing GPipe, an Open Source Library for Efficiently Training Large-scale Neural Network Models](https://ai.googleblog.com/2019/03/introducing-gpipe-open-source-library.html)
 - [A Conversation about Tech Ethics with the New York Times Chief Data Scientist](https://www.fast.ai/2019/03/04/ethics-framework/)
 - [Introducing Ludwig, a Code-Free Deep Learning Toolbox](https://eng.uber.com/introducing-ludwig/)
@@ -495,6 +498,12 @@ for Energy-Based Models](https://openai.com/blog/energy-based-models/)
 - [cv-tricks.com](https://cv-tricks.com/)
 - [How the Economics of Data Science is Creating New Sources of Value](https://www.datasciencecentral.com/profiles/blogs/how-the-economics-of-data-science-is-creating-new-sources-of)
 - [Receiver Operating Characteristic (ROC) Curves](https://kennis-research.shinyapps.io/ROC-Curves/)
+- [Towards Robust and Verified AI: Specification Testing, Robust Training, and Formal Verification](https://deepmind.com/blog/robust-and-verified-ai/)
+- [Unifying Physics and Deep Learning with TossingBot](https://ai.googleblog.com/2019/03/unifying-physics-and-deep-learning-with.html)
+- [Simulated Policy Learning in Video Models](https://ai.googleblog.com/2019/03/simulated-policy-learning-in-video.html)
+- [intel.ai/future-directions-nlp](https://www.intel.ai/future-directions-nlp/#gs.2x6nwn)
+- [Mobile Visions: IBM’s Plans for AI, Cloud Computing, 5G Networks](https://www.aitrends.com/ai-and-5g/mobile-visions-ibms-plans-for-ai-cloud-computing-5g-networks/)
+- [Micro-Movements in Driving Behaviors: Crucial for AI Self-Driving Cars](https://www.aitrends.com/ai-insider/micro-movements-in-driving-behaviors-crucial-for-ai-self-driving-cars/)
 
 --------------------
 Feb - 2019
@@ -629,7 +638,8 @@ in AI Governance](https://ai.google/static/documents/perspectives-on-issues-in-a
 - [Artificial Intelligence APAC
 January 26 · Issue #23](http://newsletters.deeplearning.ml/issues/artificial-intelligence-apac-issue-24-156985)
 - [Data Scientists and Deploying Models From any Framework](https://blog.algorithmia.com/data-scientists-should-deploy-models-from-any-framework/)
-
+- [First Uber Science Symposium: Discussing the Next Generation of RL, NLP, ConvAI, and DL](https://eng.uber.com/uber-science-symposium-2018/)
+- [Modeling Censored Time-to-Event Data Using Pyro, an Open Source Probabilistic Programming Language](https://eng.uber.com/modeling-censored-time-to-event-data-using-pyro/)
 
 ---------------
 
