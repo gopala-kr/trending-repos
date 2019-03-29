@@ -192,6 +192,7 @@
 | [snips](https://medium.com/snips-ai)
 | [faceplusplus](https://www.faceplusplus.com/blog/)
 | [waymo](https://medium.com/waymo)
+| [mckinsey.com/featured-insights/artificial-intelligence](https://www.mckinsey.com/featured-insights/artificial-intelligence)
 ||
 
 || [usepanda](https://usepanda.com/app/#/)
