@@ -492,6 +492,7 @@ for Energy-Based Models](https://openai.com/blog/energy-based-models/)
 - [AGI - KorrTecx](https://sites.google.com/view/korrtecx/home)
 - [The executive’s AI playbook](https://www.mckinsey.com/business-functions/mckinsey-analytics/our-insights/the-executives-ai-playbook)
 - [our-insights/an-executives-guide-to-ai](https://www.mckinsey.com/business-functions/mckinsey-analytics/our-insights/an-executives-guide-to-ai)
+- [cv-tricks.com](https://cv-tricks.com/)
 
 --------------------
 Feb - 2019
