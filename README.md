@@ -1620,7 +1620,8 @@ and Able? ](https://www.parliament.uk/documents/lords-committees/Artificial-Inte
  ###### Latest
  
  [Back to top](#contents)
-
+ 
+- [deepchem](https://github.com/deepchem/deepchem) - Democratizing Deep-Learning for Drug Discovery, Quantum Chemistry, Materials Science and Biology https://deepchem.io/
 - [plotly_express](https://github.com/plotly/plotly_express) - Plotly Express - simple syntax for complex charts https://plotly.express
 - [cnn-exposed](https://github.com/idealo/cnn-exposed) - Interpreting Convolutional Neural Network (CNN) Results. 
 - [Virgilio](https://github.com/clone95/Virgilio) - Your new Mentor for Data Science E-Learning.
