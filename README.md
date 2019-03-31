@@ -1620,6 +1620,8 @@ and Able? ](https://www.parliament.uk/documents/lords-committees/Artificial-Inte
  
  [Back to top](#contents)
 
+- [tfjs-examples](https://github.com/tensorflow/tfjs-examples) - Examples built with TensorFlow.js https://js.tensorflow.org/
+- [allenai/PeerRead](https://github.com/allenai/PeerRead) - Data and code for Kang et al., NAACL 2018's paper titled "A Dataset of Peer Reviews (PeerRead): Collection, Insights and NLP Applications"
 - [awesome-machine-learning-interpretability](https://github.com/jphall663/awesome-machine-learning-interpretability)
 - [NLP-Models-Tensorflow](https://github.com/huseinzol05/NLP-Models-Tensorflow) - Gathers machine learning and Tensorflow deep learning models for NLP problems.
 - [image-super-resolution](https://github.com/idealo/image-super-resolution) - Super-scale your images and run experiments with Residual Dense and Adversarial Networks. 
