@@ -1620,6 +1620,8 @@ and Able? ](https://www.parliament.uk/documents/lords-committees/Artificial-Inte
  
  [Back to top](#contents)
 
+- [plotly_express](https://github.com/plotly/plotly_express) - Plotly Express - simple syntax for complex charts https://plotly.express
+- [cnn-exposed](https://github.com/idealo/cnn-exposed) - Interpreting Convolutional Neural Network (CNN) Results. 
 - [Virgilio](https://github.com/clone95/Virgilio) - Your new Mentor for Data Science E-Learning.
 - [tfjs-examples](https://github.com/tensorflow/tfjs-examples) - Examples built with TensorFlow.js https://js.tensorflow.org/
 - [allenai/PeerRead](https://github.com/allenai/PeerRead) - Data and code for Kang et al., NAACL 2018's paper titled "A Dataset of Peer Reviews (PeerRead): Collection, Insights and NLP Applications"
