@@ -1621,6 +1621,7 @@ and Able? ](https://www.parliament.uk/documents/lords-committees/Artificial-Inte
  
  [Back to top](#contents)
  
+- [LanczosNetwork](https://github.com/lrjconan/LanczosNetwork) - Lanczos Network, Graph Neural Networks, Deep Graph Convolutional Networks, Deep Learning on Graph Structured Data, QM8 Quantum Chemistry Benchmark, ICLR 2019 http://arxiv.org/abs/1901.01484
 - [deepchem](https://github.com/deepchem/deepchem) - Democratizing Deep-Learning for Drug Discovery, Quantum Chemistry, Materials Science and Biology https://deepchem.io/
 - [plotly_express](https://github.com/plotly/plotly_express) - Plotly Express - simple syntax for complex charts https://plotly.express
 - [cnn-exposed](https://github.com/idealo/cnn-exposed) - Interpreting Convolutional Neural Network (CNN) Results. 
