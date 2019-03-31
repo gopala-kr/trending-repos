@@ -506,6 +506,7 @@ for Energy-Based Models](https://openai.com/blog/energy-based-models/)
 - [Micro-Movements in Driving Behaviors: Crucial for AI Self-Driving Cars](https://www.aitrends.com/ai-insider/micro-movements-in-driving-behaviors-crucial-for-ai-self-driving-cars/)
 - [Twenty-five ways in which MIT has transformed computing](https://www.csail.mit.edu/news/twenty-five-ways-which-mit-has-transformed-computing)
 - [Model learns how individual amino acids determine protein function](https://www.csail.mit.edu/news/model-learns-how-individual-amino-acids-determine-protein-function)
+- [Research Highlights](https://www.nature.com/research-highlights/v567/n7749)
 
 --------------------
 Feb - 2019
