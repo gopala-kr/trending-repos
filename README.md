@@ -1621,6 +1621,14 @@ and Able? ](https://www.parliament.uk/documents/lords-committees/Artificial-Inte
  
  [Back to top](#contents)
  
+ 
+- [deepmind/mathematics_dataset](https://github.com/deepmind/mathematics_dataset)
+- [tensorflow/mlir](https://github.com/tensorflow/mlir)
+- [PyTorch-BigGraph](https://github.com/facebookresearch/PyTorch-BigGraph)
+- [Tencent/matrix](https://github.com/Tencent/matrix) -  Matrix is a plugin style, non-invasive APM system developed by WeChat.
+- [hacl-star](https://github.com/project-everest/hacl-star)
+
+ ------------------
 - [LanczosNetwork](https://github.com/lrjconan/LanczosNetwork) - Lanczos Network, Graph Neural Networks, Deep Graph Convolutional Networks, Deep Learning on Graph Structured Data, QM8 Quantum Chemistry Benchmark, ICLR 2019 http://arxiv.org/abs/1901.01484
 - [deepchem](https://github.com/deepchem/deepchem) - Democratizing Deep-Learning for Drug Discovery, Quantum Chemistry, Materials Science and Biology https://deepchem.io/
 - [plotly_express](https://github.com/plotly/plotly_express) - Plotly Express - simple syntax for complex charts https://plotly.express
@@ -2119,7 +2127,9 @@ A sequence of Jupyter notebooks featuring the "12 Steps to Navier-Stokes" http:/
 - [learn-anything](https://github.com/learn-anything/learn-anything) - Organize world's knowledge, explore connections and curate learning paths https://learn-anything.xyz
 - [duckduckgo](https://github.com/duckduckgo/duckduckgo) - DuckDuckGo Instant Answer Infrastructure http://duckduckhack.com/
 - [hacker101](https://github.com/Hacker0x01/hacker101) - Hacker101 https://www.hacker101.com
-
+- [public-apis](https://github.com/toddmotto/public-apis)
+- [react-loops](https://github.com/leebyron/react-loops)
+ 
 -----------
 
 #### AI Residency
