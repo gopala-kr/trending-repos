@@ -441,8 +441,11 @@
 
 ----------------
 
+April - 2019
 
-- []()
+- [Capturing Special Video Moments with Google Photos](https://ai.googleblog.com/2019/04/capturing-special-video-moments-with.html)
+- [Using Deep Learning to Improve Usability on Mobile Devices](https://ai.googleblog.com/2019/04/using-deep-learning-to-improve.html)
+- [Open-sourcing PyTorch-BigGraph for faster embeddings of extremely large graphs](https://ai.facebook.com/blog/open-sourcing-pytorch-biggraph-for-faster-embeddings-of-extremely-large-graphs/)
 
 ------------------------
 
