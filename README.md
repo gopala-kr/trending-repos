@@ -1620,7 +1620,9 @@ and Able? ](https://www.parliament.uk/documents/lords-committees/Artificial-Inte
  ###### Latest
  
  [Back to top](#contents)
- 
+
+- [app-ideas](https://github.com/florinpop17/app-ideas)
+- [Accenture/AmpliGraph](https://github.com/Accenture/AmpliGraph)
 - [AI_Startup_Prototype](https://github.com/llSourcell/AI_Startup_Prototype)
 - [deepmind/mathematics_dataset](https://github.com/deepmind/mathematics_dataset)
 - [tensorflow/mlir](https://github.com/tensorflow/mlir)
@@ -2006,7 +2008,7 @@ This is an automated machine learning (AutoML) package. http://autokeras.com/
 - [NAF-tensorflow](https://github.com/carpedm20/NAF-tensorflow) : "Continuous Deep Q-Learning with Model-based Acceleration" in TensorFlow
 - [FC-DenseNet](https://github.com/SimJeg/FC-DenseNet) : Fully Convolutional DenseNets for semantic segmentation.
 - [PythonDataScienceHandbook](https://github.com/jakevdp/PythonDataScienceHandbook)
-
+- [Awesome-Design-Tools](https://github.com/LisaDziuba/Awesome-Design-Tools) - The best design tools for everything 👉 https://flawlessapp.io/designtools
 
 -----------------------
 
