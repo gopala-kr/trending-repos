@@ -441,6 +441,11 @@
 
 ----------------
 
+
+- []()
+
+------------------------
+
 March - 2019
 
 - [http://www.montreal.ai/ai4all.pdf - VIP AI 101 CHEATSHEET](http://www.montreal.ai/ai4all.pdf)
@@ -507,7 +512,7 @@ for Energy-Based Models](https://openai.com/blog/energy-based-models/)
 - [Twenty-five ways in which MIT has transformed computing](https://www.csail.mit.edu/news/twenty-five-ways-which-mit-has-transformed-computing)
 - [Model learns how individual amino acids determine protein function](https://www.csail.mit.edu/news/model-learns-how-individual-amino-acids-determine-protein-function)
 - [Research Highlights](https://www.nature.com/research-highlights/v567/n7749)
-
+- [Towards Robust and Verified AI: Specification Testing, Robust Training, and Formal Verification](https://deepmind.com/blog/robust-and-verified-ai/)
 --------------------
 Feb - 2019
 
