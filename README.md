@@ -120,8 +120,7 @@
 | [paperswithcode.com](https://paperswithcode.com/)
 ||
 
- 
- 
+|| [Andrej Karpathy](https://www.youtube.com/channel/UCPk8m_r6fkUSYmvgCBwq-sw) | [Lex Fridman](https://www.youtube.com/channel/UCSHZKyawb77ixDdsGog4iWA) | [Arxiv Insights](https://www.youtube.com/channel/UCNIkB2IeJ-6AmZv7bQ1oBYg/featured) | [LogicGodTV](https://www.youtube.com/user/LogicGodTV/playlists) | [MLconf](https://www.youtube.com/channel/UCjeM1xxYb_37bZfyparLS3Q/feed) | [Machine Learning TV](https://www.youtube.com/channel/UChIaUcs3tho6XhyU6K6KMrw/featured) | [DeepLearning.TV](https://www.youtube.com/channel/UC9OeZkIwhzfv-_Cb7fCikLQ/playlists)| [Siraj Raval](https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A) ||
 
 
 || [singularityhub](https://singularityhub.com/topics/#sm.0000u2nejl1ee3czhzjl7iznot63h)
