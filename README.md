@@ -1629,6 +1629,7 @@ and Able? ](https://www.parliament.uk/documents/lords-committees/Artificial-Inte
  
  [Back to top](#contents)
 
+- [datascience](https://github.com/r0f1/datascience)
 - [Cheatsheetseries](https://github.com/OWASP/CheatSheetSeries)
 - [app-ideas](https://github.com/florinpop17/app-ideas)
 - [Accenture/AmpliGraph](https://github.com/Accenture/AmpliGraph)
