@@ -1629,6 +1629,7 @@ and Able? ](https://www.parliament.uk/documents/lords-committees/Artificial-Inte
  
  [Back to top](#contents)
 
+- [tensorflow_v2](https://github.com/aymericdamien/TensorFlow-Examples/tree/master/tensorflow_v2)
 - [FaceDetection-DSFD](https://github.com/TencentYoutuResearch/FaceDetection-DSFD)
 - [TensorFlow2.0Tutorials](https://github.com/dragen1860/TensorFlow2.0Tutorials)
 - [datascience](https://github.com/r0f1/datascience)
