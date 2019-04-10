@@ -447,6 +447,8 @@ April - 2019
 - [Open-sourcing PyTorch-BigGraph for faster embeddings of extremely large graphs](https://ai.facebook.com/blog/open-sourcing-pytorch-biggraph-for-faster-embeddings-of-extremely-large-graphs/)
 - [Deepmind: Unsupervised learning: the curious pupil](https://deepmind.com/blog/unsupervised-learning/) :star:
 - [SETI Phone Home: Harnessing AI in Search of Aliens](https://blogs.nvidia.com/blog/2019/04/05/ai-extraterrestrial-civilization/)
+- [Which GPU(s) to Get for Deep Learning: My Experience and Advice for Using GPUs in Deep Learning](http://timdettmers.com/2019/04/03/which-gpu-for-deep-learning/)
+- [First Uber Science Symposium: Discussing the Next Generation of RL, NLP, ConvAI, and DL](https://eng.uber.com/uber-science-symposium-2018/)
 
 ------------------------
 
