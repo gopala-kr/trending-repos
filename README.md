@@ -446,7 +446,7 @@ April - 2019
 - [Using Deep Learning to Improve Usability on Mobile Devices](https://ai.googleblog.com/2019/04/using-deep-learning-to-improve.html)
 - [Open-sourcing PyTorch-BigGraph for faster embeddings of extremely large graphs](https://ai.facebook.com/blog/open-sourcing-pytorch-biggraph-for-faster-embeddings-of-extremely-large-graphs/)
 - [Deepmind: Unsupervised learning: the curious pupil](https://deepmind.com/blog/unsupervised-learning/) :star:
-
+- [SETI Phone Home: Harnessing AI in Search of Aliens](https://blogs.nvidia.com/blog/2019/04/05/ai-extraterrestrial-civilization/)
 
 ------------------------
 
