@@ -449,6 +449,7 @@ April - 2019
 - [SETI Phone Home: Harnessing AI in Search of Aliens](https://blogs.nvidia.com/blog/2019/04/05/ai-extraterrestrial-civilization/)
 - [Which GPU(s) to Get for Deep Learning: My Experience and Advice for Using GPUs in Deep Learning](http://timdettmers.com/2019/04/03/which-gpu-for-deep-learning/)
 - [First Uber Science Symposium: Discussing the Next Generation of RL, NLP, ConvAI, and DL](https://eng.uber.com/uber-science-symposium-2018/)
+- [Berkeley AI: Robots that Learn to Use Improvised Tools](https://bair.berkeley.edu/blog/2019/04/11/tools/)
 
 ------------------------
 
@@ -1635,6 +1636,10 @@ and Able? ](https://www.parliament.uk/documents/lords-committees/Artificial-Inte
  
  [Back to top](#contents)
 
+- [stackshareio/awesome-stacks](https://github.com/stackshareio/awesome-stacks)
+- [achael/eht-imaging](https://github.com/achael/eht-imaging)
+- [dataset-distillation](https://github.com/SsnL/dataset-distillation)
+- [nationalsecurityagency.github.io](https://github.com/NationalSecurityAgency/nationalsecurityagency.github.io)
 - [tensorflow_v2](https://github.com/aymericdamien/TensorFlow-Examples/tree/master/tensorflow_v2)
 - [FaceDetection-DSFD](https://github.com/TencentYoutuResearch/FaceDetection-DSFD)
 - [TensorFlow2.0Tutorials](https://github.com/dragen1860/TensorFlow2.0Tutorials)
