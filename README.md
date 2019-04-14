@@ -452,7 +452,11 @@ April - 2019
 - [Berkeley AI: Robots that Learn to Use Improvised Tools](https://bair.berkeley.edu/blog/2019/04/11/tools/)
 - [Genius Shortage Hampers Solving AI Unsolved Problems: The Case of AI Self-Driving Cars](https://www.aitrends.com/ai-insider/genius-shortage-hampers-solving-ai-unsolved-problems-the-case-of-ai-self-driving-cars/)
 - [The next ‘Deep Blue’ moment: Self-flying drone racing](https://www.technologyreview.com/s/612948/the-next-deep-blue-moment-self-flying-drone-racing/)
-
+- [In the Future, Everyone Might Use Quantum Computers](https://singularityhub.com/2019/04/05/quantum-computers-could-go-mainstream-sooner-than-we-think/#sm.001834va21c6cf5ixwm27qvm7zp6b)
+- [Microsoft Is Building an All-In-One DNA Data Storage Device](https://singularityhub.com/2019/04/01/microsoft-is-building-an-all-in-one-dna-data-storage-device/#sm.001834va21c6cf5ixwm27qvm7zp6b)
+- [How To Build An Automotive Chip](https://semiengineering.com/how-to-build-an-automotive-chip/)
+- [IBM Introduces ‘Quantum Volume’ to Track Progress Towards the Quantum Age](https://singularityhub.com/2019/03/13/ibm-introduces-quantum-volume-to-track-progress-towards-the-quantum-age/#sm.001834va21c6cf5ixwm27qvm7zp6b)
+- [In-Memory Computing Challenges Come Into Focus](https://semiengineering.com/challenges-emerge-for-in-memory-computing/)
 
 ------------------------
 
@@ -524,6 +528,7 @@ for Energy-Based Models](https://openai.com/blog/energy-based-models/)
 - [Research Highlights](https://www.nature.com/research-highlights/v567/n7749)
 - [Towards Robust and Verified AI: Specification Testing, Robust Training, and Formal Verification](https://deepmind.com/blog/robust-and-verified-ai/)
 - [The Best of AI: New Articles Published This Month (March 2019)](https://blog.sicara.com/03-2019-best-ai-new-articles-this-month-8580e0eb5f9b)
+- [Intel Is Building the World’s Most Powerful Supercomputer](https://singularityhub.com/2019/03/25/intel-is-building-the-worlds-most-powerful-supercomputer/#sm.001834va21c6cf5ixwm27qvm7zp6b)
 
 --------------------
 Feb - 2019
