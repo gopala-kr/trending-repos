@@ -1643,6 +1643,8 @@ and Able? ](https://www.parliament.uk/documents/lords-committees/Artificial-Inte
  ###### Latest
  
  [Back to top](#contents)
+ 
+- [ImageNet-Adversarial-Training](https://github.com/facebookresearch/ImageNet-Adversarial-Training)
 - [xg2xg](https://github.com/jhuangtw-dev/xg2xg)
 - [stackshareio/awesome-stacks](https://github.com/stackshareio/awesome-stacks)
 - [achael/eht-imaging](https://github.com/achael/eht-imaging)
@@ -2041,6 +2043,8 @@ This is an automated machine learning (AutoML) package. http://autokeras.com/
 - [FC-DenseNet](https://github.com/SimJeg/FC-DenseNet) : Fully Convolutional DenseNets for semantic segmentation.
 - [PythonDataScienceHandbook](https://github.com/jakevdp/PythonDataScienceHandbook)
 - [Awesome-Design-Tools](https://github.com/LisaDziuba/Awesome-Design-Tools) - The best design tools for everything 👉 https://flawlessapp.io/designtools
+- [front-end-handbook-2019](https://github.com/FrontendMasters/front-end-handbook-2019)
+
 
 -----------------------
 
