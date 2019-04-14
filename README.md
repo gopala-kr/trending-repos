@@ -450,6 +450,9 @@ April - 2019
 - [Which GPU(s) to Get for Deep Learning: My Experience and Advice for Using GPUs in Deep Learning](http://timdettmers.com/2019/04/03/which-gpu-for-deep-learning/)
 - [First Uber Science Symposium: Discussing the Next Generation of RL, NLP, ConvAI, and DL](https://eng.uber.com/uber-science-symposium-2018/)
 - [Berkeley AI: Robots that Learn to Use Improvised Tools](https://bair.berkeley.edu/blog/2019/04/11/tools/)
+- [Genius Shortage Hampers Solving AI Unsolved Problems: The Case of AI Self-Driving Cars](https://www.aitrends.com/ai-insider/genius-shortage-hampers-solving-ai-unsolved-problems-the-case-of-ai-self-driving-cars/)
+- [The next ‘Deep Blue’ moment: Self-flying drone racing](https://www.technologyreview.com/s/612948/the-next-deep-blue-moment-self-flying-drone-racing/)
+
 
 ------------------------
 
