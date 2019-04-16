@@ -1644,6 +1644,9 @@ and Able? ](https://www.parliament.uk/documents/lords-committees/Artificial-Inte
  
  [Back to top](#contents)
 
+- [Stock-Prediction-Models](https://github.com/huseinzol05/Stock-Prediction-Models) - Gathers machine learning and deep learning models for Stock forecasting, included trading bots and simulations
+- [OUCML](https://github.com/OUCMachineLearning/OUCML)
+- [Cello](https://github.com/orangeduck/Cello) - Higher level programming in C http://libcello.org/
 - [Neural_Differential_Equations](https://github.com/llSourcell/Neural_Differential_Equations)
 - [tensorflow_chatbot](https://github.com/llSourcell/tensorflow_chatbot)
 - [Make_Money_with_Tensorflow_2.0](https://github.com/llSourcell/Make_Money_with_Tensorflow_2.0)
