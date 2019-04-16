@@ -1644,6 +1644,7 @@ and Able? ](https://www.parliament.uk/documents/lords-committees/Artificial-Inte
  
  [Back to top](#contents)
 
+- [Neural_Differential_Equations](https://github.com/llSourcell/Neural_Differential_Equations)
 - [tensorflow_chatbot](https://github.com/llSourcell/tensorflow_chatbot)
 - [Make_Money_with_Tensorflow_2.0](https://github.com/llSourcell/Make_Money_with_Tensorflow_2.0)
 - [Build-an-AI-Startup-with-PyTorch](https://github.com/llSourcell/Build-an-AI-Startup-with-PyTorch)
