@@ -1643,7 +1643,9 @@ and Able? ](https://www.parliament.uk/documents/lords-committees/Artificial-Inte
  ###### Latest
  
  [Back to top](#contents)
- 
+
+- [Make_Money_with_Tensorflow_2.0](https://github.com/llSourcell/Make_Money_with_Tensorflow_2.0)
+- [Build-an-AI-Startup-with-PyTorch](https://github.com/llSourcell/Build-an-AI-Startup-with-PyTorch)
 - [ImageNet-Adversarial-Training](https://github.com/facebookresearch/ImageNet-Adversarial-Training)
 - [xg2xg](https://github.com/jhuangtw-dev/xg2xg)
 - [stackshareio/awesome-stacks](https://github.com/stackshareio/awesome-stacks)
