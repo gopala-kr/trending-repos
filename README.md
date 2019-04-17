@@ -1644,6 +1644,7 @@ and Able? ](https://www.parliament.uk/documents/lords-committees/Artificial-Inte
  
  [Back to top](#contents)
 
+- [Reinforcement-Learning-for-Self-Driving-Cars](https://github.com/songyanho/Reinforcement-Learning-for-Self-Driving-Cars)
 - [Stock-Prediction-Models](https://github.com/huseinzol05/Stock-Prediction-Models) - Gathers machine learning and deep learning models for Stock forecasting, included trading bots and simulations
 - [OUCML](https://github.com/OUCMachineLearning/OUCML)
 - [Cello](https://github.com/orangeduck/Cello) - Higher level programming in C http://libcello.org/
