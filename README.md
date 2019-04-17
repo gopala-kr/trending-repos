@@ -457,7 +457,8 @@ April - 2019
 - [How To Build An Automotive Chip](https://semiengineering.com/how-to-build-an-automotive-chip/)
 - [IBM Introduces ‘Quantum Volume’ to Track Progress Towards the Quantum Age](https://singularityhub.com/2019/03/13/ibm-introduces-quantum-volume-to-track-progress-towards-the-quantum-age/#sm.001834va21c6cf5ixwm27qvm7zp6b)
 - [In-Memory Computing Challenges Come Into Focus](https://semiengineering.com/challenges-emerge-for-in-memory-computing/)
-- [How to Train Your OpenAI Five](https://openai.com/blog/how-to-train-your-openai-five/)
+- [OpenAI: How to Train Your OpenAI Five](https://openai.com/blog/how-to-train-your-openai-five/)
+- [Google AI: Take Your Best Selfie Automatically, with Photobooth on Pixel 3](https://ai.googleblog.com/2019/04/take-your-best-selfie-automatically.html)
 
 ------------------------
 
