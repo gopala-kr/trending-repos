@@ -460,6 +460,7 @@ April - 2019
 - [OpenAI: How to Train Your OpenAI Five](https://openai.com/blog/how-to-train-your-openai-five/)
 - [Google AI: Take Your Best Selfie Automatically, with Photobooth on Pixel 3](https://ai.googleblog.com/2019/04/take-your-best-selfie-automatically.html)
 - [Intel AI: vnni-enables-inference](https://www.intel.ai/vnni-enables-inference/)
+- [Intel AI: model-zoo-ia](https://www.intel.ai/model-zoo-ia/)
 
 ------------------------
 
