@@ -1644,6 +1644,8 @@ and Able? ](https://www.parliament.uk/documents/lords-committees/Artificial-Inte
  
  [Back to top](#contents)
 
+- [pt.darts](https://github.com/khanrc/pt.darts) - PyTorch Implementation of DARTS: Differentiable Architecture Search
+- [awesome-rl](https://github.com/dbobrenko/awesome-rl) - Reinforcement learning resources curated http://aikorea.org/awesome-rl
 - [Reinforcement-Learning-for-Self-Driving-Cars](https://github.com/songyanho/Reinforcement-Learning-for-Self-Driving-Cars)
 - [Stock-Prediction-Models](https://github.com/huseinzol05/Stock-Prediction-Models) - Gathers machine learning and deep learning models for Stock forecasting, included trading bots and simulations
 - [OUCML](https://github.com/OUCMachineLearning/OUCML)
