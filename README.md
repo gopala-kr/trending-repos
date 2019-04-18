@@ -1649,6 +1649,7 @@ and Able? ](https://www.parliament.uk/documents/lords-committees/Artificial-Inte
  
  [Back to top](#contents)
 
+- [Jezzamonn/fourier](https://github.com/Jezzamonn/fourier) - An Interactive Introduction to Fourier Transforms http://www.jezzamon.com/fourier
 - [pytorch-sentiment-analysis](https://github.com/bentrevett/pytorch-sentiment-analysis) - Tutorials on getting started with PyTorch and TorchText for sentiment analysis.
 - [IntelAI/tools](https://github.com/IntelAI/tools) - Intel AI Quantization Tools for TensorFlow
 - [intelai/models](https://github.com/intelai/models) - Model Zoo for Intel® Architecture: contains Intel optimizations for running deep learning workloads on Intel® Xeon® Scalable processors
