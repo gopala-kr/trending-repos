@@ -1649,6 +1649,7 @@ and Able? ](https://www.parliament.uk/documents/lords-committees/Artificial-Inte
  
  [Back to top](#contents)
 
+- [Microsoft/EconML](https://github.com/Microsoft/EconML) - ALICE (Automated Learning and Intelligence for Causation and Economics
 - [pytorch-Deep-Learning-Minicourse](https://github.com/Atcold/pytorch-Deep-Learning-Minicourse)
 - [Jezzamonn/fourier](https://github.com/Jezzamonn/fourier) - An Interactive Introduction to Fourier Transforms http://www.jezzamon.com/fourier
 - [pytorch-sentiment-analysis](https://github.com/bentrevett/pytorch-sentiment-analysis) - Tutorials on getting started with PyTorch and TorchText for sentiment analysis.
