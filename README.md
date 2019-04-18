@@ -462,6 +462,8 @@ April - 2019
 - [Intel AI: vnni-enables-inference](https://www.intel.ai/vnni-enables-inference/)
 - [Intel AI: model-zoo-ia](https://www.intel.ai/model-zoo-ia/)
 - [Intel AI: real-world-ai-at-enterprise-scale](https://www.intel.ai/real-world-ai-at-enterprise-scale/#gs.5p0cp7)
+- [MorphNet: Towards Faster and Smaller Neural Networks](https://ai.googleblog.com/2019/04/morphnet-towards-faster-and-smaller.html)
+
 
 ------------------------
 
@@ -1649,6 +1651,13 @@ and Able? ](https://www.parliament.uk/documents/lords-committees/Artificial-Inte
  
  [Back to top](#contents)
 
+- [meshroom](https://github.com/alicevision/meshroom) - 3D Reconstruction Software http://alicevision.github.io
+- [CenterNet](https://github.com/Duankaiwen/CenterNet) - Codes for our paper "CenterNet: Keypoint Triplets for Object Detection" .
+- [CenterNet](https://github.com/xingyizhou/CenterNet) - Object detection, 3D detection, and pose estimation using center point detection:
+- [pyodide](https://github.com/iodide-project/pyodide) - The Python scientific stack, compiled to WebAssembly https://alpha.iodide.io/notebooks/300/
+- [golang-developer-roadmap](https://github.com/Alikhll/golang-developer-roadmap) - Roadmap to becoming a Go developer in 2019
+- [spacy-course](https://github.com/ines/spacy-course) - Advanced NLP with spaCy: A free online course https://course.spacy.io
+- [Microsoft/BlingFire](https://github.com/Microsoft/BlingFire) - A lightning fast Finite State machine and REgular expression manipulation library.
 - [Microsoft/EconML](https://github.com/Microsoft/EconML) - ALICE (Automated Learning and Intelligence for Causation and Economics
 - [pytorch-Deep-Learning-Minicourse](https://github.com/Atcold/pytorch-Deep-Learning-Minicourse)
 - [Jezzamonn/fourier](https://github.com/Jezzamonn/fourier) - An Interactive Introduction to Fourier Transforms http://www.jezzamon.com/fourier
