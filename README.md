@@ -1651,6 +1651,7 @@ and Able? ](https://www.parliament.uk/documents/lords-committees/Artificial-Inte
  
  [Back to top](#contents)
 
+- [CVPR-2019-Paper-Statistics](https://github.com/hoya012/CVPR-2019-Paper-Statistics) - Statistics and Visualization of acceptance rate, main keyword of CVPR 2019 accepted papers for the main Computer Vision conference (CVPR)
 - [meshroom](https://github.com/alicevision/meshroom) - 3D Reconstruction Software http://alicevision.github.io
 - [CenterNet](https://github.com/Duankaiwen/CenterNet) - Codes for our paper "CenterNet: Keypoint Triplets for Object Detection" .
 - [CenterNet](https://github.com/xingyizhou/CenterNet) - Object detection, 3D detection, and pose estimation using center point detection:
