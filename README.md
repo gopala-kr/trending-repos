@@ -469,6 +469,9 @@ April - 2019
 - [Machine Learning in Production: Software Architecture](https://blog.dominodatalab.com/machine-learning-in-production-software-architecture/)
 - [Comparing the Functionality of Open Source Natural Language Processing Libraries](https://blog.dominodatalab.com/comparing-the-functionality-of-open-source-natural-language-processing-libraries/)
 - [Reflections on the Data Science Platform Market](https://blog.dominodatalab.com/reflections-data-science-platform-market/)
+- [Intel Extends FPGA Ecosystem with 10nm Agilex](https://www.hpcwire.com/2019/04/11/intel-extends-fpga-ecosystem-with-10nm-agilex/)
+- [Digging into MLPerf Benchmark Suite to Inform AI Infrastructure Decisions](https://www.hpcwire.com/2019/04/09/digging-into-mlperf-benchmark-suite-to-inform-ai-infrastructure-decisions/)
+- [DARPA, NSF Seek Real-Time ML Processor](https://www.hpcwire.com/2019/03/18/darpa-nsf-seek-real-time-ml-processor/)
 
 ------------------------
 
