@@ -464,6 +464,8 @@ April - 2019
 - [Intel AI: real-world-ai-at-enterprise-scale](https://www.intel.ai/real-world-ai-at-enterprise-scale/#gs.5p0cp7)
 - [MorphNet: Towards Faster and Smaller Neural Networks](https://ai.googleblog.com/2019/04/morphnet-towards-faster-and-smaller.html)
 - [cbinsights: What Is Quantum Computing?](https://www.cbinsights.com/research/report/quantum-computing/)
+- [AI has the potential to enrich our lives in so many ways – if we use it properly](https://www.weforum.org/agenda/2019/04/dont-be-scared-of-ai-its-going-to-change-humanity-for-the-better/)
+- [NASA reveals future technology concepts](https://www.futuretimeline.net/blog/2019/04/17.htm)
 
 ------------------------
 
