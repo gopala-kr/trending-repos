@@ -473,6 +473,11 @@ April - 2019
 - [Digging into MLPerf Benchmark Suite to Inform AI Infrastructure Decisions](https://www.hpcwire.com/2019/04/09/digging-into-mlperf-benchmark-suite-to-inform-ai-infrastructure-decisions/)
 - [DARPA, NSF Seek Real-Time ML Processor](https://www.hpcwire.com/2019/03/18/darpa-nsf-seek-real-time-ml-processor/)
 - [Data: APIs, Hubs, Marketplaces, and Platforms](https://www.kdnuggets.com/datasets/api-hub-marketplace-platform.html)
+- [A novel data-compression technique for faster computer programs](http://news.mit.edu/2019/hardware-data-compression-0416)
+- [DARPA Making An Anonymous And Hack-Proof Mobile Communication System](https://www.darpa.mil/attachments/RACEProposersDayBriefing7-31-18.pdf)
+- [OpenAI Five crushes Dota2 world champs, and soon you can lose to it too](https://techcrunch.com/2019/04/15/openai-five-crushes-dota2-world-champs-and-soon-you-can-lose-to-it-too/)
+- [Ten steps to prepare for an exponential future](https://techcrunch.com/2019/04/14/ten-steps-to-prepare-for-an-exponential-future/)
+- [The Rise of Generative Adversarial Networks](https://www.kdnuggets.com/2019/04/rise-generative-adversarial-networks.html)
 
 ------------------------
 
