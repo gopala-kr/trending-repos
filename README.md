@@ -488,6 +488,20 @@ March 7 · Issue #24 ](http://newsletters.deeplearning.ml/issues/artificial-inte
 - [Open Questions about Generative Adversarial Networks](https://distill.pub/2019/gan-open-problems/)
 - [A Visual Exploration of Gaussian Processes](https://distill.pub/2019/visual-exploration-gaussian-processes/)
 - [Visualizing memorization in RNNs](https://distill.pub/2019/memorization-in-rnns/)
+- [AI pioneer: ‘The dangers of abuse are very real’](https://www.nature.com/articles/d41586-019-00505-2?utm_campaign=Artificial%2BIntelligence%2BWeekly&utm_medium=web&utm_source=Artificial_Intelligence_Weekly_103)
+- [The Animal-AI Olympics is going to treat AI like a lab rat](https://www.technologyreview.com/s/613248/is-ai-as-smart-as-a-chimp-or-a-lab-rat-the-animal-ai-olympics-is-going-to-find-out/?utm_campaign=Artificial%2BIntelligence%2BWeekly&utm_medium=web&utm_source=Artificial_Intelligence_Weekly_103)
+- [Smart home, machine learning and discovery](https://www.ben-evans.com/benedictevans/2019/4/3/tu4vs2tioi24biufgot7agru2lgbkh?utm_campaign=Artificial%2BIntelligence%2BWeekly&utm_medium=web&utm_source=Artificial_Intelligence_Weekly_103)
+- [Human Side of Tesla Autopilot](https://hcai.mit.edu/human-side-of-tesla-autopilot/?utm_campaign=Artificial%2BIntelligence%2BWeekly&utm_medium=web&utm_source=Artificial_Intelligence_Weekly_103)
+- [Teaching machines to reason about what they see](http://news.mit.edu/2019/teaching-machines-to-reason-about-what-they-see-0402?utm_campaign=Artificial%2BIntelligence%2BWeekly&utm_medium=web&utm_source=Artificial_Intelligence_Weekly_103)
+- [Introducing TensorFlow Privacy: Learning with Differential Privacy for Training Data](https://medium.com/tensorflow/introducing-tensorflow-privacy-learning-with-differential-privacy-for-training-data-b143c5e801b6)
+- [A Guide to Learning with Limited Labeled Data](https://blog.fastforwardlabs.com/2019/04/02/a-guide-to-learning-with-limited-labeled-data.html?utm_campaign=Artificial%2BIntelligence%2BWeekly&utm_medium=web&utm_source=Artificial_Intelligence_Weekly_103)
+- [Dig In: Startup Tills Satellite Data to Harvest Farm AI](https://blogs.nvidia.com/blog/2019/04/15/startup-onesoil-tills-satellite-data-to-harvest-farm-ai-gpu/)
+- [unlocking-dl-performance-with-ngraph](https://www.intel.ai/unlocking-dl-performance-with-ngraph/#gs.72u424)
+- [nauta-sailing-the-seas-of-distributed-dl](https://www.intel.ai/nauta-sailing-the-seas-of-distributed-dl/#gs.72u4cj)
+- [vnni-enables-inference](https://www.intel.ai/vnni-enables-inference/#gs.72u3tu)
+- [real-world-ai-at-enterprise-scale](https://www.intel.ai/real-world-ai-at-enterprise-scale/#gs.72u42u)
+- [FACEBOOKai: Improving scene understanding through panoptic segmentation](https://ai.facebook.com/blog/improving-scene-understanding-through-panoptic-segmentation/?ref=shareable)
+
 
 
 ------------------------
