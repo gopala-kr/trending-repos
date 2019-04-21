@@ -478,6 +478,10 @@ April - 2019
 - [OpenAI Five crushes Dota2 world champs, and soon you can lose to it too](https://techcrunch.com/2019/04/15/openai-five-crushes-dota2-world-champs-and-soon-you-can-lose-to-it-too/)
 - [Ten steps to prepare for an exponential future](https://techcrunch.com/2019/04/14/ten-steps-to-prepare-for-an-exponential-future/)
 - [The Rise of Generative Adversarial Networks](https://www.kdnuggets.com/2019/04/rise-generative-adversarial-networks.html)
+- [AI-Powered Solutions for Industries](https://www.faceplusplus.com/blog/article/ai-powered-solutions-for-industries/)
+- [AI Monthly Digest #7 – machine mistakes, and the hard way to profit from non-profit	](https://deepsense.ai/ai-monthly-digest-7-machine-mistakes-and-the-hard-way-to-profit-from-non-profit/)
+- [how-machine-learning-is-crafting-precision-medicine](https://www.forbes.com/sites/insights-intelai/2019/02/11/how-machine-learning-is-crafting-precision-medicine/#274962c59416)
+- [Filling in the missing pieces': How AI is transforming drug discovery, development and innovation](https://nationalpost.com/news/filling-in-the-missing-pieces-how-ai-is-transforming-drug-discovery-development-and-innovation)
 
 ------------------------
 
