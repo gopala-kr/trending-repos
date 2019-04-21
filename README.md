@@ -466,6 +466,9 @@ April - 2019
 - [cbinsights: What Is Quantum Computing?](https://www.cbinsights.com/research/report/quantum-computing/)
 - [AI has the potential to enrich our lives in so many ways – if we use it properly](https://www.weforum.org/agenda/2019/04/dont-be-scared-of-ai-its-going-to-change-humanity-for-the-better/)
 - [NASA reveals future technology concepts](https://www.futuretimeline.net/blog/2019/04/17.htm)
+- [Machine Learning in Production: Software Architecture](https://blog.dominodatalab.com/machine-learning-in-production-software-architecture/)
+- [Comparing the Functionality of Open Source Natural Language Processing Libraries](https://blog.dominodatalab.com/comparing-the-functionality-of-open-source-natural-language-processing-libraries/)
+- [Reflections on the Data Science Platform Market](https://blog.dominodatalab.com/reflections-data-science-platform-market/)
 
 ------------------------
 
