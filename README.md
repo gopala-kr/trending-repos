@@ -482,6 +482,13 @@ April - 2019
 - [AI Monthly Digest #7 – machine mistakes, and the hard way to profit from non-profit	](https://deepsense.ai/ai-monthly-digest-7-machine-mistakes-and-the-hard-way-to-profit-from-non-profit/)
 - [how-machine-learning-is-crafting-precision-medicine](https://www.forbes.com/sites/insights-intelai/2019/02/11/how-machine-learning-is-crafting-precision-medicine/#274962c59416)
 - [Filling in the missing pieces': How AI is transforming drug discovery, development and innovation](https://nationalpost.com/news/filling-in-the-missing-pieces-how-ai-is-transforming-drug-discovery-development-and-innovation)
+- [Artificial Intelligence APAC
+March 7 · Issue #24 ](http://newsletters.deeplearning.ml/issues/artificial-intelligence-apac-issue-24-156985)
+- [Introducing spaCy v2.1](https://explosion.ai/blog/spacy-v2-1)
+- [Open Questions about Generative Adversarial Networks](https://distill.pub/2019/gan-open-problems/)
+- [A Visual Exploration of Gaussian Processes](https://distill.pub/2019/visual-exploration-gaussian-processes/)
+- [Visualizing memorization in RNNs](https://distill.pub/2019/memorization-in-rnns/)
+
 
 ------------------------
 
