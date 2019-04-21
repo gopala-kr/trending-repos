@@ -463,7 +463,7 @@ April - 2019
 - [Intel AI: model-zoo-ia](https://www.intel.ai/model-zoo-ia/)
 - [Intel AI: real-world-ai-at-enterprise-scale](https://www.intel.ai/real-world-ai-at-enterprise-scale/#gs.5p0cp7)
 - [MorphNet: Towards Faster and Smaller Neural Networks](https://ai.googleblog.com/2019/04/morphnet-towards-faster-and-smaller.html)
-
+- [cbinsights: What Is Quantum Computing?](https://www.cbinsights.com/research/report/quantum-computing/)
 
 ------------------------
 
