@@ -1690,6 +1690,13 @@ and Able? ](https://www.parliament.uk/documents/lords-committees/Artificial-Inte
  
  [Back to top](#contents)
 
+- []()
+- []()
+- []()
+- []()
+- [neural-painters](https://github.com/reiinakano/neural-painters)
+- [Microsoft/BosqueLanguage](https://github.com/Microsoft/BosqueLanguage)
+- [commit-messages-guide](https://github.com/RomuloOliveira/commit-messages-guide)
 - [CornerNet-Lite](https://github.com/princeton-vl/CornerNet-Lite) - CornerNet-Lite: Training, Evaluation and Testing Code
 - [CVPR-2019-Paper-Statistics](https://github.com/hoya012/CVPR-2019-Paper-Statistics) - Statistics and Visualization of acceptance rate, main keyword of CVPR 2019 accepted papers for the main Computer Vision conference (CVPR)
 - [meshroom](https://github.com/alicevision/meshroom) - 3D Reconstruction Software http://alicevision.github.io
