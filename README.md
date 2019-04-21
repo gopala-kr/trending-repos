@@ -472,6 +472,7 @@ April - 2019
 - [Intel Extends FPGA Ecosystem with 10nm Agilex](https://www.hpcwire.com/2019/04/11/intel-extends-fpga-ecosystem-with-10nm-agilex/)
 - [Digging into MLPerf Benchmark Suite to Inform AI Infrastructure Decisions](https://www.hpcwire.com/2019/04/09/digging-into-mlperf-benchmark-suite-to-inform-ai-infrastructure-decisions/)
 - [DARPA, NSF Seek Real-Time ML Processor](https://www.hpcwire.com/2019/03/18/darpa-nsf-seek-real-time-ml-processor/)
+- [Data: APIs, Hubs, Marketplaces, and Platforms](https://www.kdnuggets.com/datasets/api-hub-marketplace-platform.html)
 
 ------------------------
 
@@ -2231,6 +2232,8 @@ A sequence of Jupyter notebooks featuring the "12 Steps to Navier-Stokes" http:/
 - [The Google Brain Residency Program - One Year Later](https://research.googleblog.com/2017/07/the-google-brain-residency-program-one.html)
 - [Intel AI Residency](https://ai.intel.com/iclr-2018/)
 - [NVIDIA AI Research Residency - 2019](https://blogs.nvidia.com/blog/2018/11/02/residence-in-nvidia-launches-year-long-research-residency-program/)
+- [Academic, Research Positions in Big Data, Data Mining, Data Science, Machine Learning](https://www.kdnuggets.com/academic/index.html)
+- [Meetings / Conferences on AI, Analytics, Big Data, Data Mining, Data Science, & Machine Learning](https://www.kdnuggets.com/meetings/index.html)
 
 ------------
 
