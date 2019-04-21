@@ -1689,11 +1689,9 @@ and Able? ](https://www.parliament.uk/documents/lords-committees/Artificial-Inte
  ###### Latest
  
  [Back to top](#contents)
-
-- []()
-- []()
-- []()
-- []()
+ 
+- [graph-based-deep-learning-literature](https://github.com/naganandy/graph-based-deep-learning-literature)
+- [awesome-ai-ml-dl](https://github.com/neomatrix369/awesome-ai-ml-dl)
 - [neural-painters](https://github.com/reiinakano/neural-painters)
 - [Microsoft/BosqueLanguage](https://github.com/Microsoft/BosqueLanguage)
 - [commit-messages-guide](https://github.com/RomuloOliveira/commit-messages-guide)
