@@ -1690,6 +1690,8 @@ and Able? ](https://www.parliament.uk/documents/lords-committees/Artificial-Inte
  
  [Back to top](#contents)
  
+- [manim](https://github.com/3b1b/manim) - Animation engine for explanatory math videos
+- [meta-transfer-learning-tensorflow](https://github.com/y2l/meta-transfer-learning-tensorflow) - The TensorFlow implementation for "Meta-Transfer Learning for Few-Shot Learning" https://mtl.yyliu.net/
 - [graph-based-deep-learning-literature](https://github.com/naganandy/graph-based-deep-learning-literature)
 - [awesome-ai-ml-dl](https://github.com/neomatrix369/awesome-ai-ml-dl)
 - [neural-painters](https://github.com/reiinakano/neural-painters)
