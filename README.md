@@ -501,7 +501,7 @@ March 7 · Issue #24 ](http://newsletters.deeplearning.ml/issues/artificial-inte
 - [vnni-enables-inference](https://www.intel.ai/vnni-enables-inference/#gs.72u3tu)
 - [real-world-ai-at-enterprise-scale](https://www.intel.ai/real-world-ai-at-enterprise-scale/#gs.72u42u)
 - [FACEBOOKai: Improving scene understanding through panoptic segmentation](https://ai.facebook.com/blog/improving-scene-understanding-through-panoptic-segmentation/?ref=shareable)
-
+- [GoogleAI:SpecAugment: A New Data Augmentation Method for Automatic Speech Recognition](https://ai.googleblog.com/2019/04/specaugment-new-data-augmentation.html)
 
 
 ------------------------
@@ -1689,7 +1689,9 @@ and Able? ](https://www.parliament.uk/documents/lords-committees/Artificial-Inte
  ###### Latest
  
  [Back to top](#contents)
- 
+
+- [linux-network-performance-parameters](https://github.com/leandromoreira/linux-network-performance-parameters) - Learn where some of the network sysctl variables fit into the Linux/Kernel network flow
+- [Interesting-python](https://github.com/Alfred1984/interesting-python)
 - [manim](https://github.com/3b1b/manim) - Animation engine for explanatory math videos
 - [meta-transfer-learning-tensorflow](https://github.com/y2l/meta-transfer-learning-tensorflow) - The TensorFlow implementation for "Meta-Transfer Learning for Few-Shot Learning" https://mtl.yyliu.net/
 - [graph-based-deep-learning-literature](https://github.com/naganandy/graph-based-deep-learning-literature)
