@@ -502,7 +502,9 @@ March 7 · Issue #24 ](http://newsletters.deeplearning.ml/issues/artificial-inte
 - [real-world-ai-at-enterprise-scale](https://www.intel.ai/real-world-ai-at-enterprise-scale/#gs.72u42u)
 - [FACEBOOKai: Improving scene understanding through panoptic segmentation](https://ai.facebook.com/blog/improving-scene-understanding-through-panoptic-segmentation/?ref=shareable)
 - [GoogleAI:SpecAugment: A New Data Augmentation Method for Automatic Speech Recognition](https://ai.googleblog.com/2019/04/specaugment-new-data-augmentation.html)
-
+- [OpenAI: Generative
+Modeling with
+Sparse Transformers](https://openai.com/blog/sparse-transformer/)
 
 ------------------------
 
