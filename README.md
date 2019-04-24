@@ -505,6 +505,8 @@ March 7 · Issue #24 ](http://newsletters.deeplearning.ml/issues/artificial-inte
 - [OpenAI: Generative
 Modeling with
 Sparse Transformers](https://openai.com/blog/sparse-transformer/)
+- [Steepest ascent](http://timvieira.github.io/blog/post/2019/04/19/steepest-ascent/)
+- []()
 
 ------------------------
 
