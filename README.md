@@ -506,7 +506,7 @@ March 7 · Issue #24 ](http://newsletters.deeplearning.ml/issues/artificial-inte
 Modeling with
 Sparse Transformers](https://openai.com/blog/sparse-transformer/)
 - [Steepest ascent](http://timvieira.github.io/blog/post/2019/04/19/steepest-ascent/)
-- []()
+- [The likelihood-ratio gradient](http://timvieira.github.io/blog/post/2019/04/20/the-likelihood-ratio-gradient/)
 
 ------------------------
 
