@@ -138,6 +138,15 @@
 | [giant_neural_network](https://www.youtube.com/user/LogicGodTV/playlists)
 | [engadget](https://www.youtube.com/user/engadget/featured)
 | [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw/videos)
+| [Computerphile](https://www.youtube.com/user/Computerphile/videos)
+| [BrandonRohrer](https://www.youtube.com/user/BrandonRohrer/videos)
+| [sentdex](https://www.youtube.com/user/sentdex/videos)
+| [Luis Serrano](https://www.youtube.com/channel/UCgBncpylJ1kiVaPyP-PZauQ/videos)
+| [joshstarmer](https://www.youtube.com/user/joshstarmer/videos)
+| [Sciencephile](https://www.youtube.com/channel/UC7BhHN8NyMMru2RUygnDXSg/videos)
+| [CBMM](https://www.youtube.com/channel/UCGoxKRfTs0jQP52cfHCyyRQ/videos)
+| [dataschool](https://www.youtube.com/user/dataschool/featured)
+| [gcp](https://www.youtube.com/user/googlecloudplatform/featured)
 ||
 
 
