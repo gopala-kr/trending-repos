@@ -508,7 +508,7 @@ Sparse Transformers](https://openai.com/blog/sparse-transformer/)
 - [Steepest ascent](http://timvieira.github.io/blog/post/2019/04/19/steepest-ascent/)
 - [The likelihood-ratio gradient](http://timvieira.github.io/blog/post/2019/04/20/the-likelihood-ratio-gradient/)
 - [Evaluating the Unsupervised Learning of Disentangled Representations](https://ai.googleblog.com/2019/04/evaluating-unsupervised-learning-of.html)
-- []()
+- [MuseNet](https://openai.com/blog/musenet/)
 
 ------------------------
 
