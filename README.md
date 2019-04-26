@@ -442,9 +442,6 @@
  ||
 
 
-| [WawamuStats ](https://www.youtube.com/channel/UCy0dKy89rZFR8OCbAT69wcQ)
-| [TheRankings](https://www.youtube.com/channel/UCv0Fm-Ge7D_zmN9Gw9x2cMA)
-| [RankingTheWorld](https://www.youtube.com/channel/UCFRoQ_PH8Ho5bUQb443PPqw/videos)
 
 ----------------
 
@@ -1704,6 +1701,7 @@ and Able? ](https://www.parliament.uk/documents/lords-committees/Artificial-Inte
  
  [Back to top](#contents)
 
+- [fklearn](https://github.com/nubank/fklearn) - fklearn: Functional Machine Learning
 - [linux-network-performance-parameters](https://github.com/leandromoreira/linux-network-performance-parameters) - Learn where some of the network sysctl variables fit into the Linux/Kernel network flow
 - [Interesting-python](https://github.com/Alfred1984/interesting-python)
 - [manim](https://github.com/3b1b/manim) - Animation engine for explanatory math videos
