@@ -124,6 +124,20 @@
 | [WawamuStats ](https://www.youtube.com/channel/UCy0dKy89rZFR8OCbAT69wcQ)
 | [TheRankings](https://www.youtube.com/channel/UCv0Fm-Ge7D_zmN9Gw9x2cMA)
 | [RankingTheWorld](https://www.youtube.com/channel/UCFRoQ_PH8Ho5bUQb443PPqw/videos)
+| [Maaaarth](https://www.youtube.com/user/Maaaarth/videos)
+| [MITCSAIL](https://www.youtube.com/user/MITCSAIL/videos)
+| [AI2](https://www.youtube.com/channel/UCEqgmyWChwvt6MFGGlmUQCQ/videos)
+| [DM](https://www.youtube.com/channel/UCP7jMXSY2xbc3KCAE0MHQ-A/videos)
+| [Robert Miles](https://www.youtube.com/channel/UCLB7AzTwc6VFZrBsO2ucBMg/videos)
+| [aai](https://www.youtube.com/channel/UCJINtWke3-FMz2WuEltWDVQ/videos)
+| [SSCAIT](https://www.youtube.com/user/certicky/videos)
+| [andrewyantakng](https://www.youtube.com/user/andrewyantakng/feed)
+| [techcrunch](https://www.youtube.com/user/techcrunch/featured)
+| [CNETTV](https://www.youtube.com/user/CNETTV/featured)
+| [TheVerge](https://www.youtube.com/user/TheVerge/featured)
+| [giant_neural_network](https://www.youtube.com/user/LogicGodTV/playlists)
+| [engadget](https://www.youtube.com/user/engadget/featured)
+| [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw/videos)
 ||
 
 
