@@ -313,6 +313,8 @@
 | [databox](https://databox.com/templates)
 | [venturescanner](https://medium.com/@venturescanner)
 | [venturedeal](http://www.venturedeal.com/Reports/Default.aspx)
+| [techcrunch](https://www.youtube.com/user/techcrunch)
+| [engadget](https://www.youtube.com/user/engadget)
 ||
 
 || [Kate Crawford](http://www.katecrawford.net/)
@@ -477,7 +479,7 @@
 ||
 
 ||
-| [minutephysics](https://www.youtube.com/user/minutephysics/videos)
+ [minutephysics](https://www.youtube.com/user/minutephysics/videos)
 | [scishowspace](https://www.youtube.com/user/scishowspace/videos)
 | [DeepSkyVideos](https://www.youtube.com/user/DeepSkyVideos/playlists)
 | [Kurzgesagt](https://www.youtube.com/user/Kurzgesagt)
