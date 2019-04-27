@@ -474,6 +474,9 @@
 | [spacefordummies](http://spacefordummies.com/blog/)
 | [meteorides](http://www.meteorides.com/blog/)
 | [spacefrontier](https://spacefrontier.org/category/newspace-news/)
+||
+
+||
 | [minutephysics](https://www.youtube.com/user/minutephysics/videos)
 | [scishowspace](https://www.youtube.com/user/scishowspace/videos)
 | [DeepSkyVideos](https://www.youtube.com/user/DeepSkyVideos/playlists)
