@@ -391,8 +391,8 @@
 | [opensourceforu](https://opensourceforu.com/)
 ||
 
-||
-[space.com](https://www.space.com/) 
+|| [Two Minute Papers](https://www.youtube.com/user/keeroyz)
+| [space.com](https://www.space.com/) 
 | [futuretimeline](https://www.futuretimeline.net/blog/space-blog.htm) 
 | [planetary](http://www.planetary.org/blogs/) 
 | [nature](http://blogs.nature.com/blog/category/space/) 
@@ -475,6 +475,24 @@
 | [spacefrontier](https://spacefrontier.org/category/newspace-news/)
 | [minutephysics](https://www.youtube.com/user/minutephysics/videos)
 | [scishowspace](https://www.youtube.com/user/scishowspace/videos)
+| [DeepSkyVideos](https://www.youtube.com/user/DeepSkyVideos/playlists)
+| [Kurzgesagt](https://www.youtube.com/user/Kurzgesagt)
+| [periodicvideos](https://www.youtube.com/user/periodicvideos)
+| [numberphile](https://www.youtube.com/user/numberphile/playlists)
+| [PBS Space Time](https://www.youtube.com/channel/UC7_gcs09iThXybpVgjHZ_7g)
+| [SpaceRip](https://www.youtube.com/user/SpaceRip)
+| [worldsciencefestival](https://www.youtube.com/user/worldsciencefestival/videos)
+| [tdarnell](https://www.youtube.com/user/tdarnell/videos)
+| [EugeneKhutoryansky](https://www.youtube.com/user/EugeneKhutoryansky)
+| [fermilab](https://www.youtube.com/user/fermilab)
+| [TheScienceAsylum](https://www.youtube.com/user/TheScienceAsylum/videos)
+| [TEDEducation](https://www.youtube.com/user/TEDEducation/videos)
+| [Walter Lewin](https://www.youtube.com/channel/UCiEHVhv0SBMpP75JbzJShqw)
+| [SciAmerican](https://www.youtube.com/user/SciAmerican/)
+| [NatureVideo](https://www.youtube.com/user/NatureVideoChannel)
+| [spacelab](https://www.youtube.com/user/spacelab)
+| [minuteearth](https://www.youtube.com/user/minuteearth)
+| [DrPhysicsA](https://www.youtube.com/channel/UCIVaddFslWk1TFoKNrvh99Q)
  ||
 
 
