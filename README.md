@@ -153,6 +153,7 @@
 | [CBMM](https://www.youtube.com/channel/UCGoxKRfTs0jQP52cfHCyyRQ/videos)
 | [dataschool](https://www.youtube.com/user/dataschool/featured)
 | [gcp](https://www.youtube.com/user/googlecloudplatform/featured)
+| [MITOpenCourseWare](https://www.youtube.com/user/MIT/playlists)
 ||
 
 
@@ -333,7 +334,11 @@
 ||
 
 
-||  [researchstash](https://www.researchstash.com/)
+||  [BiotechReview](https://www.youtube.com/user/BiotechReview/videos)
+| [GENNews](https://www.youtube.com/user/GENNews/videos)
+| [ABNOVA1](https://www.youtube.com/user/ABNOVA1/videos?pbjreload=10)
+| [MoofUniversity](https://www.youtube.com/user/MoofUniversity/playlists)
+| [researchstash](https://www.researchstash.com/)
 | [gcbias](https://gcbias.org/)
 | [thednageek](https://thednageek.com/blog/)
 | [jmhartley](http://www.jmhartley.com/HBlog/)
@@ -468,6 +473,8 @@
 | [spacefordummies](http://spacefordummies.com/blog/)
 | [meteorides](http://www.meteorides.com/blog/)
 | [spacefrontier](https://spacefrontier.org/category/newspace-news/)
+| [minutephysics](https://www.youtube.com/user/minutephysics/videos)
+| [scishowspace](https://www.youtube.com/user/scishowspace/videos)
  ||
 
 
