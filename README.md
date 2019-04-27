@@ -80,7 +80,6 @@
 | [aimlmarketplace](https://www.aimlmarketplace.com/read-ai-ml-blogs)
 | [aiweekly](http://aiweekly.co/)
 | [aitechnologylaw](http://aitechnologylaw.com/)
-| [MITCSAIL](https://www.youtube.com/user/MITCSAIL/videos)
 | [deephunt](https://deephunt.in/)
 | [karpathy](http://karpathy.github.io/)
 | [colah](http://colah.github.io/)
@@ -120,7 +119,14 @@
 | [paperswithcode.com](https://paperswithcode.com/)
 ||
 
-|| [Andrej Karpathy](https://www.youtube.com/channel/UCPk8m_r6fkUSYmvgCBwq-sw) | [Lex Fridman](https://www.youtube.com/channel/UCSHZKyawb77ixDdsGog4iWA) | [Arxiv Insights](https://www.youtube.com/channel/UCNIkB2IeJ-6AmZv7bQ1oBYg/featured) | [LogicGodTV](https://www.youtube.com/user/LogicGodTV/playlists) | [MLconf](https://www.youtube.com/channel/UCjeM1xxYb_37bZfyparLS3Q/feed) | [Machine Learning TV](https://www.youtube.com/channel/UChIaUcs3tho6XhyU6K6KMrw/featured) | [DeepLearning.TV](https://www.youtube.com/channel/UC9OeZkIwhzfv-_Cb7fCikLQ/playlists)| [Siraj Raval](https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A) 
+|| [Andrej Karpathy](https://www.youtube.com/channel/UCPk8m_r6fkUSYmvgCBwq-sw) 
+| [Lex Fridman](https://www.youtube.com/channel/UCSHZKyawb77ixDdsGog4iWA) 
+| [Arxiv Insights](https://www.youtube.com/channel/UCNIkB2IeJ-6AmZv7bQ1oBYg/featured) 
+| [LogicGodTV](https://www.youtube.com/user/LogicGodTV/playlists) 
+| [MLconf](https://www.youtube.com/channel/UCjeM1xxYb_37bZfyparLS3Q/feed) 
+| [Machine Learning TV](https://www.youtube.com/channel/UChIaUcs3tho6XhyU6K6KMrw/featured) 
+| [DeepLearning.TV](https://www.youtube.com/channel/UC9OeZkIwhzfv-_Cb7fCikLQ/playlists)
+| [Siraj Raval](https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A) 
 | [WawamuStats ](https://www.youtube.com/channel/UCy0dKy89rZFR8OCbAT69wcQ)
 | [TheRankings](https://www.youtube.com/channel/UCv0Fm-Ge7D_zmN9Gw9x2cMA)
 | [RankingTheWorld](https://www.youtube.com/channel/UCFRoQ_PH8Ho5bUQb443PPqw/videos)
