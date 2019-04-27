@@ -154,6 +154,7 @@
 | [dataschool](https://www.youtube.com/user/dataschool/featured)
 | [gcp](https://www.youtube.com/user/googlecloudplatform/featured)
 | [MITOpenCourseWare](https://www.youtube.com/user/MIT/playlists)
+| [Science Studio](https://www.youtube.com/channel/UCmbkRUS_4Efdt5UIhwNqtcw/videos)
 ||
 
 
@@ -493,6 +494,21 @@
 | [spacelab](https://www.youtube.com/user/spacelab)
 | [minuteearth](https://www.youtube.com/user/minuteearth)
 | [DrPhysicsA](https://www.youtube.com/channel/UCIVaddFslWk1TFoKNrvh99Q)
+| [VideosatNSF](https://www.youtube.com/user/VideosatNSF/videos)
+| [beyondsciencetv](https://www.youtube.com/user/beyondsciencetv/videos)
+| [ScienceEtonnante](https://www.youtube.com/user/ScienceEtonnante/videos)
+| [TheRoyalInstitution](https://www.youtube.com/user/TheRoyalInstitution/videos)
+| [Isaac Arthur](https://www.youtube.com/channel/UCZFipeZtQM5CKUjx6grh54g/videos)
+| [ScienceAtNASA](https://www.youtube.com/user/ScienceAtNASA/videos)
+| [NASAtelevision](https://www.youtube.com/user/NASAtelevision)
+| [canadianspaceagency](https://www.youtube.com/user/canadianspaceagency)
+| [VideoFromSpace](https://www.youtube.com/user/VideoFromSpace)
+| [NASAKennedy](https://www.youtube.com/user/NASAKennedy/playlists)
+| [spacexchannel](https://www.youtube.com/user/spacexchannel/featured)
+| [Scott Manley](https://www.youtube.com/user/szyzyg)
+| [Hubble Space Telescope](https://www.youtube.com/user/HubbleSiteChannel/videos)
+| [space and astronomy](https://www.youtube.com/channel/UC1-7mA0mKsCTyCMG4JNO3EQ/videos)
+| [SVAstronomyLectures](https://www.youtube.com/user/SVAstronomyLectures/videos)
  ||
 
 
