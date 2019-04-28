@@ -514,6 +514,9 @@
 | [Hubble Space Telescope](https://www.youtube.com/user/HubbleSiteChannel/videos)
 | [space and astronomy](https://www.youtube.com/channel/UC1-7mA0mKsCTyCMG4JNO3EQ/videos)
 | [SVAstronomyLectures](https://www.youtube.com/user/SVAstronomyLectures/videos)
+| [PIOutreach](https://www.youtube.com/user/PIOutreach)
+| [ESOobservatory](https://www.youtube.com/user/ESOobservatory)
+| [Mr Scientific](https://www.youtube.com/channel/UCj_2_t-iugOjrhv4XUwVFYg)
  ||
 
 
