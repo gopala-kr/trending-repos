@@ -517,6 +517,7 @@
 | [PIOutreach](https://www.youtube.com/user/PIOutreach)
 | [ESOobservatory](https://www.youtube.com/user/ESOobservatory)
 | [Mr Scientific](https://www.youtube.com/channel/UCj_2_t-iugOjrhv4XUwVFYg)
+| [Cuckoo for Kaku](https://www.youtube.com/channel/UC9pcR-IdYqnTg3PFrRWHtOA/videos)
  ||
 
 
