@@ -31,6 +31,7 @@
 
 || [deepmind](https://deepmind.com/blog/)
 | [openai](https://blog.openai.com/)
+| [openai.com/progress](https://openai.com/progress/)
 | [googleblog-brain-team](https://ai.googleblog.com/)
 | [fair](https://research.fb.com/blog/)
 | [fast.ai](https://www.fast.ai/topics/)
