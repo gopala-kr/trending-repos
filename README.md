@@ -1780,7 +1780,9 @@ and Able? ](https://www.parliament.uk/documents/lords-committees/Artificial-Inte
  ###### Latest
  
  [Back to top](#contents)
-
+ 
+- [techniques](https://github.com/firmai/techniques)
+- [Data-Science--Cheat-Sheet](https://github.com/abhat222/Data-Science--Cheat-Sheet)
 - [spinning-up-basic](https://github.com/Kaixhin/spinning-up-basic) - Basic versions of agents from Spinning Up in Deep RL written in PyTorch
 - [info8010-deep-learning](https://github.com/glouppe/info8010-deep-learning)
 - [Network_Science_Meets_Deep_Learning](https://github.com/vinayprabhu/Network_Science_Meets_Deep_Learning)
