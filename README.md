@@ -159,7 +159,8 @@
 ||
 
 
-|| [singularityhub](https://singularityhub.com/topics/#sm.0000u2nejl1ee3czhzjl7iznot63h)
+|| [futurism](https://futurism.com/)
+| [singularityhub](https://singularityhub.com/topics/#sm.0000u2nejl1ee3czhzjl7iznot63h)
 | [r-bloggers](https://www.r-bloggers.com/)
 | [echen](http://blog.echen.me/)
 | [towardsdatascience](https://towardsdatascience.com/)
@@ -594,6 +595,17 @@ Sparse Transformers](https://openai.com/blog/sparse-transformer/)
 - [The likelihood-ratio gradient](http://timvieira.github.io/blog/post/2019/04/20/the-likelihood-ratio-gradient/)
 - [Evaluating the Unsupervised Learning of Disentangled Representations](https://ai.googleblog.com/2019/04/evaluating-unsupervised-learning-of.html)
 - [MuseNet](https://openai.com/blog/musenet/)
+- [Baidu Announced 11 News tools to PaddlePaddle and RMB 100 Million Worth of Free Computing Resources to Support Developers](http://research.baidu.com/Blog/index-view?id=114)
+- [DeepFake News-“AI-Synthesized Content”- Latest Challenge for News Content Pipeline and Providers](https://www.aitrends.com/ethics-and-social-issues/deepfake-news-ai-synthesized-content-latest-challenge-for-news-content-pipeline-and-providers/)
+- [The Case For Embedded FPGAs Strengthens And Widens](https://semiengineering.com/embedded-fpga-becomes-a-viable-option/)
+- [Controlling IC Manufacturing Processes For Yield](https://semiengineering.com/controlling-ic-manufacturing-processes-to-boost-yield/)
+- [Global 5G wireless networks threaten weather forecasts](https://www.nature.com/articles/d41586-019-01305-4)
+- [Dark-matter detector observes exotic nuclear decay](https://www.nature.com/articles/d41586-019-01212-8)
+- [Climate protests, opioid fight and harassment in physics](https://www.nature.com/articles/d41586-019-01236-0)
+- [Brain implants that let you speak your mind](https://www.nature.com/articles/d41586-019-01181-y)
+- [Junior AI researchers are in demand by universities and industry](https://www.nature.com/articles/d41586-019-01248-w)
+- [Why the huge growth in AI spells a big opportunity for transdisciplinary researchers](https://www.nature.com/articles/d41586-019-01251-1)
+- [For better deep neural network vision, just add feedback (loops)](http://news.mit.edu/2019/improved-deep-neural-network-vision-systems-just-provide-feedback-loops-0429)
 
 ------------------------
 
@@ -1781,6 +1793,7 @@ and Able? ](https://www.parliament.uk/documents/lords-committees/Artificial-Inte
  
  [Back to top](#contents)
  
+- [Network_Science_Meets_Deep_Learning](https://github.com/vinayprabhu/Network_Science_Meets_Deep_Learning) - Designing Deep neural network architectures using topologies from the world of Complex Networks/network Science
 - [techniques](https://github.com/firmai/techniques)
 - [Data-Science--Cheat-Sheet](https://github.com/abhat222/Data-Science--Cheat-Sheet)
 - [spinning-up-basic](https://github.com/Kaixhin/spinning-up-basic) - Basic versions of agents from Spinning Up in Deep RL written in PyTorch
