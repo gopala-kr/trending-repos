@@ -156,10 +156,13 @@
 | [gcp](https://www.youtube.com/user/googlecloudplatform/featured)
 | [MITOpenCourseWare](https://www.youtube.com/user/MIT/playlists)
 | [Science Studio](https://www.youtube.com/channel/UCmbkRUS_4Efdt5UIhwNqtcw/videos)
+| [BostonDynamics](https://www.youtube.com/user/BostonDynamics/playlists)
+| [DARPAtv](https://www.youtube.com/user/DARPAtv/playlists)
 ||
 
 
-|| [futurism](https://futurism.com/)
+|| [futureforall](https://www.futureforall.org/)
+| [futurism](https://futurism.com/)
 | [singularityhub](https://singularityhub.com/topics/#sm.0000u2nejl1ee3czhzjl7iznot63h)
 | [r-bloggers](https://www.r-bloggers.com/)
 | [echen](http://blog.echen.me/)
