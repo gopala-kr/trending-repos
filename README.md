@@ -1825,6 +1825,8 @@ and Able? ](https://www.parliament.uk/documents/lords-committees/Artificial-Inte
  
  [Back to top](#contents)
  
+- [ai-edu](https://github.com/microsoft/ai-edu) - AI education materials for Chinese students, teachers and IT professionals.
+- [augmented-neural-odes](https://github.com/EmilienDupont/augmented-neural-odes) 
 - [stanford-cs-221-artificial-intelligenc](https://github.com/afshinea/stanford-cs-221-artificial-intelligence)
 - [videoflow](https://github.com/videoflow/videoflow)
 - [Network_Science_Meets_Deep_Learning](https://github.com/vinayprabhu/Network_Science_Meets_Deep_Learning) - Designing Deep neural network architectures using topologies from the world of Complex Networks/network Science
