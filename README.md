@@ -1825,12 +1825,13 @@ and Able? ](https://www.parliament.uk/documents/lords-committees/Artificial-Inte
  
  [Back to top](#contents)
  
+- [stanford-cs-221-artificial-intelligenc](https://github.com/afshinea/stanford-cs-221-artificial-intelligence)
+- [videoflow](https://github.com/videoflow/videoflow)
 - [Network_Science_Meets_Deep_Learning](https://github.com/vinayprabhu/Network_Science_Meets_Deep_Learning) - Designing Deep neural network architectures using topologies from the world of Complex Networks/network Science
 - [techniques](https://github.com/firmai/techniques)
 - [Data-Science--Cheat-Sheet](https://github.com/abhat222/Data-Science--Cheat-Sheet)
 - [spinning-up-basic](https://github.com/Kaixhin/spinning-up-basic) - Basic versions of agents from Spinning Up in Deep RL written in PyTorch
 - [info8010-deep-learning](https://github.com/glouppe/info8010-deep-learning)
-- [Network_Science_Meets_Deep_Learning](https://github.com/vinayprabhu/Network_Science_Meets_Deep_Learning)
 - [fklearn](https://github.com/nubank/fklearn)
 - [GraphConv4MARL](https://github.com/PKU-AI-Edge/GraphConv4MARL)
 - [openai/sparse_attention](https://github.com/openai/sparse_attention) - Examples of using sparse attention, as in "Generating Long Sequences with Sparse Transformers"
