@@ -1825,6 +1825,7 @@ and Able? ](https://www.parliament.uk/documents/lords-committees/Artificial-Inte
  
  [Back to top](#contents)
  
+- [facebookresearch/pythia](https://github.com/facebookresearch/pythia) - A modular framework for vision & language multimodal research from Facebook AI Research (FAIR) https://learnpythia.readthedocs.io/
 - [microsoft/SPTAG](https://github.com/microsoft/SPTAG) 
 - [Data-Science--Cheat-Sheet](https://github.com/abhat222/Data-Science--Cheat-Sheet) - Cheat Sheets 
 - [single-parameter-fit](https://github.com/Ranlot/single-parameter-fit) - Real numbers, data science and chaos: How to fit any dataset with a single parameter
