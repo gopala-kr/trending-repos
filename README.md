@@ -1825,7 +1825,8 @@ and Able? ](https://www.parliament.uk/documents/lords-committees/Artificial-Inte
  
  [Back to top](#contents)
  
-
+- [single-parameter-fit](https://github.com/Ranlot/single-parameter-fit) - Real numbers, data science and chaos: How to fit any dataset with a single parameter
+- [facebook/Ax](https://github.com/facebook/Ax) - Adaptive Experimentation Platform https://ax.dev
 - [SimpleSelfAttention](https://github.com/sdoria/SimpleSelfAttention)
 - [tensorwatch](https://github.com/microsoft/tensorwatch)
 - [ai-edu](https://github.com/microsoft/ai-edu) - AI education materials for Chinese students, teachers and IT professionals.
