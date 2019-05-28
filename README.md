@@ -1825,6 +1825,9 @@ and Able? ](https://www.parliament.uk/documents/lords-committees/Artificial-Inte
  
  [Back to top](#contents)
  
+
+- [SimpleSelfAttention](https://github.com/sdoria/SimpleSelfAttention)
+- [tensorwatch](https://github.com/microsoft/tensorwatch)
 - [ai-edu](https://github.com/microsoft/ai-edu) - AI education materials for Chinese students, teachers and IT professionals.
 - [augmented-neural-odes](https://github.com/EmilienDupont/augmented-neural-odes) 
 - [stanford-cs-221-artificial-intelligenc](https://github.com/afshinea/stanford-cs-221-artificial-intelligence)
