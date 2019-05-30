@@ -558,6 +558,23 @@
 
 ----------------
 
+May - 2019
+
+- [EfficientNet: Improving Accuracy and Efficiency through AutoML and Model Scaling](https://ai.googleblog.com/2019/05/efficientnet-improving-accuracy-and.html)
+- [Moving Camera, Moving People: A Deep Learning Approach to Depth Prediction](https://ai.googleblog.com/2019/05/moving-camera-moving-people-deep.html)
+- [Introducing Translatotron: An End-to-End Speech-to-Speech Translation Model](https://ai.googleblog.com/2019/05/introducing-translatotron-end-to-end.html)
+- [An End-to-End AutoML Solution for Tabular Data at KaggleDays](https://ai.googleblog.com/2019/05/an-end-to-end-automl-solution-for.html)
+- [Announcing Open Images V5 and the ICCV 2019 Open Images Challenge](https://ai.googleblog.com/2019/05/announcing-open-images-v5-and-iccv-2019.html)
+- [Google at ICLR 2019](https://ai.googleblog.com/2019/05/google-at-iclr-2019.html)
+- [Announcing Google-Landmarks-v2: An Improved Dataset for Landmark Recognition & Retrieval](https://ai.googleblog.com/2019/05/announcing-google-landmarks-v2-improved.html)
+- []()
+- []()
+- []()
+- []()
+- []()
+
+----------------
+
 April - 2019
 
 - [Capturing Special Video Moments with Google Photos](https://ai.googleblog.com/2019/04/capturing-special-video-moments-with.html)
