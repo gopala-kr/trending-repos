@@ -579,11 +579,12 @@ May - 2019
 - [Bringing human-like reasoning to driverless car navigation](http://news.mit.edu/2019/human-reasoning-ai-driverless-car-navigation-0523)
 - [How to tell whether machine-learning systems are robust enough for the real world](http://news.mit.edu/2019/how-tell-whether-machine-learning-systems-are-robust-enough-real-worl-0510)
 - [Developing artificial intelligence tools for all](http://news.mit.edu/2019/students-developing-ai-tools-all-0523)
-- []()
-- []()
-- []()
-- []()
-- []()
+- [Parallel Neural Text-to-Speech](http://research.baidu.com/Blog/index-view?id=116)
+- [End-to-End Deep Reinforcement Learning 
+without Reward Engineering](https://bair.berkeley.edu/blog/2019/05/28/end-to-end/)
+- [Model-Based Reinforcement Learning from Pixels with Structured Latent Variable Models](https://bair.berkeley.edu/blog/2019/05/20/solar/)
+- [Large-Scale Long-Tailed Recognition in an Open World](https://bair.berkeley.edu/blog/2019/05/13/oltr/)
+- [Robots that Learn to Adapt](https://bair.berkeley.edu/blog/2019/05/06/robot-adapt/)
 
 ----------------
 
