@@ -1838,6 +1838,7 @@ and Able? ](https://www.parliament.uk/documents/lords-committees/Artificial-Inte
 - [Google Colab Free GPU Tutorial](https://medium.com/deep-learning-turkey/google-colab-free-gpu-tutorial-e113627b9f5d)
 - [Train Your Machine Learning Models on Google’s GPUs for Free — Forever](https://hackernoon.com/train-your-machine-learning-models-on-googles-gpus-for-free-forever-a41bd309d6ad)
 - [Google’s AutoML will change how businesses use Machine Learning](https://towardsdatascience.com/googles-automl-will-change-how-businesses-use-machine-learning-c7d72257aba9)
+- [Machine Learning for Intelligent Systems](http://www.cs.cornell.edu/courses/cs4780/2018fa/page18/index.html)
 
 -------------
 -------------
@@ -1854,7 +1855,8 @@ and Able? ](https://www.parliament.uk/documents/lords-committees/Artificial-Inte
  ###### Latest
  
  [Back to top](#contents)
- 
+
+- [tensorflow/tpu](https://github.com/tensorflow/tpu) - Reference models and tools for Cloud TPUs. https://cloud.google.com/tpu/
 - [basis_universal](https://github.com/BinomialLLC/basis_universal) - Basis Universal GPU Texture Codec
 - [facebookresearch/pythia](https://github.com/facebookresearch/pythia) - A modular framework for vision & language multimodal research from Facebook AI Research (FAIR) https://learnpythia.readthedocs.io/
 - [microsoft/SPTAG](https://github.com/microsoft/SPTAG) 
