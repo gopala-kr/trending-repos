@@ -1856,6 +1856,10 @@ and Able? ](https://www.parliament.uk/documents/lords-committees/Artificial-Inte
  
  [Back to top](#contents)
 
+- [ljpzzz/machinelearning](https://github.com/ljpzzz/machinelearning) - My blogs and code for machine learning. http://cnblogs.com/pinard
+- [aws-deepracer-workshops](https://github.com/aws-samples/aws-deepracer-workshops)
+- [udacity/private-ai](https://github.com/udacity/private-ai) - Repo for Udacity's Secure & Private AI course
+- [SATNet](https://github.com/locuslab/SATNet)
 - [MLiterature](https://github.com/jidroid404/MLiterature)
 - [ICML2019-TREX](https://github.com/hiwonjoon/ICML2019-TREX)
 - [ICLR2019-RL-Papers](https://github.com/ewanlee/ICLR2019-RL-Papers)
