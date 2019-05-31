@@ -1856,6 +1856,9 @@ and Able? ](https://www.parliament.uk/documents/lords-committees/Artificial-Inte
  
  [Back to top](#contents)
 
+- [MLiterature](https://github.com/jidroid404/MLiterature)
+- [ICML2019-TREX](https://github.com/hiwonjoon/ICML2019-TREX)
+- [ICLR2019-RL-Papers](https://github.com/ewanlee/ICLR2019-RL-Papers)
 - [tensorflow/tpu](https://github.com/tensorflow/tpu) - Reference models and tools for Cloud TPUs. https://cloud.google.com/tpu/
 - [basis_universal](https://github.com/BinomialLLC/basis_universal) - Basis Universal GPU Texture Codec
 - [facebookresearch/pythia](https://github.com/facebookresearch/pythia) - A modular framework for vision & language multimodal research from Facebook AI Research (FAIR) https://learnpythia.readthedocs.io/
