@@ -1856,6 +1856,7 @@ and Able? ](https://www.parliament.uk/documents/lords-committees/Artificial-Inte
  
  [Back to top](#contents)
 
+- [pytorch/xla](https://github.com/pytorch/xla) - PyTorch For TPU
 - [ljpzzz/machinelearning](https://github.com/ljpzzz/machinelearning) - My blogs and code for machine learning. http://cnblogs.com/pinard
 - [aws-deepracer-workshops](https://github.com/aws-samples/aws-deepracer-workshops)
 - [udacity/private-ai](https://github.com/udacity/private-ai) - Repo for Udacity's Secure & Private AI course
