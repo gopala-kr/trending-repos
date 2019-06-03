@@ -585,7 +585,10 @@ without Reward Engineering](https://bair.berkeley.edu/blog/2019/05/28/end-to-end
 - [Model-Based Reinforcement Learning from Pixels with Structured Latent Variable Models](https://bair.berkeley.edu/blog/2019/05/20/solar/)
 - [Large-Scale Long-Tailed Recognition in an Open World](https://bair.berkeley.edu/blog/2019/05/13/oltr/)
 - [Robots that Learn to Adapt](https://bair.berkeley.edu/blog/2019/05/06/robot-adapt/)
-
+- [What they don’t tell you about scaling AI](https://towardsdatascience.com/scaling-ai-2be294368504)
+- [Building a carbon molecule autoencoder](https://towardsdatascience.com/building-a-carbon-molecule-autoencoder-21973e5f88b6)
+- [Keras Hyperparameter Tuning in Google Colab using Hyperas](https://towardsdatascience.com/keras-hyperparameter-tuning-in-google-colab-using-hyperas-624fa4bbf673)
+- [Introducing TensorFlow Graphics: Computer Graphics Meets Deep Learning](https://medium.com/tensorflow/introducing-tensorflow-graphics-computer-graphics-meets-deep-learning-c8e3877b7668)
 ----------------
 
 April - 2019
@@ -1856,6 +1859,7 @@ and Able? ](https://www.parliament.uk/documents/lords-committees/Artificial-Inte
  
  [Back to top](#contents)
 
+- [tensorflow/graphics](https://github.com/tensorflow/graphics)
 - [EfficientNet-PyTorch](https://github.com/lukemelas/EfficientNet-PyTorch)
 - [pytorch-image-models](https://github.com/rwightman/pytorch-image-models) - PyTorch image models, scripts, pretrained weights -- (SE)ResNet/ResNeXT, DPN, EfficientNet, MobileNet-V3/V2/V1, MNASNet, Single-Path NAS, FBNet, and more
 - [medium-to-own-blog](https://github.com/mathieudutour/medium-to-own-blog) - Switch from Medium to your own blog in a few minutes
