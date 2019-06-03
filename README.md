@@ -589,6 +589,9 @@ without Reward Engineering](https://bair.berkeley.edu/blog/2019/05/28/end-to-end
 - [Building a carbon molecule autoencoder](https://towardsdatascience.com/building-a-carbon-molecule-autoencoder-21973e5f88b6)
 - [Keras Hyperparameter Tuning in Google Colab using Hyperas](https://towardsdatascience.com/keras-hyperparameter-tuning-in-google-colab-using-hyperas-624fa4bbf673)
 - [Introducing TensorFlow Graphics: Computer Graphics Meets Deep Learning](https://medium.com/tensorflow/introducing-tensorflow-graphics-computer-graphics-meets-deep-learning-c8e3877b7668)
+- [To reinvent the processor](https://medium.com/@veedrac/to-reinvent-the-processor-671139a4a034)
+- [Five Machine Learning Paradoxes that will Change the Way You Think About Data](https://towardsdatascience.com/five-machine-learning-paradoxes-that-will-change-the-way-you-think-about-data-e100be5620d7)
+
 ----------------
 
 April - 2019
