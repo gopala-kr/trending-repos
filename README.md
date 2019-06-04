@@ -1862,6 +1862,8 @@ and Able? ](https://www.parliament.uk/documents/lords-committees/Artificial-Inte
  
  [Back to top](#contents)
 
+- [awesome-interpretable-machine-learning](https://github.com/lopusz/awesome-interpretable-machine-learning)
+- [Reinforcement_Learning_in_Python](https://github.com/sichkar-valentyn/Reinforcement_Learning_in_Python)
 - [tensorflow/graphics](https://github.com/tensorflow/graphics)
 - [EfficientNet-PyTorch](https://github.com/lukemelas/EfficientNet-PyTorch)
 - [pytorch-image-models](https://github.com/rwightman/pytorch-image-models) - PyTorch image models, scripts, pretrained weights -- (SE)ResNet/ResNeXT, DPN, EfficientNet, MobileNet-V3/V2/V1, MNASNet, Single-Path NAS, FBNet, and more
