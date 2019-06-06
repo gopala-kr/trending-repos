@@ -1864,11 +1864,10 @@ and Able? ](https://www.parliament.uk/documents/lords-committees/Artificial-Inte
  
  [Back to top](#contents)
  
-- []()
-- []()
-- []()
-- []()
-- []()
+- [Neural-Architecture-Search](https://github.com/anonymone/Neural-Architecture-Search)
+- [RL-Quadcopter-2](https://github.com/udacity/RL-Quadcopter-2)
+- [NVIDIA/waveglow](https://github.com/NVIDIA/waveglow)
+- [CADA-VAE-PyTorch](https://github.com/edgarschnfld/CADA-VAE-PyTorch)
 - [self-driving-truck](https://github.com/aleju/self-driving-truck) - Self-Driving Truck in Euro Truck Simulator 2, trained via Reinforcement Learning
 - [phd-bibliography](https://github.com/eleurent/phd-bibliography) - References on Optimal Control, Reinforcement Learning and Motion Planning
 - [Hands-On-Intelligent-Agents-with-OpenAI-Gym](https://github.com/PacktPublishing/Hands-On-Intelligent-Agents-with-OpenAI-Gym)
