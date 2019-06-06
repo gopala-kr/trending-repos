@@ -592,6 +592,7 @@ without Reward Engineering](https://bair.berkeley.edu/blog/2019/05/28/end-to-end
 - [To reinvent the processor](https://medium.com/@veedrac/to-reinvent-the-processor-671139a4a034)
 - [Five Machine Learning Paradoxes that will Change the Way You Think About Data](https://towardsdatascience.com/five-machine-learning-paradoxes-that-will-change-the-way-you-think-about-data-e100be5620d7)
 - [10 New Things I Learnt from fast.ai v3](https://towardsdatascience.com/10-new-things-i-learnt-from-fast-ai-v3-4d79c1f07e33)
+- [Private AI — Federated Learning with PySyft and PyTorch](https://towardsdatascience.com/private-ai-federated-learning-with-pysyft-and-pytorch-954a9e4a4d4e)
 
 ----------------
 
@@ -1863,6 +1864,7 @@ and Able? ](https://www.parliament.uk/documents/lords-committees/Artificial-Inte
  
  [Back to top](#contents)
 
+- [OpenMined/PySyft](https://github.com/OpenMined/PySyft) - A library for encrypted, privacy preserving deep learning
 - [deeplearning-models](https://github.com/rasbt/deeplearning-models) - A collection of various deep learning architectures, models, and tips
 - [awesome-interpretable-machine-learning](https://github.com/lopusz/awesome-interpretable-machine-learning)
 - [Reinforcement_Learning_in_Python](https://github.com/sichkar-valentyn/Reinforcement_Learning_in_Python)
