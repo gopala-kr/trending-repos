@@ -1862,6 +1862,7 @@ and Able? ](https://www.parliament.uk/documents/lords-committees/Artificial-Inte
  
  [Back to top](#contents)
 
+- [deeplearning-models](https://github.com/rasbt/deeplearning-models) - A collection of various deep learning architectures, models, and tips
 - [awesome-interpretable-machine-learning](https://github.com/lopusz/awesome-interpretable-machine-learning)
 - [Reinforcement_Learning_in_Python](https://github.com/sichkar-valentyn/Reinforcement_Learning_in_Python)
 - [tensorflow/graphics](https://github.com/tensorflow/graphics)
