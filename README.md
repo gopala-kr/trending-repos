@@ -591,6 +591,7 @@ without Reward Engineering](https://bair.berkeley.edu/blog/2019/05/28/end-to-end
 - [Introducing TensorFlow Graphics: Computer Graphics Meets Deep Learning](https://medium.com/tensorflow/introducing-tensorflow-graphics-computer-graphics-meets-deep-learning-c8e3877b7668)
 - [To reinvent the processor](https://medium.com/@veedrac/to-reinvent-the-processor-671139a4a034)
 - [Five Machine Learning Paradoxes that will Change the Way You Think About Data](https://towardsdatascience.com/five-machine-learning-paradoxes-that-will-change-the-way-you-think-about-data-e100be5620d7)
+- [10 New Things I Learnt from fast.ai v3](https://towardsdatascience.com/10-new-things-i-learnt-from-fast-ai-v3-4d79c1f07e33)
 
 ----------------
 
