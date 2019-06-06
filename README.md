@@ -558,6 +558,14 @@
 
 ----------------
 
+June - 2019
+
+- [Deep learning techniques teach neural model to 'play' retrosynthesis](https://phys.org/news/2019-06-deep-techniques-neural-retrosynthesis.html)
+
+
+
+-----------------------
+
 May - 2019
 
 - [EfficientNet: Improving Accuracy and Efficiency through AutoML and Model Scaling](https://ai.googleblog.com/2019/05/efficientnet-improving-accuracy-and.html)
