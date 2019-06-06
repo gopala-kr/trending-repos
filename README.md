@@ -1863,7 +1863,11 @@ and Able? ](https://www.parliament.uk/documents/lords-committees/Artificial-Inte
  ###### Latest
  
  [Back to top](#contents)
- 
+
+- [ytorch-PPUU](https://github.com/Atcold/pytorch-PPUU) 
+- [data-mining-conferences](https://github.com/yzhao062/data-mining-conferences) 
+- [Muti-branch-DDPG-CARLA](https://github.com/HubFire/Muti-branch-DDPG-CARLA) 
+- [gpt-2-output-dataset](https://github.com/openai/gpt-2-output-dataset) 
 - [Neural-Architecture-Search](https://github.com/anonymone/Neural-Architecture-Search)
 - [RL-Quadcopter-2](https://github.com/udacity/RL-Quadcopter-2)
 - [NVIDIA/waveglow](https://github.com/NVIDIA/waveglow)
