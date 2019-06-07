@@ -1872,6 +1872,17 @@ and Able? ](https://www.parliament.uk/documents/lords-committees/Artificial-Inte
  
  [Back to top](#contents)
 
+-----------------------
+
+ODE's
+
+- [neural-ode](https://github.com/msurtsukov/neural-ode)
+- [augmented-neural-odes](https://github.com/EmilienDupont/augmented-neural-odes)
+- [neural-ode](https://github.com/mandubian/neural-ode)
+- [odes](https://github.com/bmcage/odes)
+- [NeuralODE](https://github.com/rajatvd/NeuralODE)
+
+---------------------
 - [ytorch-PPUU](https://github.com/Atcold/pytorch-PPUU) 
 - [data-mining-conferences](https://github.com/yzhao062/data-mining-conferences) 
 - [Muti-branch-DDPG-CARLA](https://github.com/HubFire/Muti-branch-DDPG-CARLA) 
