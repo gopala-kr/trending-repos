@@ -1872,8 +1872,10 @@ and Able? ](https://www.parliament.uk/documents/lords-committees/Artificial-Inte
  
  [Back to top](#contents)
 
------------------------
 
+- [CVPR-2019-Paper-Statistics](https://github.com/hoya012/CVPR-2019-Paper-Statistics) - Statistics and Visualization of acceptance rate, main keyword of CVPR 2019 accepted papers for the main Computer Vision conference (CVPR)
+
+-----------------------
 ODE's
 
 - [neural-ode](https://github.com/msurtsukov/neural-ode)
