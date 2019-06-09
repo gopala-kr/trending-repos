@@ -1872,7 +1872,10 @@ and Able? ](https://www.parliament.uk/documents/lords-committees/Artificial-Inte
  
  [Back to top](#contents)
 
-
+- [mushroom](https://github.com/AIRLab-POLIMI/mushroom)
+- [alf](https://github.com/HorizonRobotics/alf)
+- [GPT2](https://github.com/ConnorJL/GPT2)
+- [football](https://github.com/google-research/football)
 - [CVPR-2019-Paper-Statistics](https://github.com/hoya012/CVPR-2019-Paper-Statistics) - Statistics and Visualization of acceptance rate, main keyword of CVPR 2019 accepted papers for the main Computer Vision conference (CVPR)
 
 -----------------------
