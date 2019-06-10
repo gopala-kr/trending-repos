@@ -1872,6 +1872,8 @@ and Able? ](https://www.parliament.uk/documents/lords-committees/Artificial-Inte
  
  [Back to top](#contents)
 
+- [fullstack](https://github.com/TrillCyborg/fullstack) - React/ApolloGraphQL/Node/Mongo demo written in Typescript
+- [rl_algorithms](https://github.com/medipixel/rl_algorithms) - Structural implementation of RL key algorithms https://www.medipixel.io/
 - [mushroom](https://github.com/AIRLab-POLIMI/mushroom)
 - [alf](https://github.com/HorizonRobotics/alf)
 - [GPT2](https://github.com/ConnorJL/GPT2)
