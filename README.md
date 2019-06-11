@@ -561,6 +561,16 @@
 June - 2019
 
 - [Deep learning techniques teach neural model to 'play' retrosynthesis](https://phys.org/news/2019-06-deep-techniques-neural-retrosynthesis.html)
+- [DeepMind: Capture the Flag: the emergence of complex cooperative agents](https://deepmind.com/blog/capture-the-flag-science/)
+- [OpenAI Robotics Symposium 2019](https://openai.com/progress/)
+- [Google at ICML 2019](https://ai.googleblog.com/2019/06/google-at-icml-2019.html)
+- [Introducing Google Research Football: A Novel Reinforcement Learning Environment](https://ai.googleblog.com/2019/06/introducing-google-research-football.html)
+- [An Inside Look at Google Earth Timelapse](https://ai.googleblog.com/2019/06/an-inside-look-at-google-earth-timelapse.html)
+- [Introducing TensorNetwork, an Open Source Library for Efficient Tensor Calculations](https://ai.googleblog.com/2019/06/introducing-tensornetwork-open-source.html)
+- [power-of-unintentional-technology-implementations](https://www.intel.ai/power-of-unintentional-technology-implementations/)
+- [Learning to Learn with Probabilistic Task Embeddings](https://bair.berkeley.edu/blog/2019/06/10/pearl/)
+- [1000x Faster Data Augmentation](https://bair.berkeley.edu/blog/2019/06/07/data_aug/)
+- [Autonomous Vehicles for Social Good: Learning to Solve Congestion](https://bair.berkeley.edu/blog/2019/06/03/benchmarks/)
 
 
 
