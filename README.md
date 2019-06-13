@@ -1882,6 +1882,8 @@ and Able? ](https://www.parliament.uk/documents/lords-committees/Artificial-Inte
  
  [Back to top](#contents)
 
+- [Repo-2019](https://github.com/RubensZimbres/Repo-2019) - BERT, AWS RDS, AWS Forecast, EMR Spark Cluster, Hive, Serverless, Google Assistant + Raspberry Pi, Infrared, Google Cloud Platform Natural Language, Anomaly detection, Tensorflow, Mathematics
+- [asteroids_atlas_of_space](https://github.com/eleanorlutz/asteroids_atlas_of_space) - Code, data, and instructions for mapping orbits of asteroids in the solar system
 - [Automagica](https://github.com/OakwoodAI/Automagica) - Open Source (Smart) Robotic Process Automation https://automagica.be
 - [kubernetes-failure-stories](https://github.com/hjacobs/kubernetes-failure-stories) - Compilation of public failure/horror stories related to Kubernetes https://k8s.af
 - [sagify](https://github.com/Kenza-AI/sagify) - Continuous Machine Learning Training and Deployment on AWS SageMaker https://kenza-ai.github.io/sagify/
