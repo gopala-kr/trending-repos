@@ -1882,6 +1882,9 @@ and Able? ](https://www.parliament.uk/documents/lords-committees/Artificial-Inte
  
  [Back to top](#contents)
 
+- [Automagica](https://github.com/OakwoodAI/Automagica) - Open Source (Smart) Robotic Process Automation https://automagica.be
+- [kubernetes-failure-stories](https://github.com/hjacobs/kubernetes-failure-stories) - Compilation of public failure/horror stories related to Kubernetes https://k8s.af
+- [sagify](https://github.com/Kenza-AI/sagify) - Continuous Machine Learning Training and Deployment on AWS SageMaker https://kenza-ai.github.io/sagify/
 - [deep-learning-guide](https://github.com/sannykim/deep-learning-guide) - An evolving guide to learning Deep Learning effectively.
 - [fullstack](https://github.com/TrillCyborg/fullstack) - React/ApolloGraphQL/Node/Mongo demo written in Typescript
 - [rl_algorithms](https://github.com/medipixel/rl_algorithms) - Structural implementation of RL key algorithms https://www.medipixel.io/
