@@ -1882,6 +1882,9 @@ and Able? ](https://www.parliament.uk/documents/lords-committees/Artificial-Inte
  
  [Back to top](#contents)
 
+- [noisereduce](https://github.com/timsainb/noisereduce) - Noise reduction / speech enhancement for python using spectral gating
+- [darknet](https://github.com/AlexeyAB/darknet) - Windows and Linux version of Darknet Yolo v3 & v2 Neural Networks for object detection (Tensor Cores are used) http://pjreddie.com/darknet/
+- [openpilot](https://github.com/commaai/openpilot) - open source driving agent https://comma.ai/
 - [Repo-2019](https://github.com/RubensZimbres/Repo-2019) - BERT, AWS RDS, AWS Forecast, EMR Spark Cluster, Hive, Serverless, Google Assistant + Raspberry Pi, Infrared, Google Cloud Platform Natural Language, Anomaly detection, Tensorflow, Mathematics
 - [asteroids_atlas_of_space](https://github.com/eleanorlutz/asteroids_atlas_of_space) - Code, data, and instructions for mapping orbits of asteroids in the solar system
 - [Automagica](https://github.com/OakwoodAI/Automagica) - Open Source (Smart) Robotic Process Automation https://automagica.be
