@@ -571,8 +571,10 @@ June - 2019
 - [Learning to Learn with Probabilistic Task Embeddings](https://bair.berkeley.edu/blog/2019/06/10/pearl/)
 - [1000x Faster Data Augmentation](https://bair.berkeley.edu/blog/2019/06/07/data_aug/)
 - [Autonomous Vehicles for Social Good: Learning to Solve Congestion](https://bair.berkeley.edu/blog/2019/06/03/benchmarks/)
-
-
+- [Algorithm tells robots where nearby humans are headed](http://news.mit.edu/2019/robots-predict-human-movement-0611)
+- [Chip design drastically reduces energy needed to compute with light](http://news.mit.edu/2019/ai-chip-light-computing-faster-0605)
+- [Autonomous Ships of the Future: Run by AI Instead of a Crew](https://www.aitrends.com/ai-research/autonomous-ships-of-the-future-run-by-ai-instead-of-a-crew/)
+- [Use Cases Of Wrong Way Driving and Needed AI Coping Strategies For Autonomous Cars](https://www.aitrends.com/ai-insider/use-cases-of-wrong-way-driving-and-needed-ai-coping-strategies-for-autonomous-cars/)
 
 -----------------------
 
