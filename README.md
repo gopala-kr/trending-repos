@@ -575,6 +575,7 @@ June - 2019
 - [Chip design drastically reduces energy needed to compute with light](http://news.mit.edu/2019/ai-chip-light-computing-faster-0605)
 - [Autonomous Ships of the Future: Run by AI Instead of a Crew](https://www.aitrends.com/ai-research/autonomous-ships-of-the-future-run-by-ai-instead-of-a-crew/)
 - [Use Cases Of Wrong Way Driving and Needed AI Coping Strategies For Autonomous Cars](https://www.aitrends.com/ai-insider/use-cases-of-wrong-way-driving-and-needed-ai-coping-strategies-for-autonomous-cars/)
+- [Neural ODEs: breakdown of another deep learning breakthrough](https://towardsdatascience.com/neural-odes-breakdown-of-another-deep-learning-breakthrough-3e78c7213795)
 
 -----------------------
 
