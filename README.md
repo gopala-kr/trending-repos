@@ -577,6 +577,8 @@ June - 2019
 - [Use Cases Of Wrong Way Driving and Needed AI Coping Strategies For Autonomous Cars](https://www.aitrends.com/ai-insider/use-cases-of-wrong-way-driving-and-needed-ai-coping-strategies-for-autonomous-cars/)
 - [Neural ODEs: breakdown of another deep learning breakthrough](https://towardsdatascience.com/neural-odes-breakdown-of-another-deep-learning-breakthrough-3e78c7213795)
 - [NAACL 2019 Highlights](http://ruder.io/naacl2019/)
+- [Google at CVPR 2019](https://ai.googleblog.com/2019/06/google-at-cvpr-2019.html)
+- [Applying AutoML to Transformer Architectures](https://ai.googleblog.com/2019/06/applying-automl-to-transformer.html)
 
 -----------------------
 
