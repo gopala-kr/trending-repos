@@ -581,6 +581,8 @@ June - 2019
 - [Applying AutoML to Transformer Architectures](https://ai.googleblog.com/2019/06/applying-automl-to-transformer.html)
 - [Why Chips Are Getting Noisier](https://semiengineering.com/chips-becoming-noisier/)
 - [The Case For Embedded FPGAs Strengthens And Widens](https://semiengineering.com/embedded-fpga-becomes-a-viable-option/)
+- [How To Build An Automotive Chip](https://semiengineering.com/how-to-build-an-automotive-chip/)
+- [5G Heats Up Base Stations](https://semiengineering.com/5g-heats-up-base-stations/)
 
 -----------------------
 
