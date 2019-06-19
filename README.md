@@ -1888,6 +1888,9 @@ and Able? ](https://www.parliament.uk/documents/lords-committees/Artificial-Inte
  
  [Back to top](#contents)
 
+- [Hybrid_Attention_XML](https://github.com/HX-idiot/Hybrid_Attention_XML) - Pytorch codes for "Label-aware Document Representation via Hybrid Attention for Extreme Multi-Label Text Classification"
+- [LGM-Net](https://github.com/likesiwell/LGM-Net) - Tensorflow code for ICML 2019 paper: LGM-Net: Learning to Generate Matching Networks for Few-Shot Learning
+- [MLPrimitives](https://github.com/HDI-Project/MLPrimitives) - Pipelines and primitives for machine learning and data science.
 - [libra/libra](https://github.com/libra/libra) - Libra’s mission is to enable a simple global currency and financial infrastructure that empowers billions of people. https://libra.org
 - [DeepFaceLab](https://github.com/iperov/DeepFaceLab) - DeepFaceLab is a tool that utilizes machine learning to replace faces in videos. Includes prebuilt ready to work standalone Windows 7,8,10 binary (look readme.md).
 - [WWDC](https://github.com/Blackjacx/WWDC) - You don't have the time to watch all the WWDC session videos yourself? No problem I extracted the gist for you 🥳
