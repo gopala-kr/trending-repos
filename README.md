@@ -1888,6 +1888,9 @@ and Able? ](https://www.parliament.uk/documents/lords-committees/Artificial-Inte
  
  [Back to top](#contents)
 
+- [libra/libra](https://github.com/libra/libra) - Libra’s mission is to enable a simple global currency and financial infrastructure that empowers billions of people. https://libra.org
+- [DeepFaceLab](https://github.com/iperov/DeepFaceLab) - DeepFaceLab is a tool that utilizes machine learning to replace faces in videos. Includes prebuilt ready to work standalone Windows 7,8,10 binary (look readme.md).
+- [WWDC](https://github.com/Blackjacx/WWDC) - You don't have the time to watch all the WWDC session videos yourself? No problem I extracted the gist for you 🥳
 - [noisereduce](https://github.com/timsainb/noisereduce) - Noise reduction / speech enhancement for python using spectral gating
 - [darknet](https://github.com/AlexeyAB/darknet) - Windows and Linux version of Darknet Yolo v3 & v2 Neural Networks for object detection (Tensor Cores are used) http://pjreddie.com/darknet/
 - [openpilot](https://github.com/commaai/openpilot) - open source driving agent https://comma.ai/
