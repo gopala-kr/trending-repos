@@ -579,6 +579,8 @@ June - 2019
 - [NAACL 2019 Highlights](http://ruder.io/naacl2019/)
 - [Google at CVPR 2019](https://ai.googleblog.com/2019/06/google-at-cvpr-2019.html)
 - [Applying AutoML to Transformer Architectures](https://ai.googleblog.com/2019/06/applying-automl-to-transformer.html)
+- [Why Chips Are Getting Noisier](https://semiengineering.com/chips-becoming-noisier/)
+- [The Case For Embedded FPGAs Strengthens And Widens](https://semiengineering.com/embedded-fpga-becomes-a-viable-option/)
 
 -----------------------
 
