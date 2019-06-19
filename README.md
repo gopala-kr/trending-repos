@@ -583,6 +583,8 @@ June - 2019
 - [The Case For Embedded FPGAs Strengthens And Widens](https://semiengineering.com/embedded-fpga-becomes-a-viable-option/)
 - [How To Build An Automotive Chip](https://semiengineering.com/how-to-build-an-automotive-chip/)
 - [5G Heats Up Base Stations](https://semiengineering.com/5g-heats-up-base-stations/)
+- [Shedding Pounds In Automotive Electronics](https://semiengineering.com/shedding-pounds-in-automotive-electronics/)
+- [Data Confusion At The Edge](https://semiengineering.com/data-confusion-at-the-edge/)
 
 -----------------------
 
