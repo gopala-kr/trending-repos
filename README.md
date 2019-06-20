@@ -587,6 +587,7 @@ June - 2019
 - [Data Confusion At The Edge](https://semiengineering.com/data-confusion-at-the-edge/)
 - [142 Resources for Mastering Coding Interviews](https://medium.com/better-programming/the-software-engineering-study-guide-bac25b8b61eb)
 - [A Hitchhiker’s Guide to Mixture Density Networks](https://towardsdatascience.com/a-hitchhikers-guide-to-mixture-density-networks-76b435826cca)
+- [Machine Learning Top 10 Articles for the Past Month (v.June 2019)](https://medium.mybridge.co/machine-learning-top-10-articles-for-the-past-month-v-june-2019-be8235cabaf0)
 
 -----------------------
 
