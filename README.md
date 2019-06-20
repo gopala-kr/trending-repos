@@ -589,6 +589,7 @@ June - 2019
 - [A Hitchhiker’s Guide to Mixture Density Networks](https://towardsdatascience.com/a-hitchhikers-guide-to-mixture-density-networks-76b435826cca)
 - [Machine Learning Top 10 Articles for the Past Month (v.June 2019)](https://medium.mybridge.co/machine-learning-top-10-articles-for-the-past-month-v-june-2019-be8235cabaf0)
 - [IT INDUSTRY OUTLOOK 2019](https://www.comptia.org/resources/it-industry-trends-analysis)
+- [Full Stack Deep Learning Steps and Tools](https://towardsdatascience.com/full-stack-deep-learning-steps-and-tools-a21eda6227b1)
 
 -----------------------
 
