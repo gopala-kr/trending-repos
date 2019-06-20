@@ -1899,6 +1899,8 @@ and Able? ](https://www.parliament.uk/documents/lords-committees/Artificial-Inte
  
  [Back to top](#contents)
 
+- [security-bulletins](https://github.com/Netflix/security-bulletins)
+- [industry-machine-learning](https://github.com/firmai/industry-machine-learning) - A curated list of applied machine learning and data science notebooks and libraries across different industries.
 - [Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning)
 - [fbctf-2019-challenges](https://github.com/fbsamples/fbctf-2019-challenges)
 - [instagram-scraper](https://github.com/realsirjoe/instagram-scraper)
