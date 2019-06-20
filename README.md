@@ -1894,6 +1894,7 @@ and Able? ](https://www.parliament.uk/documents/lords-committees/Artificial-Inte
  
  [Back to top](#contents)
 
+- [xlnet](https://github.com/zihangdai/xlnet) - XLNet: Generalized Autoregressive Pretraining for Language Understanding
 - [Hybrid_Attention_XML](https://github.com/HX-idiot/Hybrid_Attention_XML) - Pytorch codes for "Label-aware Document Representation via Hybrid Attention for Extreme Multi-Label Text Classification"
 - [LGM-Net](https://github.com/likesiwell/LGM-Net) - Tensorflow code for ICML 2019 paper: LGM-Net: Learning to Generate Matching Networks for Few-Shot Learning
 - [MLPrimitives](https://github.com/HDI-Project/MLPrimitives) - Pipelines and primitives for machine learning and data science.
