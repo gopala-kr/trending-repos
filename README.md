@@ -1899,6 +1899,9 @@ and Able? ](https://www.parliament.uk/documents/lords-committees/Artificial-Inte
  
  [Back to top](#contents)
 
+- [Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning)
+- [fbctf-2019-challenges](https://github.com/fbsamples/fbctf-2019-challenges)
+- [instagram-scraper](https://github.com/realsirjoe/instagram-scraper)
 - [xlnet](https://github.com/zihangdai/xlnet) - XLNet: Generalized Autoregressive Pretraining for Language Understanding
 - [Hybrid_Attention_XML](https://github.com/HX-idiot/Hybrid_Attention_XML) - Pytorch codes for "Label-aware Document Representation via Hybrid Attention for Extreme Multi-Label Text Classification"
 - [LGM-Net](https://github.com/likesiwell/LGM-Net) - Tensorflow code for ICML 2019 paper: LGM-Net: Learning to Generate Matching Networks for Few-Shot Learning
