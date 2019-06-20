@@ -586,6 +586,7 @@ June - 2019
 - [Shedding Pounds In Automotive Electronics](https://semiengineering.com/shedding-pounds-in-automotive-electronics/)
 - [Data Confusion At The Edge](https://semiengineering.com/data-confusion-at-the-edge/)
 - [142 Resources for Mastering Coding Interviews](https://medium.com/better-programming/the-software-engineering-study-guide-bac25b8b61eb)
+- [A Hitchhiker’s Guide to Mixture Density Networks](https://towardsdatascience.com/a-hitchhikers-guide-to-mixture-density-networks-76b435826cca)
 
 -----------------------
 
