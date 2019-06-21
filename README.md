@@ -609,6 +609,8 @@ June - 2019
 - [cerl](https://www.intel.ai/cerl/#gs.kiwyt9)
 - [Deconstructing Lottery Tickets: Zeros, Signs, and the Supermask](https://eng.uber.com/deconstructing-lottery-tickets/)
 - [OpenAI: Choosing Between Global Development of AI, and Fear of Losing Control Over Dangerous Technology](https://www.aitrends.com/ethics-and-social-issues/openai-choosing-between-global-development-of-ai-and-fear-of-losing-control-over-dangerous-technology/)
+- [Government: An Integral Partner for Exploring AI](https://www.aitrends.com/ai-in-government/government-an-integral-partner-for-exploring-ai/)
+- [Brute Force Algorithms and AI: Use Case of Autonomous Cars](https://www.aitrends.com/ai-insider/brute-force-algorithms-and-ai-use-case-of-autonomous-cars/)
 
 -----------------------
 
