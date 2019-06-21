@@ -595,6 +595,7 @@ June - 2019
 - [Adobe trained AI to detect facial manipulation in Photoshop](https://www.engadget.com/2019/06/14/adobe-ai-manipulated-images-faces-photoshop/)
 - [IBM builds Pangea III, a powerful commercial supercomputer](https://www.helpnetsecurity.com/2019/06/19/ibm-pangea-iii/)
 - [Facebook PyRobot goes open source to speed robotics, AI research](https://www.therobotreport.com/facebook-pyrobot-open-source-speed-robotics-ai-research/)
+- [Off-Policy Classification - A New Reinforcement Learning Model Selection Method](https://ai.googleblog.com/2019/06/off-policy-classification-new.html)
 
 -----------------------
 
