@@ -590,6 +590,11 @@ June - 2019
 - [Machine Learning Top 10 Articles for the Past Month (v.June 2019)](https://medium.mybridge.co/machine-learning-top-10-articles-for-the-past-month-v-june-2019-be8235cabaf0)
 - [IT INDUSTRY OUTLOOK 2019](https://www.comptia.org/resources/it-industry-trends-analysis)
 - [Full Stack Deep Learning Steps and Tools](https://towardsdatascience.com/full-stack-deep-learning-steps-and-tools-a21eda6227b1)
+- [AI in IT infrastructure transforms how work gets done](https://searchcio.techtarget.com/feature/AI-in-IT-infrastructure-transforms-how-work-gets-done)
+- [The unforeseen trouble AI is now causing](https://thenextweb.com/podium/2019/06/17/the-unforeseen-trouble-ai-is-now-causing/)
+- [Adobe trained AI to detect facial manipulation in Photoshop](https://www.engadget.com/2019/06/14/adobe-ai-manipulated-images-faces-photoshop/)
+- [IBM builds Pangea III, a powerful commercial supercomputer](https://www.helpnetsecurity.com/2019/06/19/ibm-pangea-iii/)
+- [Facebook PyRobot goes open source to speed robotics, AI research](https://www.therobotreport.com/facebook-pyrobot-open-source-speed-robotics-ai-research/)
 
 -----------------------
 
