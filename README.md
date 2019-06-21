@@ -594,8 +594,13 @@ June - 2019
 - [The unforeseen trouble AI is now causing](https://thenextweb.com/podium/2019/06/17/the-unforeseen-trouble-ai-is-now-causing/)
 - [Adobe trained AI to detect facial manipulation in Photoshop](https://www.engadget.com/2019/06/14/adobe-ai-manipulated-images-faces-photoshop/)
 - [IBM builds Pangea III, a powerful commercial supercomputer](https://www.helpnetsecurity.com/2019/06/19/ibm-pangea-iii/)
-- [Facebook PyRobot goes open source to speed robotics, AI research](https://www.therobotreport.com/facebook-pyrobot-open-source-speed-robotics-ai-research/)
+- [Facebook PyRobot goes open source to speed robotics, AI research](https://ai.facebook.com/blog/open-sourcing-pyrobot-to-accelerate-ai-robotics-research/)
 - [Off-Policy Classification - A New Reinforcement Learning Model Selection Method](https://ai.googleblog.com/2019/06/off-policy-classification-new.html)
+- [Facebook Research at CVPR 2019](https://ai.facebook.com/blog/facebook-research-at-cvpr-2019/)
+- [How Facebook researchers’ realistic simulations help advance AI and AR](https://tech.fb.com/facebook-reality-labs-replica-simulations-help-advance-ai-and-ar/)
+- [Computer vision and global challenges: New research and applications](https://research.fb.com/computer-vision-and-global-challenges-new-research-and-applications/)
+- [Facebook Research at ICML 2019](https://ai.facebook.com/blog/facebook-research-at-icml-2019/)
+- [AI System Hardware/Software Co-Design](https://research.fb.com/announcing-the-winners-of-the-ai-system-hardware-software-co-design-research-awards/)
 
 -----------------------
 
@@ -634,6 +639,7 @@ without Reward Engineering](https://bair.berkeley.edu/blog/2019/05/28/end-to-end
 - [Five Machine Learning Paradoxes that will Change the Way You Think About Data](https://towardsdatascience.com/five-machine-learning-paradoxes-that-will-change-the-way-you-think-about-data-e100be5620d7)
 - [10 New Things I Learnt from fast.ai v3](https://towardsdatascience.com/10-new-things-i-learnt-from-fast-ai-v3-4d79c1f07e33)
 - [Private AI — Federated Learning with PySyft and PyTorch](https://towardsdatascience.com/private-ai-federated-learning-with-pysyft-and-pytorch-954a9e4a4d4e)
+- [Open-sourcing Ax and BoTorch: New AI tools for adaptive experimentation](https://ai.facebook.com/blog/open-sourcing-ax-and-botorch-new-ai-tools-for-adaptive-experimentation/)
 
 ----------------
 
