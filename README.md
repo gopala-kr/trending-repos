@@ -607,6 +607,8 @@ June - 2019
 - [intel-ai-research-scientist-honored-for-magnetoelectric-spin-orbit-meso-work](https://www.intel.ai/intel-ai-research-scientist-honored-for-magnetoelectric-spin-orbit-meso-work/#gs.kiwvaf)
 - [ocp-hardware-standards-help-ai-advance](https://www.intel.ai/ocp-hardware-standards-help-ai-advance/#gs.kiwyff)
 - [cerl](https://www.intel.ai/cerl/#gs.kiwyt9)
+- [Deconstructing Lottery Tickets: Zeros, Signs, and the Supermask](https://eng.uber.com/deconstructing-lottery-tickets/)
+- [OpenAI: Choosing Between Global Development of AI, and Fear of Losing Control Over Dangerous Technology](https://www.aitrends.com/ethics-and-social-issues/openai-choosing-between-global-development-of-ai-and-fear-of-losing-control-over-dangerous-technology/)
 
 -----------------------
 
