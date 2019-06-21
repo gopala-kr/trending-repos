@@ -601,6 +601,12 @@ June - 2019
 - [Computer vision and global challenges: New research and applications](https://research.fb.com/computer-vision-and-global-challenges-new-research-and-applications/)
 - [Facebook Research at ICML 2019](https://ai.facebook.com/blog/facebook-research-at-icml-2019/)
 - [AI System Hardware/Software Co-Design](https://research.fb.com/announcing-the-winners-of-the-ai-system-hardware-software-co-design-research-awards/)
+- [introducing-partnet](https://www.intel.ai/introducing-partnet/#gs.kis2bv)
+- [spacenet-and-intel](https://www.intel.ai/spacenet-and-intel/#gs.kis1h7)
+- [parameter-efficient-training-deep-cnns](https://www.intel.ai/parameter-efficient-training-deep-cnns/#gs.kis1tk)
+- [intel-ai-research-scientist-honored-for-magnetoelectric-spin-orbit-meso-work](https://www.intel.ai/intel-ai-research-scientist-honored-for-magnetoelectric-spin-orbit-meso-work/#gs.kiwvaf)
+- [ocp-hardware-standards-help-ai-advance](https://www.intel.ai/ocp-hardware-standards-help-ai-advance/#gs.kiwyff)
+- [cerl](https://www.intel.ai/cerl/#gs.kiwyt9)
 
 -----------------------
 
