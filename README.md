@@ -1921,6 +1921,9 @@ and Able? ](https://www.parliament.uk/documents/lords-committees/Artificial-Inte
  
  [Back to top](#contents)
 
+- [dataquestio/solutions](https://github.com/dataquestio/solutions) - Solutions for projects.
+- [QuantumKatas](https://github.com/microsoft/QuantumKatas) - Programming exercises for learning Q# and quantum computing
+- [Hands-On-Intelligent-Agents-with-OpenAI-Gym](https://github.com/PacktPublishing/Hands-On-Intelligent-Agents-with-OpenAI-Gym)
 - [ICML2019-TREX](https://github.com/hiwonjoon/ICML2019-TREX)
 - [formation-deep-learning](https://github.com/meteofrance/formation-deep-learning)
 - [STEAL](https://github.com/nv-tlabs/STEAL)
