@@ -615,6 +615,7 @@ June - 2019
 - [Introducing Deep Learning Containers: Consistent and portable environments](https://cloud.google.com/blog/products/ai-machine-learning/introducing-deep-learning-containers-consistent-and-portable-environments)
 - [torchvision 0.3: segmentation, detection models, new datasets and more..](https://pytorch.org/blog/torchvision03/?utm_source=social-facebook&utm_medium=pytorch&utm_campaign=organic&utm_content=post-url&utm_offering=artifical-intelligence&utm_product=TorchVision01_062619)
 - [AT&T hopes quantum networking will amplify the power of quantum computing](https://www.cnet.com/news/att-hopes-quantum-networking-will-amplify-the-power-of-quantum-computing/?ftag=CAD-03-10aaj8j)
+- [Innovations in Graph Representation Learning](https://ai.googleblog.com/2019/06/innovations-in-graph-representation.html)
 
 -----------------------
 
