@@ -1920,7 +1920,22 @@ and Able? ](https://www.parliament.uk/documents/lords-committees/Artificial-Inte
  ###### Latest
  
  [Back to top](#contents)
+ 
+--------------------
+GCP
 
+- [cloudml-samples](https://github.com/GoogleCloudPlatform/cloudml-samples) - Cloud ML Engine is now a part of AI Platform https://cloud.google.com/ml-engine/docs/
+- [data-science-on-gcp](https://github.com/GoogleCloudPlatform/data-science-on-gcp)
+- [awesome-gcp-certifications](https://github.com/ddneves/awesome-gcp-certifications)
+- [ml-on-gcp](https://github.com/GoogleCloudPlatform/ml-on-gcp)
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+
+----------------
 - [dataquestio/solutions](https://github.com/dataquestio/solutions) - Solutions for projects.
 - [QuantumKatas](https://github.com/microsoft/QuantumKatas) - Programming exercises for learning Q# and quantum computing
 - [Hands-On-Intelligent-Agents-with-OpenAI-Gym](https://github.com/PacktPublishing/Hands-On-Intelligent-Agents-with-OpenAI-Gym)
