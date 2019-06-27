@@ -613,6 +613,7 @@ June - 2019
 - [Brute Force Algorithms and AI: Use Case of Autonomous Cars](https://www.aitrends.com/ai-insider/brute-force-algorithms-and-ai-use-case-of-autonomous-cars/)
 - [A Visual Intro to NumPy and Data Representation](https://jalammar.github.io/visual-numpy/)
 - [Introducing Deep Learning Containers: Consistent and portable environments](https://cloud.google.com/blog/products/ai-machine-learning/introducing-deep-learning-containers-consistent-and-portable-environments)
+- [torchvision 0.3: segmentation, detection models, new datasets and more..](https://pytorch.org/blog/torchvision03/?utm_source=social-facebook&utm_medium=pytorch&utm_campaign=organic&utm_content=post-url&utm_offering=artifical-intelligence&utm_product=TorchVision01_062619)
 
 -----------------------
 
