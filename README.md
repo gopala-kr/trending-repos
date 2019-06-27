@@ -1921,6 +1921,10 @@ and Able? ](https://www.parliament.uk/documents/lords-committees/Artificial-Inte
  
  [Back to top](#contents)
  
+ 
+ 
+
+ 
 --------------------
 GCP
 
@@ -1937,6 +1941,7 @@ GCP
 - [https://github.com/GoogleCloudPlatform](https://github.com/GoogleCloudPlatform)
 
 ----------------
+- [tensorrt-inference-server](https://github.com/NVIDIA/tensorrt-inference-server)
 - [dataquestio/solutions](https://github.com/dataquestio/solutions) - Solutions for projects.
 - [QuantumKatas](https://github.com/microsoft/QuantumKatas) - Programming exercises for learning Q# and quantum computing
 - [Hands-On-Intelligent-Agents-with-OpenAI-Gym](https://github.com/PacktPublishing/Hands-On-Intelligent-Agents-with-OpenAI-Gym)
