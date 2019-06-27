@@ -611,6 +611,8 @@ June - 2019
 - [OpenAI: Choosing Between Global Development of AI, and Fear of Losing Control Over Dangerous Technology](https://www.aitrends.com/ethics-and-social-issues/openai-choosing-between-global-development-of-ai-and-fear-of-losing-control-over-dangerous-technology/)
 - [Government: An Integral Partner for Exploring AI](https://www.aitrends.com/ai-in-government/government-an-integral-partner-for-exploring-ai/)
 - [Brute Force Algorithms and AI: Use Case of Autonomous Cars](https://www.aitrends.com/ai-insider/brute-force-algorithms-and-ai-use-case-of-autonomous-cars/)
+- [A Visual Intro to NumPy and Data Representation](https://jalammar.github.io/visual-numpy/)
+- [Introducing Deep Learning Containers: Consistent and portable environments](https://cloud.google.com/blog/products/ai-machine-learning/introducing-deep-learning-containers-consistent-and-portable-environments)
 
 -----------------------
 
