@@ -1928,12 +1928,12 @@ GCP
 - [data-science-on-gcp](https://github.com/GoogleCloudPlatform/data-science-on-gcp)
 - [awesome-gcp-certifications](https://github.com/ddneves/awesome-gcp-certifications)
 - [ml-on-gcp](https://github.com/GoogleCloudPlatform/ml-on-gcp)
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
+- [Data-Engineering-on-GCP-Cheatsheet](https://github.com/ml874/Data-Engineering-on-GCP-Cheatsheet)
+- [GoogleCloudArchitectProfessional](https://github.com/agasthik/GoogleCloudArchitectProfessional)
+- [ata-engineering-gcp](https://github.com/jorwalk/data-engineering-gcp)
+- [gcp-datastore-cloud-functions-realworld-example-app](https://github.com/gothinkster/gcp-datastore-cloud-functions-realworld-example-app)
+- [https://google.qwiklabs.com/](https://google.qwiklabs.com/)
+- [GCP-Data-Engineer-Study-Guide](https://github.com/xg1990/GCP-Data-Engineer-Study-Guide)
 
 ----------------
 - [dataquestio/solutions](https://github.com/dataquestio/solutions) - Solutions for projects.
