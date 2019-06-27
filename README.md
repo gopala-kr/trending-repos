@@ -1934,6 +1934,7 @@ GCP
 - [gcp-datastore-cloud-functions-realworld-example-app](https://github.com/gothinkster/gcp-datastore-cloud-functions-realworld-example-app)
 - [https://google.qwiklabs.com/](https://google.qwiklabs.com/)
 - [GCP-Data-Engineer-Study-Guide](https://github.com/xg1990/GCP-Data-Engineer-Study-Guide)
+- [https://github.com/GoogleCloudPlatform](https://github.com/GoogleCloudPlatform)
 
 ----------------
 - [dataquestio/solutions](https://github.com/dataquestio/solutions) - Solutions for projects.
