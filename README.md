@@ -1953,6 +1953,7 @@ GCP
 - [https://cloud.google.com/docs/tutorials](https://cloud.google.com/docs/tutorials)
 
 ----------------
+- [revisiting-self-supervised](https://github.com/google/revisiting-self-supervised)
 - [tensorrt-inference-server](https://github.com/NVIDIA/tensorrt-inference-server)
 - [dataquestio/solutions](https://github.com/dataquestio/solutions) - Solutions for projects.
 - [QuantumKatas](https://github.com/microsoft/QuantumKatas) - Programming exercises for learning Q# and quantum computing
