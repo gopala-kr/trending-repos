@@ -1953,6 +1953,7 @@ GCP
 - [https://cloud.google.com/docs/tutorials](https://cloud.google.com/docs/tutorials)
 
 ----------------
+- [analytics-zoo](https://github.com/intel-analytics/analytics-zoo)
 - [revisiting-self-supervised](https://github.com/google/revisiting-self-supervised)
 - [tensorrt-inference-server](https://github.com/NVIDIA/tensorrt-inference-server)
 - [dataquestio/solutions](https://github.com/dataquestio/solutions) - Solutions for projects.
