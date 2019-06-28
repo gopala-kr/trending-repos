@@ -1950,6 +1950,7 @@ GCP
 - [GCP-Data-Engineer-Study-Guide](https://github.com/xg1990/GCP-Data-Engineer-Study-Guide)
 - [https://github.com/GoogleCloudPlatform](https://github.com/GoogleCloudPlatform)
 - [google-cloud-4-words](https://github.com/gregsramblings/google-cloud-4-words)
+- [https://cloud.google.com/docs/tutorials](https://cloud.google.com/docs/tutorials)
 
 ----------------
 - [tensorrt-inference-server](https://github.com/NVIDIA/tensorrt-inference-server)
