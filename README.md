@@ -620,6 +620,7 @@ June - 2019
 - [MLPerf Inference launched](https://mlperf.org/press#mlperf-inference-launched)
 - [increasing-ai-performance-intel-dlboost](https://www.intel.ai/increasing-ai-performance-intel-dlboost/)
 - [improving-inference-parallel-batching](https://www.intel.ai/improving-inference-parallel-batching/#gs.lawxfh)
+- [Downloadable: Cheat Sheets for AI, Neural Networks, Machine Learning, Deep Learning & Data Science PDF](https://becominghuman.ai/cheat-sheets-for-ai-neural-networks-machine-learning-deep-learning-big-data-science-pdf-f22dc900d2d7) :star:
 
 -----------------------
 
