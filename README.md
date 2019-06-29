@@ -625,7 +625,7 @@ June - 2019
 - [Announcing the YouTube-8M Segments Dataset](https://ai.googleblog.com/2019/06/announcing-youtube-8m-segments-dataset.html)
 - [Leveraging Idle Moments in Real-Time AI Systems: Use Case of Autonomous Cars](https://www.aitrends.com/ai-insider/leveraging-idle-moments-in-real-time-ai-systems-use-case-of-autonomous-cars/)
 - [What Does an AI Ethicist Do? A Chat with Microsoft’s Tim O’Brien](https://www.aitrends.com/ethics-and-social-issues/what-does-an-ai-ethicist-do-a-chat-with-microsofts-tim-obrien/)
-
+- [National-AI-Research-and-Development-Strategic-Plan-2019-Update-June-2019](https://www.whitehouse.gov/wp-content/uploads/2019/06/National-AI-Research-and-Development-Strategic-Plan-2019-Update-June-2019.pdf)
 
 -----------------------
 
