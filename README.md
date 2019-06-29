@@ -621,6 +621,8 @@ June - 2019
 - [increasing-ai-performance-intel-dlboost](https://www.intel.ai/increasing-ai-performance-intel-dlboost/)
 - [improving-inference-parallel-batching](https://www.intel.ai/improving-inference-parallel-batching/#gs.lawxfh)
 - [Downloadable: Cheat Sheets for AI, Neural Networks, Machine Learning, Deep Learning & Data Science PDF](https://becominghuman.ai/cheat-sheets-for-ai-neural-networks-machine-learning-deep-learning-big-data-science-pdf-f22dc900d2d7) :star:
+- [Predicting Bus Delays with Machine Learning](https://ai.googleblog.com/2019/06/predicting-bus-delays-with-machine.html)
+- [Announcing the YouTube-8M Segments Dataset](https://ai.googleblog.com/2019/06/announcing-youtube-8m-segments-dataset.html)
 
 -----------------------
 
