@@ -623,6 +623,9 @@ June - 2019
 - [Downloadable: Cheat Sheets for AI, Neural Networks, Machine Learning, Deep Learning & Data Science PDF](https://becominghuman.ai/cheat-sheets-for-ai-neural-networks-machine-learning-deep-learning-big-data-science-pdf-f22dc900d2d7) :star:
 - [Predicting Bus Delays with Machine Learning](https://ai.googleblog.com/2019/06/predicting-bus-delays-with-machine.html)
 - [Announcing the YouTube-8M Segments Dataset](https://ai.googleblog.com/2019/06/announcing-youtube-8m-segments-dataset.html)
+- [Leveraging Idle Moments in Real-Time AI Systems: Use Case of Autonomous Cars](https://www.aitrends.com/ai-insider/leveraging-idle-moments-in-real-time-ai-systems-use-case-of-autonomous-cars/)
+- [What Does an AI Ethicist Do? A Chat with Microsoft’s Tim O’Brien](https://www.aitrends.com/ethics-and-social-issues/what-does-an-ai-ethicist-do-a-chat-with-microsofts-tim-obrien/)
+
 
 -----------------------
 
