@@ -626,6 +626,10 @@ June - 2019
 - [Leveraging Idle Moments in Real-Time AI Systems: Use Case of Autonomous Cars](https://www.aitrends.com/ai-insider/leveraging-idle-moments-in-real-time-ai-systems-use-case-of-autonomous-cars/)
 - [What Does an AI Ethicist Do? A Chat with Microsoft’s Tim O’Brien](https://www.aitrends.com/ethics-and-social-issues/what-does-an-ai-ethicist-do-a-chat-with-microsofts-tim-obrien/)
 - [National-AI-Research-and-Development-Strategic-Plan-2019-Update-June-2019](https://www.whitehouse.gov/wp-content/uploads/2019/06/National-AI-Research-and-Development-Strategic-Plan-2019-Update-June-2019.pdf)
+- [Deep Learning from the Foundations](https://www.fast.ai/2019/06/28/course-p2v3/)
+- [Making Waves at CVPR: Inception Startups Exhibit GPU-Powered Work in Long Beach](https://blogs.nvidia.com/blog/2019/06/17/cvpr-inception-startups/)
+- [Drag-and-drop data analytics](http://news.mit.edu/2019/drag-drop-data-analytics-0627)
+- [New AI programming language goes beyond deep learning](http://news.mit.edu/2019/ai-programming-gen-0626)
 
 -----------------------
 
