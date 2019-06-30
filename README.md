@@ -630,6 +630,9 @@ June - 2019
 - [Making Waves at CVPR: Inception Startups Exhibit GPU-Powered Work in Long Beach](https://blogs.nvidia.com/blog/2019/06/17/cvpr-inception-startups/)
 - [Drag-and-drop data analytics](http://news.mit.edu/2019/drag-drop-data-analytics-0627)
 - [New AI programming language goes beyond deep learning](http://news.mit.edu/2019/ai-programming-gen-0626)
+- [5nm Vs. 3nm](https://semiengineering.com/5nm-vs-3nm/)
+- [Data Confusion At The Edge](https://semiengineering.com/data-confusion-at-the-edge/)
+- [Why Chips Are Getting Noisier](https://semiengineering.com/chips-becoming-noisier/)
 
 -----------------------
 
