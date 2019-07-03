@@ -1944,9 +1944,14 @@ and Able? ](https://www.parliament.uk/documents/lords-committees/Artificial-Inte
  [Back to top](#contents)
  
  
- 
+ - [xlnet-pytorch](https://github.com/pingpong-ai/xlnet-pytorch)
+ - [ai-platform-samples](https://github.com/GoogleCloudPlatform/ai-platform-samples)
+ - [DeepNude-an-Image-to-Image-technology](https://github.com/yuanxiaosc/DeepNude-an-Image-to-Image-technology)
+ - [open-deepnude](https://github.com/open-deepnude/open-deepnude)
+ - [machine_learning_examples](https://github.com/lazyprogrammer/machine_learning_examples)
+ - [Learn-Natural-Language-Processing-Curriculum](https://github.com/llSourcell/Learn-Natural-Language-Processing-Curriculum)
+ - [Cookbook](https://github.com/andkret/Cookbook) - The Data Engineering Cookbook https://andreaskretz.com/
 
- 
 --------------------
 GCP
 
