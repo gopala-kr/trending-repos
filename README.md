@@ -633,6 +633,11 @@ June - 2019
 - [5nm Vs. 3nm](https://semiengineering.com/5nm-vs-3nm/)
 - [Data Confusion At The Edge](https://semiengineering.com/data-confusion-at-the-edge/)
 - [Why Chips Are Getting Noisier](https://semiengineering.com/chips-becoming-noisier/)
+- [Machine Learning Inferencing Moves To Mobile Devices](https://semiengineering.com/ml-moves-from-servers-to-smart-phones/)
+- [CEO Outlook: Rising Costs, Chiplets, And A Trade War](https://semiengineering.com/ceo-outlook-rising-costs-chiplets-and-chinas-future/)
+- [EUV, Deep Learning Issues In Mask Making](https://semiengineering.com/euv-deep-learning-issues-in-mask-making/)
+- [Open Source Processors: Fact Or Fiction?](https://semiengineering.com/open-source-processors-fact-or-fiction/)
+
 
 -----------------------
 
