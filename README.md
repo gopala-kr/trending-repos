@@ -1948,7 +1948,10 @@ and Able? ](https://www.parliament.uk/documents/lords-committees/Artificial-Inte
  
  [Back to top](#contents)
  
- 
+
+ - [metatron-discovery](https://github.com/metatron-app/metatron-discovery)
+ - [DeepLearning-500-questions](https://github.com/scutan90/DeepLearning-500-questions)
+ - [facebookresearch/dlrm](https://github.com/facebookresearch/dlrm) - An implementation of a deep learning recommendation model (DLRM)
  - [xlnet-pytorch](https://github.com/pingpong-ai/xlnet-pytorch)
  - [ai-platform-samples](https://github.com/GoogleCloudPlatform/ai-platform-samples)
  - [DeepNude-an-Image-to-Image-technology](https://github.com/yuanxiaosc/DeepNude-an-Image-to-Image-technology)
