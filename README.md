@@ -1948,7 +1948,8 @@ and Able? ](https://www.parliament.uk/documents/lords-committees/Artificial-Inte
  
  [Back to top](#contents)
  
-
+ 
+ - [Pothole-Detection](https://github.com/Prady96/Pothole-Detection)
  - [metatron-discovery](https://github.com/metatron-app/metatron-discovery)
  - [DeepLearning-500-questions](https://github.com/scutan90/DeepLearning-500-questions)
  - [facebookresearch/dlrm](https://github.com/facebookresearch/dlrm) - An implementation of a deep learning recommendation model (DLRM)
