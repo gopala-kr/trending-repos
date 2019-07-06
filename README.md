@@ -1948,7 +1948,11 @@ and Able? ](https://www.parliament.uk/documents/lords-committees/Artificial-Inte
  
  [Back to top](#contents)
  
- 
+ - [the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line)
+ - [rl_algorithms](https://github.com/medipixel/rl_algorithms)
+ - [few-shot-ssl-public](https://github.com/renmengye/few-shot-ssl-public)
+ - [DGN](https://github.com/PKU-AI-Edge/DGN)
+ - [numpy-ml](https://github.com/ddbourgin/numpy-ml) - Machine learning, in numpy
  - [Pothole-Detection](https://github.com/Prady96/Pothole-Detection)
  - [metatron-discovery](https://github.com/metatron-app/metatron-discovery)
  - [DeepLearning-500-questions](https://github.com/scutan90/DeepLearning-500-questions)
