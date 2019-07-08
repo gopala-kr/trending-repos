@@ -1948,6 +1948,9 @@ and Able? ](https://www.parliament.uk/documents/lords-committees/Artificial-Inte
  
  [Back to top](#contents)
  
+ - [random-network-distillation](https://github.com/openai/random-network-distillation)
+ - [deepmind/abstract-reasoning-matrices](https://github.com/deepmind/abstract-reasoning-matrices)
+ - [semi-memory](https://github.com/yanbeic/semi-memory)
  - [algorithm-visualizer](https://github.com/algorithm-visualizer/algorithm-visualizer)
  - [awesome-kubernetes](https://github.com/ramitsurana/awesome-kubernetes)
  - [Deep-Reinforcement-Learning-Algorithms-with-PyTorch](https://github.com/p-christ/Deep-Reinforcement-Learning-Algorithms-with-PyTorch)
