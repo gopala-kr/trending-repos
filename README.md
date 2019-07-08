@@ -1948,6 +1948,10 @@ and Able? ](https://www.parliament.uk/documents/lords-committees/Artificial-Inte
  
  [Back to top](#contents)
  
+ - [zipline](https://github.com/quantopian/zipline) - Zipline, a Pythonic Algorithmic Trading Library http://www.zipline.io/
+ - [DeepLearningZeroToAll](https://github.com/hunkim/DeepLearningZeroToAll)
+ - [LiteratureDL4Graph](https://github.com/DeepGraphLearning/LiteratureDL4Graph)
+ - [RLTrader](https://github.com/notadamking/RLTrader)
  - [random-network-distillation](https://github.com/openai/random-network-distillation)
  - [deepmind/abstract-reasoning-matrices](https://github.com/deepmind/abstract-reasoning-matrices)
  - [semi-memory](https://github.com/yanbeic/semi-memory)
