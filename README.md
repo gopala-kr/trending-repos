@@ -637,7 +637,8 @@ June - 2019
 - [CEO Outlook: Rising Costs, Chiplets, And A Trade War](https://semiengineering.com/ceo-outlook-rising-costs-chiplets-and-chinas-future/)
 - [EUV, Deep Learning Issues In Mask Making](https://semiengineering.com/euv-deep-learning-issues-in-mask-making/)
 - [Open Source Processors: Fact Or Fiction?](https://semiengineering.com/open-source-processors-fact-or-fiction/)
-
+- [Hubless Nearest Neighbor Search for Bilingual Lexicon Induction](http://research.baidu.com/Blog/index-view?id=119)
+- [ICML Highlight: Contrastive Divergence for Combining Variational Inference and MCMC](https://www.inference.vc/icml-highlight-contrastive-divergence-for-variational-inference-and-mcmc/)
 
 -----------------------
 
