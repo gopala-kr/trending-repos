@@ -1949,6 +1949,10 @@ and Able? ](https://www.parliament.uk/documents/lords-committees/Artificial-Inte
  
  [Back to top](#contents)
  
+ - [python_autocomplete](https://github.com/vpj/python_autocomplete)
+ - [insightface](https://github.com/deepinsight/insightface) - Face Analysis Project on MXNet
+ - [conference_call_for_paper](https://github.com/JackieTseng/conference_call_for_paper) - 2019-2020 International Conferences in Artificial Intelligence, Machine Learning, Computer Vision, Data Mining, Natural Language Processing and Robotics 
+ - [SAGPool](https://github.com/inyeoplee77/SAGPool)
  - [zipline](https://github.com/quantopian/zipline) - Zipline, a Pythonic Algorithmic Trading Library http://www.zipline.io/
  - [DeepLearningZeroToAll](https://github.com/hunkim/DeepLearningZeroToAll)
  - [LiteratureDL4Graph](https://github.com/DeepGraphLearning/LiteratureDL4Graph)
