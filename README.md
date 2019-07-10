@@ -556,7 +556,15 @@
 
 
 
-----------------
+------------------------------
+
+
+- [Deep Learning for Spacecraft Pose Estimation from Photorealistic Rendering](https://arxiv.org/abs/1907.04298v1)
+- [Translating neural signals to text using a Brain-Machine Interface](https://arxiv.org/abs/1907.04265v1)
+- [SVGD: A Virtual Gradients Descent Method for Stochastic Optimization](https://arxiv.org/pdf/1907.04021v1.pdf)
+- [A Review of Deep Learning with Special Emphasis on Architectures, Applications and Recent Trends](https://arxiv.org/pdf/1905.13294v3.pdf)
+
+-----------------------------------
 
 June - 2019
 
