@@ -572,12 +572,12 @@
 - [Listen, Attend, Spell and Adapt: Speaker Adapted Sequence-to-Sequence ASR](https://arxiv.org/pdf/1907.04916v1.pdf)
 - [A Review of Machine Learning Applications in Fuzzing](https://arxiv.org/pdf/1906.11133v1.pdf)
 - [GQA: A New Dataset for Real-World Visual Reasoning and Compositional Question Answering](https://arxiv.org/pdf/1902.09506v3.pdf)
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
+- [Machine Learning Kernel Method from a Quantum Generative Model](https://arxiv.org/pdf/1907.05103v1.pdf)
+- [A Neural Architecture for Designing Truthful and Efficient Auctions](https://arxiv.org/pdf/1907.05181v1.pdf)
+- [Fast geodesic shooting for landmark matching using CUDA](https://arxiv.org/ftp/arxiv/papers/1907/1907.04839.pdf)
+- [The Role of Cooperation in Responsible AI Development](https://arxiv.org/pdf/1907.04534v1.pdf)
+- [PreCall: A Visual Interface for Threshold Optimization in ML Model Selection](https://arxiv.org/abs/1907.05131v1)
+
 
 -----------------------------------
 
