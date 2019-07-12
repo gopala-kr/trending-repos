@@ -563,6 +563,21 @@
 - [Translating neural signals to text using a Brain-Machine Interface](https://arxiv.org/abs/1907.04265v1)
 - [SVGD: A Virtual Gradients Descent Method for Stochastic Optimization](https://arxiv.org/pdf/1907.04021v1.pdf)
 - [A Review of Deep Learning with Special Emphasis on Architectures, Applications and Recent Trends](https://arxiv.org/pdf/1905.13294v3.pdf)
+- [Large Memory Layers with Product Keys](https://arxiv.org/pdf/1907.05242v1.pdf)
+- [Large Scale Adversarial Representation Learning](https://arxiv.org/pdf/1907.02544v1.pdf)
+- [Regularizing Neural Networks for Future Trajectory Prediction via Inverse Reinforcement Learning](https://arxiv.org/pdf/1907.04525v1.pdf)
+- [Out-of-Distribution Detection Using Neural Rendering Generative Models](https://arxiv.org/pdf/1907.04572v1.pdf)
+- [City-GAN: Learning architectural styles using a custom Conditional GAN architecture](https://arxiv.org/pdf/1907.05280v1.pdf)
+- [Tranquil Clouds: Neural Networks for Learning Temporally Coherent Features in Point Clouds](https://arxiv.org/pdf/1907.05279v1.pdf)
+- [Listen, Attend, Spell and Adapt: Speaker Adapted Sequence-to-Sequence ASR](https://arxiv.org/pdf/1907.04916v1.pdf)
+- [A Review of Machine Learning Applications in Fuzzing](https://arxiv.org/pdf/1906.11133v1.pdf)
+- [GQA: A New Dataset for Real-World Visual Reasoning and Compositional Question Answering](https://arxiv.org/pdf/1902.09506v3.pdf)
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
 
 -----------------------------------
 
