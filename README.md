@@ -563,7 +563,7 @@
 - [Translating neural signals to text using a Brain-Machine Interface](https://arxiv.org/abs/1907.04265v1)
 - [SVGD: A Virtual Gradients Descent Method for Stochastic Optimization](https://arxiv.org/pdf/1907.04021v1.pdf)
 - [A Review of Deep Learning with Special Emphasis on Architectures, Applications and Recent Trends](https://arxiv.org/pdf/1905.13294v3.pdf)
-- [Large Memory Layers with Product Keys](https://arxiv.org/pdf/1907.05242v1.pdf)
+- [Large Memory Layers with Product Keys](https://arxiv.org/pdf/1907.05242v1.pdf) :star:
 - [Large Scale Adversarial Representation Learning](https://arxiv.org/pdf/1907.02544v1.pdf)
 - [Regularizing Neural Networks for Future Trajectory Prediction via Inverse Reinforcement Learning](https://arxiv.org/pdf/1907.04525v1.pdf)
 - [Out-of-Distribution Detection Using Neural Rendering Generative Models](https://arxiv.org/pdf/1907.04572v1.pdf)
@@ -577,6 +577,10 @@
 - [Fast geodesic shooting for landmark matching using CUDA](https://arxiv.org/ftp/arxiv/papers/1907/1907.04839.pdf)
 - [The Role of Cooperation in Responsible AI Development](https://arxiv.org/pdf/1907.04534v1.pdf)
 - [PreCall: A Visual Interface for Threshold Optimization in ML Model Selection](https://arxiv.org/abs/1907.05131v1)
+- [Massively Multilingual Neural Machine Translation in the Wild: Findings and Challenges](https://arxiv.org/abs/1907.05019v1)
+- [Playing Go without Game Tree Search Using Convolutional Neural Networks](https://arxiv.org/abs/1907.04658v1)
+- [Incrementalizing RASA's Open-Source Natural Language Understanding Pipeline](https://arxiv.org/abs/1907.05403v1)
+- [BlazeFace: Sub-millisecond Neural Face Detection on Mobile GPUs](https://arxiv.org/abs/1907.05047v1)
 
 
 -----------------------------------
