@@ -581,9 +581,21 @@
 - [Playing Go without Game Tree Search Using Convolutional Neural Networks](https://arxiv.org/abs/1907.04658v1)
 - [Incrementalizing RASA's Open-Source Natural Language Understanding Pipeline](https://arxiv.org/abs/1907.05403v1)
 - [BlazeFace: Sub-millisecond Neural Face Detection on Mobile GPUs](https://arxiv.org/abs/1907.05047v1)
-
+- [Making AI Forget You: Data Deletion in Machine Learning](https://arxiv.org/pdf/1907.05012v1.pdf)
 
 -----------------------------------
+
+July - 2019
+
+- [OpenAI: Why Responsible
+AI Development
+Needs
+Cooperation
+on Safety](https://openai.com/blog/cooperation-on-safety/)
+
+
+
+-------------------
 
 June - 2019
 
