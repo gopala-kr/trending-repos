@@ -587,11 +587,13 @@
 
 July - 2019
 
-- [OpenAI: Why Responsible
-AI Development
-Needs
-Cooperation
-on Safety](https://openai.com/blog/cooperation-on-safety/)
+- [OpenAI: Why Responsible AI Development Needs Cooperation on Safety](https://openai.com/blog/cooperation-on-safety/)
+- [Multilingual Universal Sentence Encoder for Semantic Retrieval](https://ai.googleblog.com/2019/07/multilingual-universal-sentence-encoder.html)
+- [Advancing Semi-supervised Learning with Unsupervised Data Augmentation](https://ai.googleblog.com/2019/07/advancing-semi-supervised-learning-with.html)
+- [Predicting the Generalization Gap in Deep Neural Networks](https://ai.googleblog.com/2019/07/predicting-generalization-gap-in-deep.html)
+- [intel-baidu-ai-everywhere](https://www.intel.ai/intel-baidu-ai-everywhere/#gs.p2450y)
+- [bigdl-cern](https://www.intel.ai/bigdl-cern/#gs.p245nd)
+- [optimizing-tensorflow-data-layer](https://www.intel.ai/optimizing-tensorflow-data-layer/#gs.p245nm)
 
 
 
