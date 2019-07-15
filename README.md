@@ -582,6 +582,7 @@
 - [Incrementalizing RASA's Open-Source Natural Language Understanding Pipeline](https://arxiv.org/abs/1907.05403v1)
 - [BlazeFace: Sub-millisecond Neural Face Detection on Mobile GPUs](https://arxiv.org/abs/1907.05047v1)
 - [Making AI Forget You: Data Deletion in Machine Learning](https://arxiv.org/pdf/1907.05012v1.pdf)
+- [Explainable Machine Learning for Scientific Insights and Discoveries](https://arxiv.org/abs/1905.08883v2)
 
 -----------------------------------
 
