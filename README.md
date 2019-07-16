@@ -585,7 +585,8 @@
 - [Explainable Machine Learning for Scientific Insights and Discoveries](https://arxiv.org/abs/1905.08883v2)
 - [What does it mean to understand a neural network?](https://arxiv.org/abs/1907.06374v1)
 - [Efficient Video Generation on Complex Datasets](https://arxiv.org/abs/1907.06571v1)
-
+- [NPA: Neural News Recommendation with Personalized Attention](https://arxiv.org/pdf/1907.05559v1.pdf)
+- [Artificial Intelligence as a Services (AI-aaS) on Software-Defined Infrastructure](https://arxiv.org/abs/1907.05505v1)
 
 -----------------------------------
 
