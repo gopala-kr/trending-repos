@@ -587,6 +587,8 @@
 - [Efficient Video Generation on Complex Datasets](https://arxiv.org/abs/1907.06571v1)
 - [NPA: Neural News Recommendation with Personalized Attention](https://arxiv.org/pdf/1907.05559v1.pdf)
 - [Artificial Intelligence as a Services (AI-aaS) on Software-Defined Infrastructure](https://arxiv.org/abs/1907.05505v1)
+- [Gated-SCNN: Gated Shape CNNs for Semantic Segmentation](https://arxiv.org/abs/1907.05740v1)
+- [Task Selection Policies for Multitask Learning](https://arxiv.org/abs/1907.06214v1)
 
 -----------------------------------
 
