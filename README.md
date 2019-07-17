@@ -589,6 +589,8 @@
 - [Artificial Intelligence as a Services (AI-aaS) on Software-Defined Infrastructure](https://arxiv.org/abs/1907.05505v1)
 - [Gated-SCNN: Gated Shape CNNs for Semantic Segmentation](https://arxiv.org/abs/1907.05740v1)
 - [Task Selection Policies for Multitask Learning](https://arxiv.org/abs/1907.06214v1)
+- [Microsoft Translator at WMT 2019: Towards Large-Scale Document-Level Neural Machine Translation](https://arxiv.org/abs/1907.06170v1)
+- [A Neural Turing~Machine for Conditional Transition Graph Modeling](https://arxiv.org/abs/1907.06432v1)
 
 -----------------------------------
 
