@@ -591,6 +591,7 @@
 - [Task Selection Policies for Multitask Learning](https://arxiv.org/abs/1907.06214v1)
 - [Microsoft Translator at WMT 2019: Towards Large-Scale Document-Level Neural Machine Translation](https://arxiv.org/abs/1907.06170v1)
 - [A Neural Turing~Machine for Conditional Transition Graph Modeling](https://arxiv.org/abs/1907.06432v1)
+- [A Differentiable Programming System to Bridge Machine Learning and Scientific Computing](https://arxiv.org/abs/1907.07587v2)
 
 -----------------------------------
 
