@@ -605,6 +605,7 @@ July - 2019
 - [bigdl-cern](https://www.intel.ai/bigdl-cern/#gs.p245nd)
 - [optimizing-tensorflow-data-layer](https://www.intel.ai/optimizing-tensorflow-data-layer/#gs.p245nm)
 - [Understanding Neural Machine Translation by Simplification: The Case of Encoder-free Models](https://arxiv.org/pdf/1907.08158v1.pdf)
+- [OCC: A Smart Reply System for Efficient In-App Communications](https://arxiv.org/pdf/1907.08167v1.pdf)
 
 -------------------
 
