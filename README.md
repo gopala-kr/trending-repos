@@ -604,8 +604,7 @@ July - 2019
 - [intel-baidu-ai-everywhere](https://www.intel.ai/intel-baidu-ai-everywhere/#gs.p2450y)
 - [bigdl-cern](https://www.intel.ai/bigdl-cern/#gs.p245nd)
 - [optimizing-tensorflow-data-layer](https://www.intel.ai/optimizing-tensorflow-data-layer/#gs.p245nm)
-
-
+- [Understanding Neural Machine Translation by Simplification: The Case of Encoder-free Models](https://arxiv.org/pdf/1907.08158v1.pdf)
 
 -------------------
 
