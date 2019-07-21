@@ -578,6 +578,10 @@ July - 2019
 - [Teaching artificial intelligence to create visuals with more common sense](http://news.mit.edu/2019/teaching-artificial-intelligence-to-create-more-common-sense-visuals-0701)
 - [CSAIL hosts first-ever TEDxMIT](https://www.csail.mit.edu/news/csail-hosts-first-ever-tedxmit)
 - [Superconducting neurons could match the power efficiency of the brain](https://www.technologyreview.com/s/613949/superconducting-neurons-could-match-the-power-efficiency-of-the-brain/)
+- [For Driverless Car Test Tracks, It Helps to Make the Signs Clear](https://www.aitrends.com/selfdrivingcars/for-driverless-car-test-tracks-it-helps-to-make-the-signs-clear/)
+- [Motorcycles Are On-The-Road To Becoming Semi-Autonomous And Fully Autonomous](https://www.aitrends.com/features/motorcycles-are-on-the-road-to-becoming-semi-autonomous-and-fully-autonomous/)
+- [US Tech Giants Reported Helping to Build the Chinese Surveillance State](https://www.aitrends.com/ethics-and-social-issues/us-tech-giants-reported-helping-to-build-the-chinese-surveillance-state/)
+- [AI in Manufacturing, in Use by Less than 8% Today, Seen Growing to 50% by End of 2021](https://www.aitrends.com/ai-in-industry/ai-in-manufacturing-in-use-by-less-than-8-today-seen-growing-to-50-by-end-of-2021/)
 
 -------------------
 
