@@ -569,6 +569,11 @@ July - 2019
 - [OCC: A Smart Reply System for Efficient In-App Communications](https://arxiv.org/pdf/1907.08167v1.pdf)
 - [Building SMILY, a Human-Centric, Similar-Image Search Tool for Pathology](https://ai.googleblog.com/2019/07/building-smily-human-centric-similar.html)
 - [Parrotron: New Research into Improving Verbal Communication for People with Speech Impairments](https://ai.googleblog.com/2019/07/parrotron-new-research-into-improving.html)
+- [Facebook, Carnegie Mellon build first AI that beats pros in 6-player poker](https://ai.facebook.com/blog/pluribus-first-ai-to-beat-pros-in-6-player-poker/)
+- [new fast.ai course: A Code-First Introduction to Natural Language Processing](https://www.fast.ai/2019/07/08/fastai-nlp/)
+- [Spotting Clouds on the Horizon: AI Resolves Uncertainties in Climate Projections](https://blogs.nvidia.com/blog/2019/07/17/clima-climate-model/)
+- [NVIDIA Breaks Eight AI Performance Records](https://blogs.nvidia.com/blog/2019/07/10/mlperf-ai-performance-records/)
+- [How AI, drones and cameras are keeping our roads and bridges safe](https://news.microsoft.com/europe/features/how-ai-drones-and-cameras-are-keeping-our-roads-and-bridges-safe/)
 
 -------------------
 
