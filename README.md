@@ -574,6 +574,10 @@ July - 2019
 - [Spotting Clouds on the Horizon: AI Resolves Uncertainties in Climate Projections](https://blogs.nvidia.com/blog/2019/07/17/clima-climate-model/)
 - [NVIDIA Breaks Eight AI Performance Records](https://blogs.nvidia.com/blog/2019/07/10/mlperf-ai-performance-records/)
 - [How AI, drones and cameras are keeping our roads and bridges safe](https://news.microsoft.com/europe/features/how-ai-drones-and-cameras-are-keeping-our-roads-and-bridges-safe/)
+- [Visiting lecturer to spearhead project exploring the geopolitics of artificial intelligence](http://news.mit.edu/2019/visiting-lecturer-luis-videgaray-geopolitics-ai-0712)
+- [Teaching artificial intelligence to create visuals with more common sense](http://news.mit.edu/2019/teaching-artificial-intelligence-to-create-more-common-sense-visuals-0701)
+- [CSAIL hosts first-ever TEDxMIT](https://www.csail.mit.edu/news/csail-hosts-first-ever-tedxmit)
+- [Superconducting neurons could match the power efficiency of the brain](https://www.technologyreview.com/s/613949/superconducting-neurons-could-match-the-power-efficiency-of-the-brain/)
 
 -------------------
 
