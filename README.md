@@ -1976,6 +1976,8 @@ and Able? ](https://www.parliament.uk/documents/lords-committees/Artificial-Inte
  
  [Back to top](#contents)
  
+ - [zstd](https://github.com/facebook/zstd) - Zstandard - Fast real-time compression algorithm http://www.zstd.net
+ - [Apollo-11](https://github.com/chrislgarry/Apollo-11) - Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.
  - [python_autocomplete](https://github.com/vpj/python_autocomplete)
  - [insightface](https://github.com/deepinsight/insightface) - Face Analysis Project on MXNet
  - [conference_call_for_paper](https://github.com/JackieTseng/conference_call_for_paper) - 2019-2020 International Conferences in Artificial Intelligence, Machine Learning, Computer Vision, Data Mining, Natural Language Processing and Robotics 
