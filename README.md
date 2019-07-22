@@ -1976,6 +1976,7 @@ and Able? ](https://www.parliament.uk/documents/lords-committees/Artificial-Inte
  
  [Back to top](#contents)
  
+ - [learn-co-students](https://github.com/learn-co-students)
  - [zstd](https://github.com/facebook/zstd) - Zstandard - Fast real-time compression algorithm http://www.zstd.net
  - [Apollo-11](https://github.com/chrislgarry/Apollo-11) - Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.
  - [python_autocomplete](https://github.com/vpj/python_autocomplete)
