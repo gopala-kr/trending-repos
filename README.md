@@ -1976,6 +1976,11 @@ and Able? ](https://www.parliament.uk/documents/lords-committees/Artificial-Inte
  
  [Back to top](#contents)
  
+ - [onnxruntime](https://github.com/microsoft/onnxruntime)
+ - [The-Flask-Mega-Tutorial-zh](https://github.com/luhuisicnu/The-Flask-Mega-Tutorial-zh)
+ - [OmniNet](https://github.com/subho406/OmniNet)
+ - [awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning)
+ - [industry-machine-learning](https://github.com/firmai/industry-machine-learning)
  - [learn-co-students](https://github.com/learn-co-students)
  - [zstd](https://github.com/facebook/zstd) - Zstandard - Fast real-time compression algorithm http://www.zstd.net
  - [Apollo-11](https://github.com/chrislgarry/Apollo-11) - Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.
