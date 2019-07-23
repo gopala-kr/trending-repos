@@ -582,6 +582,7 @@ July - 2019
 - [Motorcycles Are On-The-Road To Becoming Semi-Autonomous And Fully Autonomous](https://www.aitrends.com/features/motorcycles-are-on-the-road-to-becoming-semi-autonomous-and-fully-autonomous/)
 - [US Tech Giants Reported Helping to Build the Chinese Surveillance State](https://www.aitrends.com/ethics-and-social-issues/us-tech-giants-reported-helping-to-build-the-chinese-surveillance-state/)
 - [AI in Manufacturing, in Use by Less than 8% Today, Seen Growing to 50% by End of 2021](https://www.aitrends.com/ai-in-industry/ai-in-manufacturing-in-use-by-less-than-8-today-seen-growing-to-50-by-end-of-2021/)
+- [Microsoft invests in and partners with OpenAI to support us building beneficial AGI](https://openai.com/blog/microsoft/) :star:
 
 -------------------
 
