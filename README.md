@@ -1978,6 +1978,7 @@ and Able? ](https://www.parliament.uk/documents/lords-committees/Artificial-Inte
  
  [Back to top](#contents)
  
+ - [WaveRNN](https://github.com/fatchord/WaveRNN)
  - [onnxruntime](https://github.com/microsoft/onnxruntime)
  - [The-Flask-Mega-Tutorial-zh](https://github.com/luhuisicnu/The-Flask-Mega-Tutorial-zh)
  - [OmniNet](https://github.com/subho406/OmniNet)
