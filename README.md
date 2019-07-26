@@ -585,6 +585,7 @@ July - 2019
 - [AI in Manufacturing, in Use by Less than 8% Today, Seen Growing to 50% by End of 2021](https://www.aitrends.com/ai-in-industry/ai-in-manufacturing-in-use-by-less-than-8-today-seen-growing-to-50-by-end-of-2021/)
 - [Microsoft invests in and partners with OpenAI to support us building beneficial AGI](https://openai.com/blog/microsoft/) :star:
 - [How evolutionary selection can train more capable self-driving cars](https://deepmind.com/blog/how-evolutionary-selection-can-train-more-capable-self-driving-cars/) :star:
+- [Learning Better Simulation Methods for Partial Differential Equations](https://ai.googleblog.com/2019/07/learning-better-simulation-methods-for.html)
 
 -------------------
 
