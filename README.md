@@ -118,6 +118,7 @@
 | [ijbidm](https://www.inderscience.com/jhome.php?jcode=ijbidm)
 | [theschool.ai](https://www.theschool.ai/courses/move-37-course/)
 | [paperswithcode.com](https://paperswithcode.com/)
+| [https://www.neuralink.com/](https://www.neuralink.com/)
 ||
 
 || [Andrej Karpathy](https://www.youtube.com/channel/UCPk8m_r6fkUSYmvgCBwq-sw) 
