@@ -586,6 +586,7 @@ July - 2019
 - [Microsoft invests in and partners with OpenAI to support us building beneficial AGI](https://openai.com/blog/microsoft/) :star:
 - [How evolutionary selection can train more capable self-driving cars](https://deepmind.com/blog/how-evolutionary-selection-can-train-more-capable-self-driving-cars/) :star:
 - [Learning Better Simulation Methods for Partial Differential Equations](https://ai.googleblog.com/2019/07/learning-better-simulation-methods-for.html)
+- [rl-coach-new-release](https://www.intel.ai/rl-coach-new-release/#gs.smau08)
 
 -------------------
 
