@@ -595,6 +595,7 @@ July - 2019
 - [Supply Chain Management Software Suppliers Using AI to Optimize](https://www.aitrends.com/ai-in-industry/supply-chain-management-software-suppliers-using-ai-to-optimize/)
 - [Exploiting Transducers To Break Into AI Systems: Security Issues For Autonomous Cars](https://www.aitrends.com/ai-insider/exploiting-transducers-to-break-into-ai-systems-security-issues-for-autonomous-cars/)
 - [AI beats professionals in six-player poker](https://www.sciencedaily.com/releases/2019/07/190711141343.htm)
+- [Power Is Limiting Machine Learning Deployments](https://semiengineering.com/power-limitations-of-machine-learning/)
 
 -------------------
 
