@@ -1925,7 +1925,7 @@ and Able? ](https://www.parliament.uk/documents/lords-committees/Artificial-Inte
 
 [Back to top](#contents)
 
-
+- [pytorch-transformers](https://github.com/huggingface/pytorch-transformers)
 - [ufldl.stanford](http://ufldl.stanford.edu/tutorial/)
 - [deeplearning.stanford](http://deeplearning.stanford.edu/wiki/index.php/UFLDL_Tutorial)
 - [neuralnetworksanddeeplearning](http://neuralnetworksanddeeplearning.com/)
