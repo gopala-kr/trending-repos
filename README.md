@@ -1978,7 +1978,9 @@ and Able? ](https://www.parliament.uk/documents/lords-committees/Artificial-Inte
  ###### Latest
  
  [Back to top](#contents)
- 
+
+- [yolov3](https://github.com/ultralytics/yolov3) - YOLOv3 in PyTorch > ONNX > CoreML > iOS https://www.ultralytics.com
+- [Automagica](https://github.com/OakwoodAI/Automagica) - Open Source (Smart) Robotic Process Automation https://automagica.be
 - [d2l-pytorch](https://github.com/dsgiitr/d2l-pytorch)
 - [pytorch-image-models](https://github.com/rwightman/pytorch-image-models)
 - [Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning)
