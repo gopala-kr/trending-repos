@@ -589,6 +589,11 @@ July - 2019
 - [rl-coach-new-release](https://www.intel.ai/rl-coach-new-release/#gs.smau08)
 - [Speaking of AI: Startup Empowers Indian Language Speakers with Deep Learning](https://blogs.nvidia.com/blog/2019/07/24/gnani-ai-indian-languages/)
 - [Spotting Clouds on the Horizon: AI Resolves Uncertainties in Climate Projections](https://blogs.nvidia.com/blog/2019/07/17/clima-climate-model/)
+- [AI on the Edge Evolving Rapidly with Specialized Chips](https://www.aitrends.com/edge-computing/ai-on-the-edge-evolving-rapidly-with-specialized-chips/)
+- [AGI Research into Strong AI a Future, While ANI Work in Weak AI is Here Now](https://www.aitrends.com/ai-research/agi-research-into-strong-ai-a-future-while-ani-work-in-weak-ai-is-here-now/)
+- [Two Views of AI Competition Between the US and China](https://www.aitrends.com/ai-national-initiatives/two-views-of-ai-competition-between-the-us-and-china/)
+- [Supply Chain Management Software Suppliers Using AI to Optimize](https://www.aitrends.com/ai-in-industry/supply-chain-management-software-suppliers-using-ai-to-optimize/)
+- [Exploiting Transducers To Break Into AI Systems: Security Issues For Autonomous Cars](https://www.aitrends.com/ai-insider/exploiting-transducers-to-break-into-ai-systems-security-issues-for-autonomous-cars/)
 
 -------------------
 
