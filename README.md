@@ -602,7 +602,7 @@ July - 2019
 - [The real-world potential and limitations of artificial intelligence](https://www.mckinsey.com/featured-insights/artificial-intelligence/the-real-world-potential-and-limitations-of-artificial-intelligence)
 - [Confronting the risks of artificial intelligence](https://www.mckinsey.com/business-functions/mckinsey-analytics/our-insights/confronting-the-risks-of-artificial-intelligence)
 - [Tackling bias in artificial intelligence (and in humans)](https://www.mckinsey.com/featured-insights/artificial-intelligence/tackling-bias-in-artificial-intelligence-and-in-humans)
-
+- [AI In Numbers: Global Funding, Exits, And R&D Trends In Artificial Intelligence](https://www.cbinsights.com/research/report/ai-in-numbers-q2-2019/)
 
 -------------------
 
