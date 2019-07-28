@@ -587,6 +587,8 @@ July - 2019
 - [How evolutionary selection can train more capable self-driving cars](https://deepmind.com/blog/how-evolutionary-selection-can-train-more-capable-self-driving-cars/) :star:
 - [Learning Better Simulation Methods for Partial Differential Equations](https://ai.googleblog.com/2019/07/learning-better-simulation-methods-for.html)
 - [rl-coach-new-release](https://www.intel.ai/rl-coach-new-release/#gs.smau08)
+- [Speaking of AI: Startup Empowers Indian Language Speakers with Deep Learning](https://blogs.nvidia.com/blog/2019/07/24/gnani-ai-indian-languages/)
+- [Spotting Clouds on the Horizon: AI Resolves Uncertainties in Climate Projections](https://blogs.nvidia.com/blog/2019/07/17/clima-climate-model/)
 
 -------------------
 
