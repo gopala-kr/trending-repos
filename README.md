@@ -1925,6 +1925,7 @@ and Able? ](https://www.parliament.uk/documents/lords-committees/Artificial-Inte
 
 [Back to top](#contents)
 
+- [pytorch-image-models](https://github.com/rwightman/pytorch-image-models)
 - [Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning)
 - [pytorch-transformers](https://github.com/huggingface/pytorch-transformers)
 - [ufldl.stanford](http://ufldl.stanford.edu/tutorial/)
