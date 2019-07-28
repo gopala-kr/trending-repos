@@ -594,6 +594,7 @@ July - 2019
 - [Two Views of AI Competition Between the US and China](https://www.aitrends.com/ai-national-initiatives/two-views-of-ai-competition-between-the-us-and-china/)
 - [Supply Chain Management Software Suppliers Using AI to Optimize](https://www.aitrends.com/ai-in-industry/supply-chain-management-software-suppliers-using-ai-to-optimize/)
 - [Exploiting Transducers To Break Into AI Systems: Security Issues For Autonomous Cars](https://www.aitrends.com/ai-insider/exploiting-transducers-to-break-into-ai-systems-security-issues-for-autonomous-cars/)
+- [AI beats professionals in six-player poker](https://www.sciencedaily.com/releases/2019/07/190711141343.htm)
 
 -------------------
 
