@@ -603,6 +603,10 @@ July - 2019
 - [Confronting the risks of artificial intelligence](https://www.mckinsey.com/business-functions/mckinsey-analytics/our-insights/confronting-the-risks-of-artificial-intelligence)
 - [Tackling bias in artificial intelligence (and in humans)](https://www.mckinsey.com/featured-insights/artificial-intelligence/tackling-bias-in-artificial-intelligence-and-in-humans)
 - [AI In Numbers: Global Funding, Exits, And R&D Trends In Artificial Intelligence](https://www.cbinsights.com/research/report/ai-in-numbers-q2-2019/)
+- [Best Practices in Machine Learning Infrastructure](https://blog.algorithmia.com/best-practices-in-machine-learning-infrastructure/)
+- [From Crawling to Sprinting: Advances in Natural Language Processing ](https://blog.algorithmia.com/from-crawling-to-sprinting-advances-in-natural-language-processing/)
+- [Use Event-Driven Model Serving on Algorithmia](https://blog.algorithmia.com/use-event-driven-model-serving-on-algorithmia/)
+- [From Jupyter Notebook to Fully Scalable Model—Now a Reality](https://blog.algorithmia.com/from-jupyter-notebook-to-fully-scalable-model-now-a-reality/)
 
 -------------------
 
