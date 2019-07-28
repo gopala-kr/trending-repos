@@ -600,6 +600,9 @@ July - 2019
 - [Artificial intelligence: Why a digital base is critical](https://www.mckinsey.com/business-functions/mckinsey-analytics/our-insights/artificial-intelligence-why-a-digital-base-is-critical)
 - [McKinsey: Real-world AI](https://www.mckinsey.com/featured-insights/artificial-intelligence/five-fifty-real-world-ai)
 - [The real-world potential and limitations of artificial intelligence](https://www.mckinsey.com/featured-insights/artificial-intelligence/the-real-world-potential-and-limitations-of-artificial-intelligence)
+- [Confronting the risks of artificial intelligence](https://www.mckinsey.com/business-functions/mckinsey-analytics/our-insights/confronting-the-risks-of-artificial-intelligence)
+- [Tackling bias in artificial intelligence (and in humans)](https://www.mckinsey.com/featured-insights/artificial-intelligence/tackling-bias-in-artificial-intelligence-and-in-humans)
+
 
 -------------------
 
