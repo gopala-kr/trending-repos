@@ -1925,9 +1925,6 @@ and Able? ](https://www.parliament.uk/documents/lords-committees/Artificial-Inte
 
 [Back to top](#contents)
 
-- [pytorch-image-models](https://github.com/rwightman/pytorch-image-models)
-- [Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning)
-- [pytorch-transformers](https://github.com/huggingface/pytorch-transformers)
 - [ufldl.stanford](http://ufldl.stanford.edu/tutorial/)
 - [deeplearning.stanford](http://deeplearning.stanford.edu/wiki/index.php/UFLDL_Tutorial)
 - [neuralnetworksanddeeplearning](http://neuralnetworksanddeeplearning.com/)
@@ -1982,6 +1979,10 @@ and Able? ](https://www.parliament.uk/documents/lords-committees/Artificial-Inte
  
  [Back to top](#contents)
  
+- [d2l-pytorch](https://github.com/dsgiitr/d2l-pytorch)
+- [pytorch-image-models](https://github.com/rwightman/pytorch-image-models)
+- [Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning)
+- [pytorch-transformers](https://github.com/huggingface/pytorch-transformers)
  - [WaveRNN](https://github.com/fatchord/WaveRNN)
  - [onnxruntime](https://github.com/microsoft/onnxruntime)
  - [The-Flask-Mega-Tutorial-zh](https://github.com/luhuisicnu/The-Flask-Mega-Tutorial-zh)
