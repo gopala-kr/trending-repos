@@ -2000,6 +2000,7 @@ and Able? ](https://www.parliament.uk/documents/lords-committees/Artificial-Inte
  
  [Back to top](#contents)
 
+- [cufflinks](https://github.com/santosjorge/cufflinks) - Productivity Tools for Plotly + Pandas
 - [yolov3](https://github.com/ultralytics/yolov3) - YOLOv3 in PyTorch > ONNX > CoreML > iOS https://www.ultralytics.com
 - [Automagica](https://github.com/OakwoodAI/Automagica) - Open Source (Smart) Robotic Process Automation https://automagica.be
 - [d2l-pytorch](https://github.com/dsgiitr/d2l-pytorch)
