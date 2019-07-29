@@ -2000,6 +2000,7 @@ and Able? ](https://www.parliament.uk/documents/lords-committees/Artificial-Inte
  
  [Back to top](#contents)
 
+- [ModelArts-Lab](https://github.com/huaweicloud/ModelArts-Lab) - ModelArts开发者交流互动平台，@ModelArts服务官网：https://www.huaweicloud.com/product/modelarts.html
 - [introtodeeplearning_labs](https://github.com/aamini/introtodeeplearning_labs)
 - [cufflinks](https://github.com/santosjorge/cufflinks) - Productivity Tools for Plotly + Pandas
 - [yolov3](https://github.com/ultralytics/yolov3) - YOLOv3 in PyTorch > ONNX > CoreML > iOS https://www.ultralytics.com
