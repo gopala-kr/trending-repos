@@ -2002,6 +2002,7 @@ and Able? ](https://www.parliament.uk/documents/lords-committees/Artificial-Inte
  
  [Back to top](#contents)
 
+- [pyfolio](https://github.com/quantopian/pyfolio)
 - [raccoon_dataset](https://github.com/datitran/raccoon_dataset)
 - [MachineLearningNotebooks](https://github.com/Azure/MachineLearningNotebooks)
 - [awesome-architecture](https://github.com/toutiaoio/awesome-architecture)
