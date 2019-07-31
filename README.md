@@ -2002,6 +2002,7 @@ and Able? ](https://www.parliament.uk/documents/lords-committees/Artificial-Inte
  
  [Back to top](#contents)
 
+- [dsc-lambda-functions-lab-online-ds-pt-071519](https://github.com/learn-co-students/dsc-lambda-functions-lab-online-ds-pt-071519)
 - [pyfolio](https://github.com/quantopian/pyfolio)
 - [raccoon_dataset](https://github.com/datitran/raccoon_dataset)
 - [MachineLearningNotebooks](https://github.com/Azure/MachineLearningNotebooks)
