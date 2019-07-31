@@ -607,6 +607,7 @@ July - 2019
 - [From Crawling to Sprinting: Advances in Natural Language Processing ](https://blog.algorithmia.com/from-crawling-to-sprinting-advances-in-natural-language-processing/)
 - [Use Event-Driven Model Serving on Algorithmia](https://blog.algorithmia.com/use-event-driven-model-serving-on-algorithmia/)
 - [From Jupyter Notebook to Fully Scalable Model—Now a Reality](https://blog.algorithmia.com/from-jupyter-notebook-to-fully-scalable-model-now-a-reality/)
+- [Robust Neural Machine Translation](https://ai.googleblog.com/2019/07/robust-neural-machine-translation.html)
 
 -------------------
 
