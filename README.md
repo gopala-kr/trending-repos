@@ -2002,6 +2002,7 @@ and Able? ](https://www.parliament.uk/documents/lords-committees/Artificial-Inte
  
  [Back to top](#contents)
 
+- [awesome-architecture](https://github.com/toutiaoio/awesome-architecture)
 - [Chinese-BERT-wwm](https://github.com/ymcui/Chinese-BERT-wwm)
 - [football](https://github.com/google-research/football)
 - [fairseq](https://github.com/pytorch/fairseq) - Facebook AI Research Sequence-to-Sequence Toolkit written in Python.
