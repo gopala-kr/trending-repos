@@ -2002,6 +2002,7 @@ and Able? ](https://www.parliament.uk/documents/lords-committees/Artificial-Inte
  
  [Back to top](#contents)
 
+- [fairseq](https://github.com/pytorch/fairseq) - Facebook AI Research Sequence-to-Sequence Toolkit written in Python.
 - [antialiased-cnns](https://github.com/adobe/antialiased-cnns)
 - [ModelArts-Lab](https://github.com/huaweicloud/ModelArts-Lab) - ModelArts开发者交流互动平台，@ModelArts服务官网：https://www.huaweicloud.com/product/modelarts.html
 - [introtodeeplearning_labs](https://github.com/aamini/introtodeeplearning_labs)
