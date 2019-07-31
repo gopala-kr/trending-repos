@@ -609,6 +609,9 @@ July - 2019
 - [From Jupyter Notebook to Fully Scalable Model—Now a Reality](https://blog.algorithmia.com/from-jupyter-notebook-to-fully-scalable-model-now-a-reality/)
 - [Robust Neural Machine Translation](https://ai.googleblog.com/2019/07/robust-neural-machine-translation.html)
 - [Google at ACL 2019](https://ai.googleblog.com/2019/07/google-at-acl-2019.html)
+- [Facebook Research at ACL 2019](https://ai.facebook.com/blog/facebook-research-at-acl-2019/)
+- [Facebook Research at SIGGRAPH 2019](https://research.fb.com/blog/2019/07/facebook-research-at-siggraph-2019/)
+
 
 -------------------
 
