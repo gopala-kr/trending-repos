@@ -2002,6 +2002,7 @@ and Able? ](https://www.parliament.uk/documents/lords-committees/Artificial-Inte
  
  [Back to top](#contents)
 
+- [raccoon_dataset](https://github.com/datitran/raccoon_dataset)
 - [MachineLearningNotebooks](https://github.com/Azure/MachineLearningNotebooks)
 - [awesome-architecture](https://github.com/toutiaoio/awesome-architecture)
 - [Chinese-BERT-wwm](https://github.com/ymcui/Chinese-BERT-wwm)
