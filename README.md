@@ -608,6 +608,7 @@ July - 2019
 - [Use Event-Driven Model Serving on Algorithmia](https://blog.algorithmia.com/use-event-driven-model-serving-on-algorithmia/)
 - [From Jupyter Notebook to Fully Scalable Model—Now a Reality](https://blog.algorithmia.com/from-jupyter-notebook-to-fully-scalable-model-now-a-reality/)
 - [Robust Neural Machine Translation](https://ai.googleblog.com/2019/07/robust-neural-machine-translation.html)
+- [Google at ACL 2019](https://ai.googleblog.com/2019/07/google-at-acl-2019.html)
 
 -------------------
 
