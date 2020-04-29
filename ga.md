@@ -5,3 +5,4 @@
 - [dialogflow-response-library-implementation-python-django](https://github.com/pragnakalp/dialogflow-response-library-implementation-python-django)
 - [DialogFlow-fullfillment-read-from-Google-Firestore](https://github.com/jbergant/DialogFlow-fullfillment-read-from-Google-Firestore)
 - [DialogFlow fulfillment —dynamic responses from Google Firestore](https://chatbotslife.com/dialogflow-fulfillment-dynamic-responses-from-google-firestore-20acd19146ee)
+- [How redBus made use of DialogFlow, Whatsapp — to improve Customer Experience](https://medium.com/redbus-in/how-redbus-made-use-of-dialogflow-whatsapp-to-improve-customer-experience-17c95c68af37)
