@@ -30,3 +30,9 @@
 - [140,000 Visuals of Outer Space are Free to the Public in NASA’s Image Library](https://www.thisiscolossal.com/2019/06/nasa-image-library/)
 - [From design to lift-off: blasting experiments into outer space](https://www.nature.com/articles/d41586-019-03097-z)
 - [OUTER SPACE TREATIES DIDN'T ANTICIPATE THE PRIVATIZATION OF SPACE TRAVEL. CAN THEY BE ENFORCED?](https://psmag.com/social-justice/outer-space-treaties-didnt-anticipate-the-privatization-of-space-travel-can-they-be-enforced)
+- [Research suggests that hibernation is a likely option to make deep space exploration a reality](https://phys.org/news/2019-12-hibernation-option-deep-space-exploration.html)
+- [How Many People Have Died in Outer Space?](https://www.discovermagazine.com/the-sciences/how-many-people-have-died-in-outer-space)
+- [The Deep Space Decade: How a New Era of Exploration Came of Age in the 2010s](https://www.popularmechanics.com/space/deep-space/a30305179/deep-space-end-of-decade/)
+- [Humans will ruin outer space just like they’ve ruined everything else](https://qz.com/1734103/will-people-go-to-space-and-then-colonize-it/)
+- [Astrobiologist: Humans Are Going to Ruin Outer Space](https://futurism.com/astrobiologist-humans-ruin-outer-space-law)
+
