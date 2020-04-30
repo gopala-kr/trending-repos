@@ -14,3 +14,9 @@
 - [Dialogflow Enterprise Edition and Actions on Google](https://medium.com/google-cloud/how-to-build-an-app-for-google-assistant-using-dialogflow-enterprise-edition-and-actions-on-google-4413a61d2f2d)
 - [Google Assistant: Best Learning & Help Resources](https://medium.com/google-assistant/google-assistant-best-learning-help-resources-41812fbdef29) :star:
 - [Fixing a few common errors when publishing your Google Assistant App](https://medium.com/voice-tech-podcast/fixing-few-common-errors-when-publishing-your-google-assistant-app-4e15c8b66775) :star:
+- [Creating a NodeJS based Webhook for Intelligent Bots](https://chatbotslife.com/creating-a-nodejs-based-webhook-for-intelligent-bots-a91ecbe33402)
+- [Parameter(s) validation on Dialogflow](https://medium.com/@puuga/parameter-s-validation-on-dialogflow-313141f426cd)
+- [Building a phone assistant with Voximplant and Dialogflow](https://medium.com/@voximplant/building-a-phone-assistant-with-voximplant-and-dialogflow-309435074038)
+- [Building phone assistant with Voximplant Connector for Dialogflow](https://medium.com/@voximplant/building-phone-assistant-with-voximplant-connector-for-dialogflow-80bba89fd6d1)
+- [Benchmarking Named Entity Recognition: StanfordNLP, IBM, spaCy, Dialogflow, and TextSpace](https://towardsdatascience.com/benchmarking-named-entity-recognition-stanfordnlp-ibm-spacy-dialogflow-and-textspace-af6615eb7930)
+- [Best Practices for Managing Dialogflow Intents](https://medium.com/janis/a-strategy-for-managing-dialogflow-intents-when-you-want-to-add-context-98665097e758)
