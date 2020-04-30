@@ -8,3 +8,6 @@
 - [How redBus made use of DialogFlow, Whatsapp — to improve Customer Experience](https://medium.com/redbus-in/how-redbus-made-use-of-dialogflow-whatsapp-to-improve-customer-experience-17c95c68af37)
 - [WhatsApp Chatbot for Business](https://chatbotsmagazine.com/a-step-by-step-guide-to-creating-whatsapp-chatbot-for-business-275dc3924b17)
 - [WhatsApp Business Chatbot](https://marutitech.com/whatsapp-business-chatbot/)
+- [WooCommerce chat bot with Dialogflow and Chatfuel](https://chatbotslife.com/woocommerce-chat-bot-with-dialogflow-and-chatfuel-simple-and-code-free-one-click-api-integration-770a458d0a00)
+- [Integrating Dialogflow as a Chat Bot in an iOS App](https://medium.com/@pallavtrivedi03/integrating-dialogflow-as-a-chat-bot-in-an-ios-app-e66a4c7f2723)
+- [Chatbot with Google Dialogflow and Vision API](https://towardsdatascience.com/add-image-recognition-to-your-chatbot-with-google-dialogflow-and-vision-api-fd45cd0bdd45)
