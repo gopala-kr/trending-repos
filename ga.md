@@ -13,3 +13,4 @@
 - [Chatbot with Google Dialogflow and Vision API](https://towardsdatascience.com/add-image-recognition-to-your-chatbot-with-google-dialogflow-and-vision-api-fd45cd0bdd45)
 - [Dialogflow Enterprise Edition and Actions on Google](https://medium.com/google-cloud/how-to-build-an-app-for-google-assistant-using-dialogflow-enterprise-edition-and-actions-on-google-4413a61d2f2d)
 - [Google Assistant: Best Learning & Help Resources](https://medium.com/google-assistant/google-assistant-best-learning-help-resources-41812fbdef29) :star:
+- [Fixing a few common errors when publishing your Google Assistant App](https://medium.com/voice-tech-podcast/fixing-few-common-errors-when-publishing-your-google-assistant-app-4e15c8b66775) :star:
