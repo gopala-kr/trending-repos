@@ -1,6 +1,8 @@
 ---------
 
-
+- [Upcoming Missions](https://spacexnow.com/upcoming.php)
+- [HOW ROCKETS ARE MADE (Rocket Factory Tour - United Launch Alliance) ](https://www.youtube.com/watch?v=o0fG_lnVhHw)
+- [Elon's SpaceX Tour - Falcon 1, Falcon 9 and Dragon](https://www.youtube.com/watch?v=Nq8HrxfSZMc)
 - [https://business.nt.gov.au/__data/assets/pdf_file/0006/657051/territory-space-industry.pdf](https://business.nt.gov.au/__data/assets/pdf_file/0006/657051/territory-space-industry.pdf)
 - [http://freeamericanetwork.com/morgan-stanley-predicts-space-industry-will-triple-in-size-heres-how-to-invest/](http://freeamericanetwork.com/morgan-stanley-predicts-space-industry-will-triple-in-size-heres-how-to-invest/)
 - [Space industry](https://business.nt.gov.au/developing-industries/space-industry)
@@ -64,3 +66,33 @@
 -------------
 ![RwXavrfkAl6ldCRuLR9W_g](https://miro.medium.com/max/1706/1*RwXavrfkAl6ldCRuLR9W_g.jpeg)
 ------
+Distance in Perspective
+
+-----------
+![pia17046red](https://www.nasa.gov/sites/default/files/styles/full_width_feature/public/pia17046red-full.jpg)
+-------------
+![400](https://exoplanets.nasa.gov/internal_resources/400/)
+-------------
+![diagram](https://www.thefactsite.com/wp-content/uploads/2019/04/54-au-diagram.jpg)
+-------------
+![Rt87iyR](https://i.imgur.com/Rt87iyR.png)
+-------------
+![300_inline_data_SoL_vs_TRAPPIST](https://www.sciencenewsforstudents.org/wp-content/uploads/2019/11/300_inline_data_SoL_vs_TRAPPIST.png)
+-------------
+![7Gdct9VzQFHUYf8Ec8GXmY](https://cdn.mos.cms.futurecdn.net/7Gdct9VzQFHUYf8Ec8GXmY.jpg)
+-------------
+![Image_Three](https://cdn.vox-cdn.com/thumbor/8QHD6h2HaUsNezdJOh7yYbwgYLE=/0x0:3256x1848/1200x0/filters:focal(0x0:3256x1848):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/13442526/Image_Three.png)
+-------------
+![1_Comparison_to_Solar_System_and_Jovian_Moons](https://thumbor.forbes.com/thumbor/711x568/https://blogs-images.forbes.com/startswithabang/files/2017/03/PIA21428_-_TRAPPIST-1_Comparison_to_Solar_System_and_Jovian_Moons-1200x960.jpg?width=960)
+-------------
+![402b6d6357a023af0d2c0e33c042fb4abd6c4598](https://external-preview.redd.it/s_9lqjjaa6jqx6w60R16BMoc4Fr5A1AOkGrSEEiq6Js.jpg?auto=webp&s=402b6d6357a023af0d2c0e33c042fb4abd6c4598)
+-------------
+
+![k0wNMh26t71dDlUz](https://miro.medium.com/max/970/0*k0wNMh26t71dDlUz.jpg)
+
+----------
+![pokaPJOq4sDU5EEP](https://miro.medium.com/max/1000/0*pokaPJOq4sDU5EEP.jpg)
+---------
+------
+
+
