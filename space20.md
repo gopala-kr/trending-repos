@@ -36,3 +36,31 @@
 - [Humans will ruin outer space just like they’ve ruined everything else](https://qz.com/1734103/will-people-go-to-space-and-then-colonize-it/)
 - [Astrobiologist: Humans Are Going to Ruin Outer Space](https://futurism.com/astrobiologist-humans-ruin-outer-space-law)
 
+------------------
+
+![_ZTEMtMGAhPqMFf2yctMmA](https://miro.medium.com/max/592/1*_ZTEMtMGAhPqMFf2yctMmA.png)
+
+---------------
+![xoTgJbt_IxCqwNbp8_PHhw](https://miro.medium.com/max/3176/1*xoTgJbt_IxCqwNbp8_PHhw.jpeg)
+----------------
+![736107main_pia16876b_full](https://images.ctfassets.net/cnu0m8re1exe/49LWxj7hc3uzhtP6wEadvn/99f64bd1e1a140d0701282392a641a2d/736107main_pia16876b_full.png?w=2000&h=433&fit=fill)
+
+---------------
+![20Map_Portrait_Low](https://seraphimcapital.co.uk/sites/default/files/2018/03/19/Seraphim%20SpaceTech%20Map_Portrait_Low%20Res.jpeg)
+------------
+
+![202020_Landscape_watermarked](https://seraphimcapital.co.uk/sites/default/files/2020/01/31/Ecosystem%20Map%202020_Landscape_watermarked.jpg)
+
+----------------------
+![ASCEND_Space_Economy_Infographic](https://mms.businesswire.com/media/20191022005358/en/751106/5/ASCEND_Space_Economy_Infographic+21OCT19.jpg)
+----------------
+![industry](https://freeamericanetwork.com/wp-content/uploads/2017/10/morgan-stanley-predicts-space-industry-will-triple-in-size-heres-how-to-invest.png)
+---------------
+![space](https://business.nt.gov.au/__data/assets/image/0005/653387/space-economy.jpg)
+-----------------
+![history](https://business.nt.gov.au/__data/assets/image/0008/653435/space-history-2.jpg)
+-----------------------
+![7EzTTSNaRR3NItHCff4O6Q](https://miro.medium.com/max/1331/1*7EzTTSNaRR3NItHCff4O6Q.gif)
+-------------
+![RwXavrfkAl6ldCRuLR9W_g](https://miro.medium.com/max/1706/1*RwXavrfkAl6ldCRuLR9W_g.jpeg)
+------
