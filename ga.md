@@ -29,3 +29,4 @@
 - [dialogflow-webhook-response-libary-in-python](https://github.com/pragnakalp/dialogflow-webhook-response-libary-in-python)
 - [Add Rich Response Button Using Dialogflow Fulfillment](https://www.kommunicate.io/blog/rich-message-response-button-dialogflow-fulfillment/)
 - [Advanced SSML for Actions on Google](https://medium.com/google-developers/advanced-ssml-for-actions-on-google-5cea45d868c9)
+- [Query Data Scalably for Actions on Google using Cloud Firestore](https://medium.com/google-developers/do-you-need-to-share-data-between-your-actions-and-your-mobile-and-web-apps-8cf6464d85fd)
