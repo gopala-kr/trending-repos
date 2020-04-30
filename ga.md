@@ -11,3 +11,5 @@
 - [WooCommerce chat bot with Dialogflow and Chatfuel](https://chatbotslife.com/woocommerce-chat-bot-with-dialogflow-and-chatfuel-simple-and-code-free-one-click-api-integration-770a458d0a00)
 - [Integrating Dialogflow as a Chat Bot in an iOS App](https://medium.com/@pallavtrivedi03/integrating-dialogflow-as-a-chat-bot-in-an-ios-app-e66a4c7f2723)
 - [Chatbot with Google Dialogflow and Vision API](https://towardsdatascience.com/add-image-recognition-to-your-chatbot-with-google-dialogflow-and-vision-api-fd45cd0bdd45)
+- [Dialogflow Enterprise Edition and Actions on Google](https://medium.com/google-cloud/how-to-build-an-app-for-google-assistant-using-dialogflow-enterprise-edition-and-actions-on-google-4413a61d2f2d)
+- [Google Assistant: Best Learning & Help Resources](https://medium.com/google-assistant/google-assistant-best-learning-help-resources-41812fbdef29) :star:
