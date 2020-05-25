@@ -1,0 +1,2 @@
+ - [P, NP, NP-Hard and NP-Complete Problems](https://medium.com/@p.yun1994/p-np-np-hard-and-np-complete-problems-fe679bd1cf9c)
+ - [Quantum Computer Architecture Based on Optically Controlled Spins](https://medium.com/@jaisimha34/quantum-computer-architecture-based-on-optically-controlled-spin-mechanics-d66bc08ad7c7)
