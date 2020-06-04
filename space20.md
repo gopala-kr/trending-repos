@@ -1,3 +1,10 @@
+----------------
+
+- [Space calendar 2020: Rocket launches, sky events, missions & more!](https://www.space.com/32286-space-calendar.html)
+- [Launch Schedule 2020](https://spaceflightnow.com/launch-schedule/)
+
+
+
 ---------
 
 - [Upcoming Missions](https://spacexnow.com/upcoming.php)
