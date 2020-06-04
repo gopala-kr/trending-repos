@@ -6,6 +6,9 @@ Space 2020
 - [Launch Schedule 2020](https://spaceflightnow.com/launch-schedule/)
 - [The 20 Biggest Space Missions of the Next Decade](https://www.popularmechanics.com/space/g27392795/space-missions-next-decade/)
 - [Space launch calendar 2020](https://www.rmg.co.uk/discover/explore/space-stargazing/space-exploration/mission-launch-dates-2020)
+- [Space Launch Schedule](https://www.spacelaunchschedule.com/launch-schedule/)
+- [UPCOMING ROCKET LAUNCH LIST](https://spacecoastlaunches.com/blog/launch-list/)
+- [Rocket Launches, Trips to Mars and More 2020 Space and Astronomy Events](https://www.nytimes.com/2020/01/01/science/space-astronomy-2020.html)
 
 ---------
 
