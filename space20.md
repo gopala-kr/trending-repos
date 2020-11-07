@@ -1,4 +1,7 @@
-----------------
+-----------
+- [Celebrating the Institute of Physics at 100: the November 2020 issue of Physics World is now out](https://physicsworld.com/a/a-century-of-change-the-institute-of-physics-turns-100/)
+
+-----------------
 Space 2020
 
 - [2020 in spaceflight](https://en.wikipedia.org/wiki/2020_in_spaceflight)
