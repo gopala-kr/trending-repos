@@ -2,6 +2,7 @@
 - [Celebrating the Institute of Physics at 100: the November 2020 issue of Physics World is now out](https://physicsworld.com/a/a-century-of-change-the-institute-of-physics-turns-100/)
 - [SpaceX Reveals Monthly Cost Of Starlink Internet In Its ‘Better Than Nothing Beta’](https://www.forbes.com/sites/jonathanocallaghan/2020/10/27/spacex-reveals-monthly-cost-of-starlink-internet-in-its-better-than-nothing-betabut-is-it-too-expensive/?sh=7b3ec4564a83)
 - [The Quantum Internet Will Blow Your Mind. Here’s What It Will Look Like](https://www.discovermagazine.com/technology/the-quantum-internet-will-blow-your-mind-heres-what-it-will-look-like)
+- [Microsoft partners with SpaceX to connect Azure cloud to Musk’s Starlink satellite internet](https://www.cnbc.com/2020/10/20/microsoft-expands-its-space-business-pairing-its-azure-cloud-with-spacexs-starlink-internet.html)
 
 -----------------
 Space 2020
