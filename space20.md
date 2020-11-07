@@ -1,5 +1,6 @@
 -----------
 - [Celebrating the Institute of Physics at 100: the November 2020 issue of Physics World is now out](https://physicsworld.com/a/a-century-of-change-the-institute-of-physics-turns-100/)
+- [SpaceX Reveals Monthly Cost Of Starlink Internet In Its ‘Better Than Nothing Beta’](https://www.forbes.com/sites/jonathanocallaghan/2020/10/27/spacex-reveals-monthly-cost-of-starlink-internet-in-its-better-than-nothing-betabut-is-it-too-expensive/?sh=7b3ec4564a83)
 
 -----------------
 Space 2020
