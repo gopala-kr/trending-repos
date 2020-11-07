@@ -4,6 +4,7 @@
 - [The Quantum Internet Will Blow Your Mind. Here’s What It Will Look Like](https://www.discovermagazine.com/technology/the-quantum-internet-will-blow-your-mind-heres-what-it-will-look-like)
 - [Microsoft partners with SpaceX to connect Azure cloud to Musk’s Starlink satellite internet](https://www.cnbc.com/2020/10/20/microsoft-expands-its-space-business-pairing-its-azure-cloud-with-spacexs-starlink-internet.html)
 - [Apple, Google and a Deal That Controls the Internet](https://www.nytimes.com/2020/10/25/technology/apple-google-search-antitrust.html)
+- [Silicon Valley is racing to build the next version of the Internet. Fortnite might get there first.](https://www.washingtonpost.com/video-games/2020/04/17/fortnite-metaverse-new-internet/)
 -----------------
 Space 2020
 
