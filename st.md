@@ -108,6 +108,8 @@
 - [Fighting Hunger and Other Complex Problems with Smart Simplicity](https://www.bcg.com/en-in/publications/2020/fighting-hunger-other-complex-problems-with-smart-simplicity)
 - [Agribusiness Can Lead the Shift to Sustainable Farming](https://www.bcg.com/en-in/publications/2022/agribusiness-and-the-shift-to-sustainable-farming)
 - [The True Cost of Food](https://www.bcg.com/en-in/publications/2020/evaluating-agricultures-environmental-costs)
+- [The Time Is Ripe for Food Traceability](https://www.bcg.com/en-in/publications/2021/food-traceability)
+
 
 ------------------------------
 
