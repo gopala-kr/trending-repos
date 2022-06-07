@@ -105,6 +105,7 @@
 - [Directors Can Up Their Game on Environmental, Social, and Governance Issues](https://www.bcg.com/en-in/featured-insights/bcg-insead-esg-issues-survey-series)
 - [Economic Resilience Is Built on Societal Well-Being](https://www.bcg.com/en-in/publications/2021/prioritizing-societal-well-being-seda-report)
 - [Want to Boost the Global Economy by $5 Trillion? Support Women as Entrepreneurs](https://www.bcg.com/en-in/publications/2019/boost-global-economy-5-trillion-dollar-support-women-entrepreneurs)
+- [Fighting Hunger and Other Complex Problems with Smart Simplicity](https://www.bcg.com/en-in/publications/2020/fighting-hunger-other-complex-problems-with-smart-simplicity)
 
 
 ------------------------------
