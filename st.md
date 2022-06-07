@@ -103,7 +103,7 @@
 - [In the Face of Climate Change, Leaders Act](https://www.bcg.com/en-in/capabilities/social-impact-sustainability/climate)
 - [CO2 AI by BCG: AI for Sustainability](https://www.bcg.com/en-in/beyond-consulting/bcg-gamma/co2-ai-for-sustainability)
 - [Directors Can Up Their Game on Environmental, Social, and Governance Issues](https://www.bcg.com/en-in/featured-insights/bcg-insead-esg-issues-survey-series)
-
+- [Economic Resilience Is Built on Societal Well-Being](https://www.bcg.com/en-in/publications/2021/prioritizing-societal-well-being-seda-report)
 
 ------------------------------
 
