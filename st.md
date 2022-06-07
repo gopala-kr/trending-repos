@@ -93,7 +93,7 @@
 - [Social Impact and Sustainability](https://www.bcg.com/en-in/capabilities/social-impact-sustainability/overview)
 - [BCG’s Approach to Corporate Sustainability](https://www.bcg.com/en-in/capabilities/social-impact-sustainability/approach-to-sustainability)
 - [How Tech Offers a Faster Path to Sustainability](https://www.bcg.com/en-in/publications/2021/how-technology-helps-sustainability-initiatives)
-
+- [It’s Time for Institutional Investors to Embrace the S in ESG](https://www.bcg.com/en-in/capabilities/social-impact-sustainability/insights)
 
 ------------------------------
 
