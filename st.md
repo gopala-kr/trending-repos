@@ -96,6 +96,7 @@
 - [It’s Time for Institutional Investors to Embrace the S in ESG](https://www.bcg.com/en-in/capabilities/social-impact-sustainability/insights)
 - [Sustainability in Retail Is Possible—But There’s Work to Be Done](https://www.bcg.com/en-in/publications/2022/sustainability-in-retail)
 - [The Five Digital Building Blocks of a Corporate Sustainability Agenda](https://www.bcg.com/en-in/publications/2022/building-blocks-of-corporate-sustainability-agenda)
+- [Rich Lesser on Climate, Hard Truths, and Hope](https://www.bcg.com/en-in/podcasts/the-so-what/climate-hope-and-the-hard-truths-with-rich-lesser)
 
 ------------------------------
 
