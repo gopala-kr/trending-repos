@@ -101,7 +101,7 @@
 - [The Secrets of Sustainability Front-Runners](https://www.bcg.com/en-in/publications/2021/keys-to-being-a-leader-in-sustainable-business-model-innovation)
 - [BCG-WEF Project: The Net-Zero Challenge](https://www.bcg.com/en-in/about/partner-ecosystem/world-economic-forum/ceo-guide-net-zero)
 - [In the Face of Climate Change, Leaders Act](https://www.bcg.com/en-in/capabilities/social-impact-sustainability/climate)
-
+- [CO2 AI by BCG: AI for Sustainability](https://www.bcg.com/en-in/beyond-consulting/bcg-gamma/co2-ai-for-sustainability)
 
 ------------------------------
 
