@@ -95,7 +95,7 @@
 - [How Tech Offers a Faster Path to Sustainability](https://www.bcg.com/en-in/publications/2021/how-technology-helps-sustainability-initiatives)
 - [It’s Time for Institutional Investors to Embrace the S in ESG](https://www.bcg.com/en-in/capabilities/social-impact-sustainability/insights)
 - [Sustainability in Retail Is Possible—But There’s Work to Be Done](https://www.bcg.com/en-in/publications/2022/sustainability-in-retail)
-
+- [The Five Digital Building Blocks of a Corporate Sustainability Agenda](https://www.bcg.com/en-in/publications/2022/building-blocks-of-corporate-sustainability-agenda)
 
 ------------------------------
 
