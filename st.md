@@ -98,7 +98,7 @@
 - [The Five Digital Building Blocks of a Corporate Sustainability Agenda](https://www.bcg.com/en-in/publications/2022/building-blocks-of-corporate-sustainability-agenda)
 - [Rich Lesser on Climate, Hard Truths, and Hope](https://www.bcg.com/en-in/podcasts/the-so-what/climate-hope-and-the-hard-truths-with-rich-lesser)
 - [From Compliance to Courage in ESG](https://www.bcg.com/en-in/publications/2022/compliance-to-courage-in-esg)
-
+- [The Secrets of Sustainability Front-Runners](https://www.bcg.com/en-in/publications/2021/keys-to-being-a-leader-in-sustainable-business-model-innovation)
 
 ------------------------------
 
